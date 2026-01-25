@@ -102,6 +102,13 @@
   - International distillation laws (NZ legal, UK/Canada/France prohibited)
   - BJCP/AHA competition labeling requirements
   - 2024 legal developments (Texas ruling, West Virginia law)
+- [x] Equipment guide (resources/equipment-guide.md)
+  - Electric brewing systems: Grainfather G30/G70, Anvil Foundry, Spike Solo, Clawhammer
+  - Temperature control: Inkbird controllers, DIY chest freezer chambers, BrewJacket
+  - Glycol chillers: SS Brewtech, Spike 2.0, Penguin comparison
+  - Digital monitors: Tilt hydrometer, RAPT Pill (Plaato not recommended)
+  - Clawhammer Supply stills: copper kits (1/5/10 gal), stainless/hybrid (8 gal), bubble plate
+  - Selection guides by budget and use case
 
 ## Regional/Legal Considerations
 
@@ -111,10 +118,11 @@
 
 ## Equipment Coverage
 
-- [ ] Electric brewing systems (Grainfather, Anvil, Spike)
-- [ ] All-in-one fermentation temperature controllers
-- [ ] Glycol chilling systems for fermentation
-- [ ] Commercial still designs and safety considerations
+- [x] Electric brewing systems (Grainfather, Anvil, Spike) — resources/equipment-guide.md added
+- [x] All-in-one fermentation temperature controllers — resources/equipment-guide.md added (Inkbird, BrewJacket, DIY chambers)
+- [x] Glycol chilling systems for fermentation — resources/equipment-guide.md added (SS Brewtech, Spike, Penguin)
+- [x] Semi-professional still designs — resources/equipment-guide.md added (Clawhammer Supply copper/stainless/hybrid)
+- [x] Digital fermentation monitors — resources/equipment-guide.md added (Tilt hydrometer, RAPT Pill)
 
 ## TODOs
 

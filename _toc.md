@@ -15,4 +15,5 @@
 | [resources/template.md](resources/template.md) | Recipe templates, calculation worksheets, fermentation logs. |
 | [resources/methodology.md](resources/methodology.md) | Advanced techniques, fermentation science, style-specific methods. |
 | [resources/refractometer-guide.md](resources/refractometer-guide.md) | Refractometer corrections: WCF, alcohol correction formulas, beverage-specific guidance. |
+| [resources/equipment-guide.md](resources/equipment-guide.md) | Equipment guide: electric brewing systems, fermentation temp control, glycol chillers, stills. |
 | [resources/evaluators/rubric_brewery.json](resources/evaluators/rubric_brewery.json) | Quality assessment criteria for fermentation guidance. |
