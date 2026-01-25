@@ -4,7 +4,7 @@
 
 - [x] Wild/sour beer fermentation (Brettanomyces, Lactobacillus, Pediococcus) — wild fermentation module added
 - [x] Specific gravity refractometer corrections (wort vs. wine vs. mead) — resources/refractometer-guide.md added
-- [ ] Country wine specific guidance (non-grape fruit wines)
+- [x] Country wine specific guidance (non-grape fruit wines) — modules/country-wine.md added
 - [x] Barrel aging science and management — oak science covered in wine-science.md (from Smith's *Postmodern Winemaking*)
 - [ ] Commercial-scale considerations and equipment
 
@@ -24,6 +24,19 @@
 
 ## Recently Added (2025-01-24)
 
+- [x] Country wine module (modules/country-wine.md)
+  - Stone fruit wines (apricot, cherry, damson, plum, sloe)
+  - Berry wines (blackberry, blackcurrant, elderberry, gooseberry, raspberry, strawberry)
+  - Pome fruit wines (apple, pear, quince)
+  - Citrus wines (orange, lemon)
+  - Tropical fruit wines (banana, mango)
+  - Flower wines (elderflower, dandelion, rose petal, cowslip, clover, marigold)
+  - Vegetable wines (parsnip, carrot, beetroot, potato, pea pod, marrow)
+  - Grain wines (wheat, barley, raisin)
+  - Herbal wines (nettle, parsley)
+  - Fruit wine science (fermentation, pectin, nitrogen, health benefits)
+  - Troubleshooting guide and reference table
+  - Historical recipes (18th century cowslip wine, oxyat, walnut mead)
 - [x] Milk/cream stout recipes (Left Hand Clone, Korova)
 - [x] Kettle sour recipes (Berliner Weisse, Gose)
 - [x] Fruited sour / sherbet-style template (Mangose, Midwest Fruit Tart)

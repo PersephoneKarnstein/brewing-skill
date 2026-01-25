@@ -7,6 +7,7 @@
 | [modules/mead-science.md](modules/mead-science.md) | Comprehensive mead making: fermentation, nutrients, honey science, yeast selection, troubleshooting. |
 | [modules/distillation-science.md](modules/distillation-science.md) | Distillation fundamentals: still design, spirit runs, cuts, gin & whiskey production. |
 | [modules/wild-fermentation.md](modules/wild-fermentation.md) | Wild/spontaneous fermentation: wild yeast biology, traditional beverages, indigenous beers. |
+| [modules/country-wine.md](modules/country-wine.md) | Country/fruit wine production: stone fruits, berries, flowers, vegetables, grains, troubleshooting. |
 | [modules/legal-considerations.md](modules/legal-considerations.md) | Legal requirements: US federal/state laws, international distillation, competition labeling. |
 | [modules/known-gaps.md](modules/known-gaps.md) | Track missing evidence, unresolved questions, and validation tasks. |
 | [modules/research-checklist.md](modules/research-checklist.md) | Required web research workflow for keeping information current. |
