@@ -408,6 +408,270 @@ Fermentation Project Progress:
 
 ---
 
+## Country Wine Recipe Templates
+
+Country wines (fruit, flower, vegetable, grain wines) follow different conventions than grape wine. These templates are based on traditional British methods.
+
+### Fruit Wine Template
+
+**Wine Name**: ___________
+**Type**: [ ] Stone Fruit | [ ] Berry | [ ] Pome Fruit | [ ] Citrus | [ ] Tropical
+**Volume**: 1 gallon / ___ gallons
+
+**Vital Statistics:**
+| Parameter | Target | Actual |
+|-----------|--------|--------|
+| OG | 1.0XX | |
+| FG | 1.00X | |
+| ABV | XX% | |
+
+### Ingredients
+
+| Ingredient | Amount | Notes |
+|------------|--------|-------|
+| Primary fruit | ___ lb | [Fresh/Frozen] |
+| Sugar | ___ lb | [White/Demerara] |
+| Raisins (optional) | ___ oz | Chopped, for body |
+| Lemon juice | ___ lemons | For acid balance |
+| Water | to 1 gallon | |
+
+### Additives
+
+| Additive | Amount | Timing |
+|----------|--------|--------|
+| Pectin enzyme | 1 tsp | Before fermentation |
+| Yeast nutrient | ½ tsp | At pitch |
+| Campden tablet | 1 crushed | 24h before pitch (optional) |
+| Tannin/cold tea | 1 cup | If needed for body |
+
+### Yeast
+
+**Strain**: ___________ (e.g., Lalvin EC-1118, K1-V1116)
+**Preparation**: [ ] Dry pitch | [ ] Rehydrated | [ ] Starter
+
+### Process Log
+
+| Date | Day | Activity | Gravity | Notes |
+|------|-----|----------|---------|-------|
+| | 0 | Prepare must, add pectin enzyme | | |
+| | 1 | Pitch yeast | | |
+| | 2-7 | Ferment on pulp, stir daily | | |
+| | 7 | Strain, transfer to secondary | | |
+| | 30 | First rack | | |
+| | 60 | Second rack | | |
+| | 90+ | Third rack / bottle | | |
+
+### Method Notes
+
+**Extraction method**: [ ] Boiling | [ ] Hot water steep | [ ] Cold water steep
+**Primary fermentation**: ___ days on pulp
+**Minimum aging**: ___ months
+
+### Tasting Notes
+
+**Appearance**:
+**Aroma**:
+**Flavor**:
+**Balance**:
+**Ready to drink?**: [ ] Yes | [ ] Needs more time
+
+---
+
+### Flower Wine Template
+
+**Wine Name**: ___________
+**Flower Type**: [ ] Elderflower | [ ] Dandelion | [ ] Rose Petal | [ ] Cowslip | [ ] Other: ___
+**Volume**: 1 gallon / ___ gallons
+
+**Vital Statistics:**
+| Parameter | Target | Actual |
+|-----------|--------|--------|
+| OG | 1.085-1.095 | |
+| FG | 0.995-1.005 | |
+| ABV | 11-13% | |
+
+### Ingredients
+
+| Ingredient | Amount | Notes |
+|------------|--------|-------|
+| Flower petals | ___ pints/quarts | Loosely packed |
+| Sugar | 2.5 lb | White sugar for delicate flavor |
+| Raisins | 8-12 oz | Chopped, essential for body |
+| Citrus juice | 2 lemons OR 2 oranges | Required for acid |
+| Water | to 1 gallon | Warm, not boiling |
+
+### Critical Notes for Flower Wines
+
+**Harvest timing**: Early morning after dew dries, at peak bloom
+**Parts to use**: Petals only—remove all green parts (bitter)
+**Water temperature**: Warm (not boiling)—heat destroys aromatics
+
+### Process Log
+
+| Date | Day | Activity | Gravity | Notes |
+|------|-----|----------|---------|-------|
+| | 0 | Pour warm water over petals | | |
+| | 0-4 | Steep, stir daily | | |
+| | 4 | Strain, add sugar/citrus/raisins | | |
+| | 4 | Pitch yeast | | |
+| | 11 | Transfer to secondary | | |
+| | 30 | First rack | | |
+| | 60 | Second rack | | |
+| | 90 | Bottle | | |
+
+### Tasting Notes
+
+**Appearance**:
+**Aroma** (floral character preserved?):
+**Flavor**:
+**Drink by**: ___________ (flower wines best within 1-2 years)
+
+---
+
+### Vegetable Wine Template
+
+**Wine Name**: ___________
+**Vegetable Type**: [ ] Parsnip | [ ] Carrot | [ ] Beetroot | [ ] Potato | [ ] Pea Pod | [ ] Marrow | [ ] Other: ___
+**Volume**: 1 gallon / ___ gallons
+
+**Vital Statistics:**
+| Parameter | Target | Actual |
+|-----------|--------|--------|
+| OG | 1.085-1.100 | |
+| FG | 1.000-1.010 | |
+| ABV | 11-14% | |
+
+### Ingredients
+
+| Ingredient | Amount | Notes |
+|------------|--------|-------|
+| Primary vegetable | 4 lb | Scrubbed, sliced |
+| Sugar | 2.5-3 lb | Demerara adds character |
+| Raisins | 8 oz | Chopped |
+| Lemon juice | 2 lemons | |
+| Root ginger | ½-1 oz | Bruised (optional, traditional) |
+| Water | 1 gallon | |
+
+### Critical Notes for Vegetable Wines
+
+**Cooking**: Boil vegetables until just tender—don't overcook to mush
+**Straining**: Strain immediately after cooking (starch clouds the wine)
+**Vegetable disposal**: Use cooked vegetables for food or discard—they're spent
+
+### Process Log
+
+| Date | Day | Activity | Gravity | Notes |
+|------|-----|----------|---------|-------|
+| | 0 | Boil vegetables until tender | | |
+| | 0 | Strain onto sugar, stir well | | |
+| | 0 | When lukewarm, add citrus + yeast | | |
+| | 1 | Transfer to fermentation jar | | |
+| | 30 | First rack | | |
+| | 60 | Second rack | | |
+| | 90 | Third rack | | |
+| | 180+ | Bottle | | |
+
+### Aging Notes
+
+**Minimum aging**: 6 months
+**Optimal aging**: ___ months/years
+**Character**: [ ] Light/fresh | [ ] Full/sherry-like
+
+---
+
+### Grain Wine Template
+
+**Wine Name**: ___________
+**Grain Type**: [ ] Wheat | [ ] Barley | [ ] Raisin | [ ] Mixed
+**Volume**: 1 gallon / ___ gallons
+
+**Vital Statistics:**
+| Parameter | Target | Actual |
+|-----------|--------|--------|
+| OG | 1.090-1.110 | |
+| FG | 1.005-1.015 | |
+| ABV | 12-14% | |
+
+### Ingredients
+
+| Ingredient | Amount | Notes |
+|------------|--------|-------|
+| Grain/raisins | ___ lb | Wheat/barley crushed; raisins chopped |
+| Additional raisins | ___ lb | For body |
+| Sugar | 2.5 lb | |
+| Citrus | 1 lemon + 1 orange | Rind (thin) and juice |
+| Potato (optional) | 8 oz | Scrubbed, sliced—traditional catalyst |
+| Water | 1 gallon | |
+
+### Method Options
+
+**Barley/Wheat Method**:
+- [ ] Boil grain, strain liquid (cleaner)
+- [ ] Steep grain in warm water 7-14 days (traditional)
+
+**Raisin Wine Method**:
+- Chop raisins, steep 7-14 days, stir daily
+
+### Process Log
+
+| Date | Day | Activity | Gravity | Notes |
+|------|-----|----------|---------|-------|
+| | 0 | Prepare grain/raisins | | |
+| | 0-14 | Steep, stir daily | | |
+| | 14 | Strain, add sugar + citrus | | |
+| | 14 | Pitch yeast | | |
+| | 21-28 | Transfer to secondary | | |
+| | 60 | First rack | | |
+| | 120 | Second rack | | |
+| | 180+ | Bottle | | |
+
+### Tasting Notes
+
+**Character** (compare to): [ ] Sherry-like | [ ] Madeira-like | [ ] Neutral
+**Aging potential**: ___ years
+
+---
+
+### Country Wine Quick Reference
+
+**Sugar amounts by wine type** (per gallon):
+| Type | Sugar | Notes |
+|------|-------|-------|
+| Dry table wine | 2-2.5 lb | OG ~1.085-1.095 |
+| Medium wine | 2.5-3 lb | OG ~1.095-1.105 |
+| Sweet/dessert wine | 3-3.5 lb | OG ~1.105-1.120 |
+
+**Fruit amounts** (per gallon):
+| Fruit Type | Amount | Notes |
+|------------|--------|-------|
+| Stone fruits | 4 lb | Stones removed |
+| Berries (intense) | 3 lb | Elderberry, blackcurrant |
+| Berries (mild) | 4 lb | Blackberry, raspberry |
+| Citrus | 8-12 fruits | Juice + peel (no pith) |
+| Vegetables | 4 lb | |
+| Flowers | 1-2 quarts | Loosely packed |
+
+**Standard additions** (per gallon):
+| Addition | Amount | Purpose |
+|----------|--------|---------|
+| Raisins | 8-12 oz | Body, nutrients, vinosity |
+| Lemon juice | 2 lemons | Acid balance |
+| Pectin enzyme | 1 tsp | Clarity (fruits) |
+| Yeast nutrient | ½ tsp | Healthy fermentation |
+| Cold tea | 1 cup | Tannin (if needed) |
+
+**Aging guidelines**:
+| Wine Type | Minimum | Optimal |
+|-----------|---------|---------|
+| Flower wines | 3 months | 6-12 months |
+| Light fruit (strawberry, raspberry) | 6 months | 12 months |
+| Medium fruit (apple, gooseberry) | 6 months | 12-18 months |
+| Full fruit (elderberry, damson) | 12 months | 2-5 years |
+| Vegetable (parsnip, carrot) | 12 months | 2-3 years |
+| Grain (wheat, barley) | 12 months | 2-3 years |
+
+---
+
 ## Calculation Worksheets
 
 ### ABV Calculator

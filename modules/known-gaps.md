@@ -5,7 +5,7 @@
 - [x] Wild/sour beer fermentation (Brettanomyces, Lactobacillus, Pediococcus) — wild fermentation module added
 - [x] Specific gravity refractometer corrections (wort vs. wine vs. mead) — resources/refractometer-guide.md added
 - [x] Country wine specific guidance (non-grape fruit wines) — modules/country-wine.md added
-- [x] Barrel aging science and management — oak science covered in wine-science.md (from Smith's *Postmodern Winemaking*)
+- [x] Barrel aging science and management — comprehensive module added (modules/barrel-aging.md)
 - [ ] Commercial-scale considerations and equipment
 
 ## Recipe Gaps
@@ -24,6 +24,17 @@
 
 ## Recently Added (2025-01-24)
 
+- [x] Barrel aging module (modules/barrel-aging.md)
+  - Oxygen transfer science (diffusion rates by barrel age/type)
+  - Wood chemistry (extractable compounds, toasting vs charring)
+  - Standard barrel sizes and SA/V ratios
+  - Small barrel considerations for craft distillers
+  - Management protocols (new barrel prep, topping up, racking)
+  - Rotation schedules (wine programs, spirits, solera systems)
+  - Oak alternatives and micro-oxygenation
+  - Barrel care, storage, and reconditioning
+  - Troubleshooting guide
+  - Sources: Handbook of Enology, Jeffery thesis, Oberholster et al., Spillman et al.
 - [x] Country wine module (modules/country-wine.md)
   - Stone fruit wines (apricot, cherry, damson, plum, sloe)
   - Berry wines (blackberry, blackcurrant, elderberry, gooseberry, raspberry, strawberry)
@@ -141,8 +152,8 @@
 
 1. ~~Add wild/sour fermentation module with Brett/LAB management~~ — completed (modules/wild-fermentation.md)
 2. ~~Expand refractometer correction formulas for different beverages~~ — completed (resources/refractometer-guide.md)
-3. Create country wine recipe templates
-4. Add barrel aging protocols and rotation schedules
+3. ~~Create country wine recipe templates~~ — completed (resources/template.md)
+4. ~~Add barrel aging protocols and rotation schedules~~ — completed (modules/barrel-aging.md)
 5. ~~Include grain-free spirit wash recipes (sugar wash, fruit wash)~~ — basics covered in distillation module
 
 ## Research Needed

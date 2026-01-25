@@ -1,6 +1,6 @@
 ---
 name: brewery-and-distillery
-description: Use when brewing beer, making wine or cider, fermenting mead, distilling spirits, calculating alcohol content (ABV/OG/FG), troubleshooting fermentation issues, understanding yeast health, designing recipes, scaling batches, or when users mention brewing, fermentation, hops, malt, grapes, distillation, proof, specific gravity, yeast, ABV, mash, wort, must, or spirits.
+description: Use when brewing beer, making wine or cider (including country/fruit wines), fermenting mead, distilling spirits, barrel aging, calculating alcohol content (ABV/OG/FG), troubleshooting fermentation issues, understanding yeast health, designing recipes, scaling batches, or when users mention brewing, fermentation, hops, malt, grapes, fruit wine, elderberry, dandelion, parsnip wine, barrel aging, oak, distillation, proof, specific gravity, yeast, ABV, mash, wort, must, or spirits.
 ---
 # Brewery and Distillery Assistant
 
@@ -32,21 +32,25 @@ This moves you from following recipes blindly to understanding fermentation prin
 Use this skill when:
 
 - **Brewing beer**: All-grain, extract, or partial mash; any style from lagers to wild ales
-- **Making wine**: Grape, fruit, country wines; primary through aging
+- **Making wine**: Grape wines through aging; wine chemistry, SO₂ management, faults
+- **Country wines**: Fruit wines (berry, stone fruit, citrus), flower wines (elderflower, dandelion), vegetable wines (parsnip, carrot), grain wines
 - **Fermenting mead**: Traditional, melomel, metheglin, braggot; honey selection and nutrient management
 - **Making cider**: Apple selection, tannin balance, carbonation methods
 - **Distilling spirits**: Wash preparation, still operation, cuts, aging, proofing (where legal)
-- **Calculations**: ABV from gravity readings, IBU estimates, dilution math, batch scaling
+- **Barrel aging**: Oak science, oxygen transfer, rotation schedules, alternatives (chips, spirals, MOX)
+- **Wild fermentation**: Spontaneous fermentation, Brett/LAB management, traditional indigenous beverages
+- **Calculations**: ABV from gravity readings, IBU estimates, dilution math, batch scaling, refractometer corrections
 - **Troubleshooting**: Stuck fermentation, off-flavors, contamination diagnosis, clarity issues
 - **Recipe design**: Building grain bills, hop schedules, yeast pairing, water adjustment
-- **Equipment questions**: Fermenters, kettles, stills, hydrometers, refractometers
-- **Ingredient science**: Malt types, hop varieties, yeast strains, adjuncts, oak
+- **Equipment questions**: Fermenters, kettles, stills, electric brewing systems, temperature control, hydrometers, refractometers
+- **Ingredient science**: Malt types, hop varieties, yeast strains (100+ strains documented), adjuncts, oak, honey varietals
+- **Legal considerations**: Distillation laws, homebrew competition labeling, regional regulations
 
-Trigger phrases: "how do I brew", "fermentation", "ABV calculator", "specific gravity", "stuck fermentation", "off-flavor", "hop schedule", "grain bill", "yeast starter", "distilling", "proof", "mead", "cider", "wine making"
+Trigger phrases: "how do I brew", "fermentation", "ABV calculator", "specific gravity", "stuck fermentation", "off-flavor", "hop schedule", "grain bill", "yeast starter", "distilling", "proof", "mead", "cider", "wine making", "country wine", "fruit wine", "elderberry wine", "dandelion wine", "parsnip wine", "flower wine", "barrel aging", "oak aging", "wild fermentation", "spontaneous fermentation", "Brett", "sour beer", "lambic", "refractometer", "honey", "metheglin", "braggot"
 
 ## What Is It?
 
-Brewery and Distillery Assistant is a fermentation guide that teaches through principles, not just steps. Drawing from brewing scientists (Fix, Palmer, White/Zainasheff), winemakers (Peynaud, Robinson), and distillers (Owens, Blue), it provides:
+Brewery and Distillery Assistant is a comprehensive fermentation guide that teaches through principles, not just steps. Drawing from brewing scientists (Fix, Palmer, White/Zainasheff), winemakers (Goode, Smith, Peynaud), mead makers (Schramm), distillers (Owens, Hicks), wild fermentation experts (Katz), and academic research (Handbook of Enology, fruit wine science), it provides:
 
 1. **Why before how**: Science and rationale before procedure
 2. **Precision tools**: Gravity readings, temperature logs, pH monitoring, timing
@@ -180,6 +184,30 @@ Self-assess using [resources/evaluators/rubric_brewery.json](resources/evaluator
 - **Output**: Water profile matched to style + mash pH in range
 - **Example**: Soft water + 8g gypsum per 5 gal = ~150ppm sulfate boost for West Coast IPA
 
+**Pattern 6: Country Wine Production**
+- **Goal**: Make fruit, flower, vegetable, or grain wines (non-grape)
+- **Approach**: Balance sugar, acid, and body that grapes provide naturally
+- **Key elements**:
+  - Sugar: Most fruits need 2-3 lb/gallon added sugar for wine strength
+  - Acid: Lemon juice or acid blend (target pH 3.2-3.5)
+  - Body: Raisins (8-12 oz/gal), grape concentrate, or tannin/tea
+  - Pectin enzyme: Essential for fruit wines to prevent haze
+- **Categories**: Stone fruits, berries, citrus, flowers, vegetables, grains
+- **Output**: Balanced country wine with proper fermentation
+- **Example**: Elderberry wine → 3 lb berries, 3 lb sugar, 8 oz raisins, 1 lemon, pectin enzyme, wine yeast; heat berries; ferment 5 days on pulp; age 2+ years
+
+**Pattern 7: Barrel Aging Management**
+- **Goal**: Age wine or spirits in oak barrels with proper protocols
+- **Approach**: Manage oxygen exposure, extraction, and maintenance
+- **Key elements**:
+  - Oxygen transfer: 1.66-2.5 mL/L/month (new French oak)
+  - Temperature: 12-18°C (54-64°F) optimal; avoid >25°C
+  - Topping up (wine): Every 2 weeks initially, monthly later
+  - Rotation: 4-5 year program typical; new → used → neutral → retire
+- **Alternatives**: Oak chips (2-4 weeks), spirals (6-10 weeks), micro-oxygenation
+- **Output**: Properly aged product with controlled oak influence
+- **Example**: Barrel program → 25% new barrels annually, best lots to new wood, cascade older barrels, retire at 4-5 years
+
 ## Guardrails
 
 **Critical requirements:**
@@ -213,14 +241,26 @@ Self-assess using [resources/evaluators/rubric_brewery.json](resources/evaluator
 
 **Key resources:**
 
-- **[resources/recipes.md](resources/recipes.md)**: Curated recipes from AHA — IPAs, stouts, porters, pilsners, hefeweizen, and meads
-- **[resources/yeast-guide.md](resources/yeast-guide.md)**: Comprehensive yeast reference — strains from 10 manufacturers, specs, equivalencies, selection by style
-- **[resources/template.md](resources/template.md)**: Recipe templates, calculation worksheets, fermentation logs, troubleshooting guides
+- **[resources/recipes.md](resources/recipes.md)**: Curated recipes — IPAs, stouts, porters, pilsners, Belgian styles, English styles, lagers, historical ales, meads, ciders
+- **[resources/yeast-guide.md](resources/yeast-guide.md)**: Comprehensive yeast reference — 100+ strains from 11 manufacturers (Wyeast, White Labs, Omega, Imperial, Lallemand, Fermentis, etc.), specs, equivalencies, selection by style, kveik strains
+- **[resources/template.md](resources/template.md)**: Recipe templates for beer, wine, mead, spirits, and country wines; calculation worksheets; fermentation logs
 - **[resources/methodology.md](resources/methodology.md)**: Advanced fermentation science, professional techniques, style guides, chemistry deep-dives
-- **[modules/wine-science.md](modules/wine-science.md)**: Wine fermentation science — yeasts, SO₂, flavor chemistry, faults, sweet wines, advanced oak science, Brettanomyces management (from Goode's *Science of Wine* and Smith's *Postmodern Winemaking*)
-- **[modules/mead-science.md](modules/mead-science.md)**: Comprehensive mead making — fermentation phases, nutrient management (Morse & Steinkraus research), honey science, varietal honeys, yeast selection, troubleshooting (from Schramm's *The Compleat Meadmaker*)
-- **[modules/distillation-science.md](modules/distillation-science.md)**: Distillation fundamentals — still design, spirit runs, cuts, gin & whiskey production (from Hicks/Parsons and Owens/Dikty)
-- **[modules/wild-fermentation.md](modules/wild-fermentation.md)**: Wild/spontaneous fermentation — wild yeast biology, traditional meads/wines/ciders, indigenous grain beers (from Katz's *Wild Fermentation* and *Art of Fermentation*)
+- **[resources/refractometer-guide.md](resources/refractometer-guide.md)**: Refractometer corrections — WCF determination, alcohol correction formulas (Terrill, Novotný), beverage-specific guidance
+- **[resources/equipment-guide.md](resources/equipment-guide.md)**: Equipment recommendations — electric brewing systems (Grainfather, Anvil, Spike), fermentation temp control, glycol chillers, digital monitors, stills
+
+**Science modules:**
+
+- **[modules/core-guidance.md](modules/core-guidance.md)**: Core fermentation principles, yeast biology, production fundamentals
+- **[modules/wine-science.md](modules/wine-science.md)**: Wine fermentation science — yeasts, SO₂, flavor chemistry, faults, sweet wines, oak science, Brettanomyces management (from Goode's *Science of Wine* and Smith's *Postmodern Winemaking*)
+- **[modules/mead-science.md](modules/mead-science.md)**: Comprehensive mead making — fermentation phases, nutrient management (TOSNA), honey science, 15+ varietal honeys, yeast selection, troubleshooting (from Schramm's *The Compleat Meadmaker*)
+- **[modules/distillation-science.md](modules/distillation-science.md)**: Distillation fundamentals — still design (pot, column, reflux), spirit runs, cuts, gin botanicals, whiskey production (from Hicks/Parsons and Owens/Dikty)
+- **[modules/wild-fermentation.md](modules/wild-fermentation.md)**: Wild/spontaneous fermentation — wild yeast biology, traditional meads (t'ej, balché), lambic process, indigenous grain beers (tesgüino, chicha, kvass) (from Katz's *Wild Fermentation* and *Art of Fermentation*)
+- **[modules/country-wine.md](modules/country-wine.md)**: Country wine production — stone fruits, berries, citrus, tropical fruits, flower wines, vegetable wines, grain wines; 50+ recipes with science (from traditional British sources and *Science and Technology of Fruit Wine Production*)
+- **[modules/barrel-aging.md](modules/barrel-aging.md)**: Barrel aging science — oxygen transfer rates, wood chemistry, toasting vs charring, management protocols, rotation schedules, solera systems, oak alternatives (from *Handbook of Enology*, Jeffery thesis, Oberholster et al.)
+- **[modules/legal-considerations.md](modules/legal-considerations.md)**: Legal requirements — US federal/state distillation laws, international regulations, homebrew competition labeling (BJCP/AHA rules)
+
+**Evaluation:**
+
 - **[resources/evaluators/rubric_brewery.json](resources/evaluators/rubric_brewery.json)**: Quality criteria for fermentation guidance and execution
 
 **Essential formulas:**
@@ -281,12 +321,13 @@ Self-assess using [resources/evaluators/rubric_brewery.json](resources/evaluator
 
 **When to escalate:**
 
-- Commercial production licensing and regulations
-- Complex water chemistry beyond basic adjustments
-- Barrel aging programs and blending at scale
+- Commercial-scale production licensing and equipment
+- Complex water chemistry beyond basic adjustments (consult Bru'n Water or similar tools)
 - Medical concerns about alcohol consumption
-- Legal questions about distillation permits
+- Specific legal questions about permits in your jurisdiction
 → Consult specialized resources, regulatory bodies, or professionals
+
+**Full module index:** See **[_toc.md](_toc.md)** for complete table of contents with all modules and resources.
 
 **Inputs required:**
 
