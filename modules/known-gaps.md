@@ -3,7 +3,7 @@
 ## Critical Gaps
 
 - [x] Wild/sour beer fermentation (Brettanomyces, Lactobacillus, Pediococcus) — wild fermentation module added
-- [ ] Specific gravity refractometer corrections (wort vs. wine vs. mead)
+- [x] Specific gravity refractometer corrections (wort vs. wine vs. mead) — resources/refractometer-guide.md added
 - [ ] Country wine specific guidance (non-grape fruit wines)
 - [x] Barrel aging science and management — oak science covered in wine-science.md (from Smith's *Postmodern Winemaking*)
 - [ ] Commercial-scale considerations and equipment
@@ -90,12 +90,24 @@
   - Graceful aging principles (phenolic polymerization, reductive strength)
   - Integrated Brettanomyces Management (IBM) protocol
   - Oak vessel comparison (barrels vs. staves vs. chips)
+- [x] Refractometer corrections guide (resources/refractometer-guide.md)
+  - Wort correction factor (WCF) determination
+  - Sean Terrill and Novotný alcohol correction formulas
+  - Beverage-specific guidance (beer, wine, mead, cider)
+  - Online calculator references
+- [x] Legal considerations module (modules/legal-considerations.md)
+  - US federal law (beer/wine legal, distillation prohibited)
+  - TTB penalties and requirements
+  - State-by-state variations (29 states allow competition transport)
+  - International distillation laws (NZ legal, UK/Canada/France prohibited)
+  - BJCP/AHA competition labeling requirements
+  - 2024 legal developments (Texas ruling, West Virginia law)
 
 ## Regional/Legal Considerations
 
-- [ ] Distillation legality varies by jurisdiction—need country/state-specific guidance
-- [ ] Alcohol labeling requirements for homebrew competitions
-- [ ] Home winemaking regulations in various regions
+- [x] Distillation legality varies by jurisdiction — modules/legal-considerations.md added (US federal/state, international)
+- [x] Alcohol labeling requirements for homebrew competitions — modules/legal-considerations.md added (BJCP/AHA rules)
+- [x] Home winemaking regulations in various regions — modules/legal-considerations.md added (federal limits, state variations)
 
 ## Equipment Coverage
 
@@ -107,7 +119,7 @@
 ## TODOs
 
 1. ~~Add wild/sour fermentation module with Brett/LAB management~~ — completed (modules/wild-fermentation.md)
-2. Expand refractometer correction formulas for different beverages
+2. ~~Expand refractometer correction formulas for different beverages~~ — completed (resources/refractometer-guide.md)
 3. Create country wine recipe templates
 4. Add barrel aging protocols and rotation schedules
 5. ~~Include grain-free spirit wash recipes (sugar wash, fruit wash)~~ — basics covered in distillation module
