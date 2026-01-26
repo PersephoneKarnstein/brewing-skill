@@ -873,6 +873,63 @@ A spiced braggot paying homage to historical English braggots that used spices i
 
 ---
 
+### Modern Braggot: Brown Ale Base
+
+*Source: [AHA - Braggot: The Best of Mead and Beer](https://homebrewersassociation.org/how-to-brew/braggot-the-best-of-mead-and-beer/) and [Home Brew Answers](https://homebrewanswers.com/making-a-braggot-recipe/)*
+
+A modern approach to braggot—honey added to a proven beer recipe for a balanced hybrid.
+
+| Parameter | Value |
+|-----------|-------|
+| Batch Size | 5 gallons (18.9 L) |
+| OG | 1.075-1.085 |
+| FG | 1.012-1.018 |
+| ABV | 8-9% |
+| IBU | 20-25 |
+
+**Grain Bill:**
+- 8 lb (3.6 kg) Maris Otter pale malt
+- 1 lb (454 g) Crystal 60L
+- 8 oz (227 g) Chocolate malt
+- 4 oz (113 g) Victory/Biscuit malt
+
+**Honey (add post-boil):**
+- 2 lb (907 g) Varietal honey (wildflower, orange blossom, or clover)
+
+**Hop Schedule:**
+| Hops | Amount | Time | AA% |
+|------|--------|------|-----|
+| Fuggles | 1 oz | 60 min | 4.5% |
+| Tettnang | 0.5 oz | 15 min | 4% |
+
+**Yeast:** English ale yeast (WLP002) or alcohol-tolerant wine yeast (Lalvin 71B)
+
+**Process:**
+1. Mash at 154°F (68°C) for 60 minutes
+2. 60-minute boil with hop additions
+3. Chill wort to 80°F (27°C)
+4. **Add honey to warm wort** (preserves aroma, pasteurizes honey)
+5. Stir thoroughly to dissolve
+6. Cool to 65°F (18°C), pitch yeast
+7. Ferment at 65-68°F for 2-3 weeks
+8. Secondary 2-4 weeks
+9. Bottle or keg; age 2-6 months for best results
+
+**Step-Feeding Variation (for higher ABV):**
+1. Ferment base beer to near completion
+2. Add 1 lb honey, let ferment out
+3. Repeat until desired strength (reduces yeast stress)
+
+**Key tips:**
+- Add honey **after cooling wort** to 180°F or below to preserve aromatics
+- Low hop rates let both malt and honey shine
+- Use gentle, low-alpha hops (Fuggles, Tettnang, Willamette)
+- Wine yeast may leave sweeter finish (struggles with maltose)
+- Start with 1-2 lb honey per 5 gallons; increase next batch if desired
+- Extended aging (6+ months) dramatically improves braggots
+
+---
+
 ## Historical Beer Recipes
 
 ### Ancient Egyptian Ale: Pharaoh Ale
@@ -1066,6 +1123,271 @@ An "imperial" strength kvass (4% ABV) using homemade rye bread and soured wort.
 6. Cool, ferment at 65°F (18°C)
 
 **Historical context:** Traditional kvass was <2% ABV, made from stale bread with spontaneous fermentation. This modernized version uses cultured yeast and soured wort for consistent tartness.
+
+---
+
+### Finnish Sahti: Ghost of Karelia
+
+*Source: [Brewing Nordic](https://www.brewingnordic.com/farmhouse-ales/sahti-recipe/), [AHA](https://homebrewersassociation.org/how-to-brew/sahti-one-of-the-worlds-oldest-beer-styles/), and [Growler Mag](https://www.growlermag.com/homebrew-recipe-ghost-of-karelia-sahti/)*
+
+One of the world's oldest continuously-brewed beer styles—cloudy, strong, with banana/clove and juniper character.
+
+| Parameter | Value |
+|-----------|-------|
+| Batch Size | 5 gallons (18.9 L) |
+| OG | 1.090-1.120 |
+| FG | 1.020-1.030 |
+| ABV | 8-11% |
+| IBU | 0-7 |
+| SRM | 10-20 |
+
+**Grain Bill:**
+- 8 lb (3.6 kg) Pilsner malt
+- 3 lb (1.4 kg) Munich malt
+- 2 lb (907 g) Rye malt
+- 8 oz (227 g) Crystal 50L
+- 4 oz (113 g) Flaked wheat
+
+**Juniper (essential):**
+- 2-4 oz (57-113 g) Juniper berries
+- Juniper branches for lautering (traditional) OR add branches to mash
+
+**Hops (optional, non-traditional):**
+| Hops | Amount | Time |
+|------|--------|------|
+| Hallertau (if using) | 0.5 oz | 15 min |
+
+**Yeast:**
+- Traditional: Finnish baker's yeast (Suomen Hiiva)
+- Substitute: Wyeast 3068 Weihenstephan Weizen or WLP300 Hefeweizen
+
+**Process:**
+1. **Traditional: No boil** (or minimal 15-minute boil)
+2. Line lauter tun with juniper branches (traditional kuurna)
+3. Mash at 150-155°F (66-68°C) for 90 minutes
+4. Add juniper berries to mash for final 30 minutes
+5. Sparge through juniper branches
+6. If boiling: brief 15-minute boil only
+7. Cool to 70°F (21°C), pitch yeast
+8. Ferment warm (68-72°F) for 5-7 days
+9. **Serve young and fresh** (within 1-2 weeks)
+10. Keep refrigerated—no preservatives from hops
+
+**Key tips:**
+- Traditionally unboiled—natural lactobacillus may contribute slight sourness
+- Hefeweizen yeast provides signature banana/clove esters
+- Juniper adds pine/berry character and some antimicrobial protection
+- Cloudy, unfiltered presentation is authentic
+- Best consumed fresh; does not keep well
+
+---
+
+### Gruit Ale: Herbal Medieval Ale
+
+*Source: [Maltose Falcons](https://www.maltosefalcons.com/blogs/brewing-techniques-tips/brewing-beer-without-hops-gruit-ales), [Brew Your Own](https://byo.com/recipes/gruit-ale-2/), and [Grainfather](https://us.grainfather.com/blogs/recipes/brewing-a-gruit)*
+
+A pre-hop herbal ale using the traditional gruit mixture—yarrow, bog myrtle, and wild rosemary.
+
+| Parameter | Value |
+|-----------|-------|
+| Batch Size | 5 gallons (18.9 L) |
+| OG | 1.055 |
+| FG | 1.012 |
+| ABV | 5.6% |
+| IBU | 0 (no hops) |
+| SRM | 8-12 |
+
+**Grain Bill:**
+- 8.8 lb (4 kg) Munich malt
+- 14 oz (400 g) Smoked malt (optional, adds complexity)
+
+**Gruit Herb Blend:**
+
+*Traditional (choose 2-3):*
+- 1 oz (28 g) Dried yarrow leaves
+- 0.5 oz (14 g) Bog myrtle (sweet gale)
+- 0.25 oz (7 g) Wild rosemary (Labrador tea)
+
+*Alternative herbs:*
+- 0.5 oz (14 g) Mugwort
+- 0.25 oz (7 g) Dried rosemary
+- 0.25 oz (7 g) Heather tips
+- 0.1 oz (3 g) Juniper berries
+
+**Herb Schedule:**
+| Herbs | Amount | Addition |
+|-------|--------|----------|
+| Yarrow | 0.5 oz | Mash (60 min) |
+| Yarrow | 0.3 oz | Boil (45 min) |
+| Rosemary or Bog myrtle | 0.25 oz | Boil (10 min) |
+| Yarrow | 0.2 oz | Primary fermentation |
+
+**Yeast:** English ale yeast (WLP013, Wyeast 1028, or SafAle S-04)
+
+**Process:**
+1. Add half the yarrow to the mash
+2. Mash at 149°F (65°C) for 60 minutes
+3. 60-minute boil with herb additions per schedule
+4. Cool to 65°F (18°C), pitch yeast
+5. Add remaining herbs to primary after 2-3 days
+6. Ferment 10-14 days at 65-68°F
+7. Condition 2-4 weeks before serving
+
+**Key tips:**
+- **Limit to 5 or fewer herbs** per batch—too many creates a muddy flavor
+- **Test herbs as tea first**—if harsh as tea, harsh in beer
+- Start conservative with amounts; can always add more next batch
+- Herbs go in mash, boil, AND primary for layered complexity
+- No bittering hops—herbs provide the balancing bitterness
+- *Sacred and Herbal Healing Beers* by Stephen Buhner is the definitive reference
+
+---
+
+### Grodziskie (Grätzer): Polish Champagne
+
+*Source: [Craft Beer & Brewing](https://www.beerandbrewing.com/make-your-best-gratzer), [Brew Your Own](https://byo.com/articles/piwo-grodziskie/), and [AHA](https://homebrewersassociation.org/how-to-brew/gratzer-revitalizing-a-polish-ale/)*
+
+A light, refreshing, oak-smoked wheat beer nicknamed "Polish Champagne" for its high carbonation.
+
+| Parameter | Value |
+|-----------|-------|
+| Batch Size | 5.5 gallons (21 L) |
+| OG | 1.032 |
+| FG | 1.008 |
+| ABV | 3.2% |
+| IBU | 28 |
+| SRM | 4 |
+
+**Grain Bill:**
+- 6 lb (2.7 kg) Weyermann Oak-smoked wheat malt (100%)
+- 2 oz (57 g) Acidulated malt (for pH adjustment)
+
+**Hop Schedule:**
+| Hops | Amount | Time | AA% |
+|------|--------|------|-----|
+| Perle | 1 oz | 60 min | 7.5% |
+| Perle | 0.5 oz | 15 min | 7.5% |
+
+**Alternative hops:** Saaz, Lublin (Lubelski), Tettnanger
+
+**Yeast:** Clean ale yeast (Safale US-05, or German ale)
+
+**Process:**
+1. Mash at 150°F (66°C) for 60 minutes
+2. 60-minute boil
+3. Cool to 64°F (18°C), pitch yeast
+4. Ferment at 64°F for 14 days
+5. Cold crash at 38°F (3°C) for 3-5 days
+6. Fine with gelatin for **crystal clarity**
+7. **Carbonate high:** 3.0-3.5 volumes CO₂
+
+**Key tips:**
+- Must use **oak-smoked** wheat malt (Weyermann makes it specifically for this style)
+- Oak smoke is different from beechwood—drier, crisper, NO bacon/ham flavor
+- Despite 100% wheat, this beer must be **crystal clear**—use finings, cold crash, or filter
+- High carbonation is essential—use heavy bottles or keg
+- Light and sessionable—perfect summer beer
+
+---
+
+### Ethiopian T'ej (Honey Wine)
+
+*Source: [Ethiopian T'ej Blog](https://ethiopiantej.wordpress.com/), [Brundo Spice](https://www.brundo.com/blogs/recipes/tej-traditional-ethiopian-honey-wine), and [Batch Mead](https://www.batchmead.com/blogs/batch/ethiopian-honey-wine-tej)*
+
+Ethiopia's national drink—a honey wine similar to mead but fermented with gesho (Ethiopian buckthorn).
+
+| Parameter | Value |
+|-----------|-------|
+| Batch Size | 1 gallon (3.8 L) |
+| OG | ~1.100 |
+| ABV | 7-11% |
+| Fermentation | 15-21 days |
+
+**Ingredients:**
+- 3 lb (1.4 kg) Raw honey
+- 1 gallon (3.8 L) Water
+- 2 oz (57 g) Gesho stems/sticks (Rhamnus prinoides) — **essential**
+- Optional: 0.5 oz (14 g) Gesho leaves (kitel)
+
+**Process:**
+1. Soak gesho stems in 2 cups water for 2-3 days (develops starter culture)
+2. Combine honey and remaining water in fermentation vessel
+3. Add gesho and soaking liquid
+4. Cover loosely (traditional) or use airlock
+5. Ferment at room temperature (68-75°F) for 15-21 days
+6. Stir daily for first week
+7. Strain out gesho when desired sweetness/strength reached
+8. **Serve young** — traditional T'ej is consumed fresh
+
+**Scaling to 5 gallons:**
+- 15 lb (6.8 kg) honey
+- 5 gallons water
+- 8-10 oz (227-283 g) gesho stems
+
+**Key tips:**
+- Gesho is essential and unique—provides bitterness and wild yeast/bacteria
+- Available from Ethiopian grocers or online specialty shops
+- Fermentation starts from wild microbes on gesho—no added yeast traditionally
+- For reliability, add wine yeast (Lalvin 71B) after gesho soaks
+- T'ej ranges from sweet to dry depending on fermentation length
+- Traditional vessels are smoked with olive wood (optional for authenticity)
+
+---
+
+### Ethiopian T'alla (Traditional Beer)
+
+*Source: [Ethiopian Food Blog](https://ethiopianfood.wordpress.com/2011/02/18/talla-tell-al/)*
+
+The traditional Ethiopian beer that forms the base for T'ej—made from barley, wheat, and gesho.
+
+| Parameter | Value |
+|-----------|-------|
+| Batch Size | 1 gallon (3.8 L) |
+| ABV | 2-4% |
+| Style | Farmhouse grain beer |
+
+**Ingredients:**
+- 1 lb (454 g) Barley flour
+- 8 oz (227 g) Whole wheat berries
+- 1 oz (28 g) Gesho leaves or powder
+- 1 gallon (3.8 L) Water
+
+**Process (Traditional):**
+
+*Day 1-3: Prepare gesho water*
+1. Soak gesho leaves in 2 cups water for 3 days
+
+*Day 1-4: Sprout wheat*
+1. Soak wheat berries in water for 24 hours
+2. Drain and spread on damp cloth
+3. Keep moist, allow to sprout 2-3 days
+
+*Day 4: Prepare wheat*
+1. Toast sprouted wheat in dry pan until slightly crispy
+2. Add to gesho water
+
+*Day 4-5: Prepare barley*
+1. Mix barley flour with water to form thick batter
+2. Spread on baking sheet
+3. Bake at 350°F until starting to dry (not fully baked)
+4. Crumble into pieces
+
+*Day 5+: Ferment*
+1. Combine all components in fermentation vessel
+2. Add remaining water
+3. Ferment 3-5 days at room temperature
+4. Strain through cloth when ready
+
+**T'alla to T'ej conversion:**
+- T'alla becomes T'ej when honey is added and fermented further
+- Add 1-2 lb honey per gallon of T'alla
+- Continue fermenting 1-2 weeks
+
+**Key tips:**
+- Complex multi-day process—plan ahead
+- Gesho provides both fermentation culture and bitter balance
+- Result is thick, slightly sour, with grain sediment
+- Traditionally consumed young at family celebrations
 
 ---
 
@@ -1286,6 +1608,106 @@ A classic farmhouse ale with orange peel accent—dry, complex, and aromatic.
 
 ## German Lager Styles
 
+### Schwarzbier: May the Schwarzbier With You
+
+*Source: [Brülosophy](https://brulosophy.com/recipes/may-the-schwarzbier-with-you/) and [Great Fermentations](https://www.greatfermentations.com/schwarztastic-schwarzbier-recipe/)*
+
+A deceptively dark German lager—black in color but light in body with no roast harshness.
+
+| Parameter | Value |
+|-----------|-------|
+| Batch Size | 5 gallons (18.9 L) |
+| OG | 1.052 |
+| FG | 1.012 |
+| ABV | 5.2% |
+| IBU | 27 |
+| SRM | 26 |
+
+**Grain Bill:**
+- 7 lb 5 oz (3.3 kg) German Pilsner malt (70%)
+- 2 lb (907 g) Munich malt 10L (19%)
+- 8 oz (227 g) Carafa II (dehusked) (4.8%)
+- 6 oz (170 g) Crystal 60L (3.6%)
+- 4 oz (113 g) Chocolate malt (2.4%)
+
+**Hop Schedule:**
+| Hops | Amount | Time | AA% |
+|------|--------|------|-----|
+| Magnum/Warrior/Galena | ~0.5 oz | 60 min | ~12% (21 IBU) |
+| Saaz | 1 oz (28 g) | 15 min | 3.5% |
+
+**Yeast:** German lager yeast (Saflager W-34/70, Wyeast 2206 Bavarian, or WLP830)
+
+**Process:**
+1. Mash at 152°F (67°C) for 60 minutes
+2. **90-minute boil** (essential for Pilsner malt DMS removal)
+3. Chill to 56°F (13°C), pitch healthy lager yeast
+4. Ferment at 58°F (14°C) for 4-5 days
+5. Ramp to 65°F (18°C) for diacetyl rest (2-3 days)
+6. Cold crash 48+ hours
+7. Lager at 34°F (1°C) for 4+ weeks
+
+**Key tips:**
+- Use **dehusked** dark malts (Carafa I, II, or III) for color without roast
+- "Mash cap" technique: add specialty malts in last 15 minutes to reduce astringency
+- Balance is key—should taste like a dark Pilsner, not a stout
+
+---
+
+### Munich Dunkel: Tara's Slam Dunkel
+
+*Source: [Adventures in Homebrewing](https://blog.homebrewing.org/munich-dunkel-lager-recipe-all-grain/) and [Homebrew Academy](https://homebrewacademy.com/munich-dunkel-recipe/)*
+
+The original brown lager of Bavaria—deeply bready-toasty with chocolate-like flavors but never harsh.
+
+| Parameter | Value |
+|-----------|-------|
+| Batch Size | 5 gallons (18.9 L) |
+| OG | 1.055 |
+| FG | 1.014 |
+| ABV | 5.4% |
+| IBU | 20 |
+| SRM | 17-20 |
+
+**Grain Bill:**
+- 8 lb (3.6 kg) Munich malt II (Weyermann recommended)
+- 2 lb (907 g) Wheat malt
+- 4 oz (113 g) Chocolate malt
+
+**Hop Schedule:**
+| Hops | Amount | Time | AA% |
+|------|--------|------|-----|
+| Hallertau Mittlefrüh | 0.66 oz | 45 min | 4% |
+| Hallertau Mittlefrüh | 0.33 oz | 15 min | 4% |
+
+**Yeast:** Wyeast 2206 Bavarian Lager (2 packets or starter)
+
+**Traditional Decoction Mash:**
+1. Mash in at 122°F (50°C), rest 30 minutes
+2. Remove ⅓ mash, raise to 158°F (70°C), rest 20 minutes
+3. Boil decoction 20 minutes
+4. Return to main mash (should hit ~149°F / 65°C)
+5. Remove ⅓ again, bring to boil
+6. Return to raise mash to 158°F (70°C)
+7. Sparge at 167°F (75°C)
+
+**Simplified Single Infusion:**
+1. Mash at 154°F (68°C) for 60 minutes
+2. Mash out at 170°F (77°C)
+
+**Fermentation:**
+1. Pitch at 50°F (10°C)
+2. Ferment 14 days at 55°F (13°C)
+3. Transfer to secondary, lager at 41°F (5°C) for 3 weeks minimum
+4. Carbonate to 2.4 volumes CO₂
+
+**Key tips:**
+- Can use up to 100% Munich malt (check enzyme content)
+- At least 90-minute boil for color development if not decocting
+- "Soft rich flavor of fresh bread" is the target
+
+---
+
 ### Bock: Prost Bock
 
 *Source: [AHA - Prost Bock](https://homebrewersassociation.org/homebrew-recipe/prost-bock/)*
@@ -1410,6 +1832,94 @@ The definitive ESB—Fuller's has won more CAMRA awards than any other beer and 
 6. Condition 30 days before serving
 
 **Extract Option:** Substitute 8 lb pale malt extract syrup for English pale malt.
+
+---
+
+### English Ordinary Bitter: Gregory's Extraordinary Bitter
+
+*Source: [Homebrew Academy](https://homebrewacademy.com/ordinary-bitter-recipe/), [Craft Beer & Brewing](https://www.beerandbrewing.com/make-your-best-bitter), and [Growler Mag](https://growlermag.com/homebrew-recipe-extraordinary-ordinary-bitter/)*
+
+A classic session beer—firmly bitter but balanced, meant for multiple pints.
+
+| Parameter | Value |
+|-----------|-------|
+| Batch Size | 5 gallons (18.9 L) |
+| OG | 1.038 |
+| FG | 1.010 |
+| ABV | 3.7% |
+| IBU | 32 |
+| SRM | 9 |
+
+**Grain Bill:**
+- 6.5 lb (2.9 kg) Maris Otter pale malt
+- 8 oz (227 g) Crystal 60L
+- 2 oz (57 g) Torrified wheat
+- 1 oz (28 g) Roasted barley (for color)
+
+**Hop Schedule:**
+| Hops | Amount | Time | AA% |
+|------|--------|------|-----|
+| Challenger | 0.75 oz | 60 min | 7.5% |
+| Kent Goldings | 1 oz | 15 min | 5% |
+
+**Yeast:** Wyeast 1318 London Ale III or 1275 Thames Valley Ale
+
+**Process:**
+1. Mash at **156°F (69°C)** for 60 minutes (higher temp for body at low OG)
+2. 60-minute boil
+3. Ferment at 65-68°F (18-20°C)
+4. Carbonate low: 1.5-2.0 volumes CO₂
+
+**Key tips:**
+- Very low OG requires higher mash temp for adequate body
+- Balanced sulfate:chloride ratio accentuates bitterness without harshness
+- British pale ale malt is highly modified—single infusion mash works fine
+
+---
+
+### English Old Ale: Winter Warmer
+
+*Source: [BeerSmith](https://beersmith.com/blog/2011/03/31/old-ale-recipes-stock-ale-and-winter-warmers/) and [Brewer's Friend](https://www.brewersfriend.com/styles/old-ale/)*
+
+A rich, malty "keeping ale" with dark fruit character—historically cask-aged for extended periods.
+
+| Parameter | Value |
+|-----------|-------|
+| Batch Size | 5 gallons (18.9 L) |
+| OG | 1.070 |
+| FG | 1.018 |
+| ABV | 6.8% |
+| IBU | 35 |
+| SRM | 14 |
+
+**Grain Bill:**
+- 10 lb (4.5 kg) Maris Otter pale malt
+- 1 lb (454 g) Crystal 60L
+- 8 oz (227 g) Crystal 80L
+- 4 oz (113 g) Chocolate malt
+- 4 oz (113 g) Munich malt 10L
+- 4 oz (113 g) Dark molasses or treacle (add at 15 min)
+
+**Hop Schedule:**
+| Hops | Amount | Time | AA% |
+|------|--------|------|-----|
+| East Kent Goldings | 1.5 oz | 60 min | 5% |
+| Fuggles | 0.5 oz | 15 min | 4.5% |
+
+**Yeast:** English ale yeast (WLP002, Wyeast 1968)
+
+**Process:**
+1. Mash at **156°F (69°C)** for 60 minutes (full-bodied)
+2. 90-minute boil
+3. Add molasses/treacle at 15 minutes remaining
+4. Ferment at 65-68°F (18-20°C)
+5. Extended conditioning recommended (2-3 months minimum)
+
+**Key tips:**
+- Aroma hops unnecessary—extended aging negates hop aroma
+- Historically had slight lactic character from cask contamination (optional)
+- Dark sugars (molasses, treacle, invert) raise ABV and add complexity
+- 30-60 IBU balances the malty sweetness
 
 ---
 
@@ -1606,6 +2116,8 @@ A medium-to-sweet still metheglin with layers of complexity that evolve over yea
 | Style | Recipe | ABV | IBU |
 |-------|--------|-----|-----|
 | Bohemian Pilsner | Chodsko Pivo | 5.2% | 26 |
+| Schwarzbier | May the Schwarzbier With You | 5.2% | 27 |
+| Munich Dunkel | Tara's Slam Dunkel | 5.4% | 20 |
 | Bock | Prost Bock | 7.7% | 20 |
 | Märzen/Oktoberfest | Klang Freudenfest | 5.6% | 27 |
 
@@ -1621,6 +2133,8 @@ A medium-to-sweet still metheglin with layers of complexity that evolve over yea
 | Style | Recipe | ABV | IBU |
 |-------|--------|-----|-----|
 | ESB | Fuller's ESB Clone | 5.8% | 32 |
+| Ordinary Bitter | Gregory's Extraordinary Bitter | 3.7% | 32 |
+| Old Ale | Winter Warmer | 6.8% | 35 |
 | Mild | Charlie's Visionary Mild | 4.0% | 35 |
 
 ### Cider
@@ -1640,6 +2154,7 @@ A medium-to-sweet still metheglin with layers of complexity that evolve over yea
 | Style | Recipe | ABV | Notes |
 |-------|--------|-----|-------|
 | English Braggot | Historical Spiced | 10.5-11.5% | 15th-16th century style |
+| Modern Braggot | Brown Ale Base | 8-9% | Contemporary approach |
 
 ### Historical Beers
 | Style | Recipe | ABV | Origin |
@@ -1649,6 +2164,11 @@ A medium-to-sweet still metheglin with layers of complexity that evolve over yea
 | Pre-Prohibition | 1904 Sparkling Ale | 5.0% | Early 1900s |
 | Russian Kvass | The Tsar's Kvass | 4.0% | Traditional |
 | Medieval Mead | 14th Century English | Varies | 1300s |
+| Finnish Sahti | Ghost of Karelia | 8-11% | Viking era |
+| Gruit Ale | Herbal Medieval Ale | 5.6% | Pre-hop era |
+| Polish Grodziskie | Polish Champagne | 3.2% | 14th century |
+| Ethiopian T'ej | Ethiopian Honey Wine | 7-11% | Aksumite era |
+| Ethiopian T'alla | Traditional Beer | 2-4% | Traditional |
 
 ### Meads
 | Style | Recipe | ABV | Sweetness |

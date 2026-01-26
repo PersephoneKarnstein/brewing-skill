@@ -1,6 +1,6 @@
 ---
 name: brewery-and-distillery
-description: Use when brewing beer, making wine or cider (including country/fruit wines), fermenting mead, distilling spirits, barrel aging, calculating alcohol content (ABV/OG/FG), troubleshooting fermentation issues, understanding yeast health, designing recipes, scaling batches, or when users mention brewing, fermentation, hops, malt, grapes, fruit wine, elderberry, dandelion, parsnip wine, barrel aging, oak, distillation, proof, specific gravity, yeast, ABV, mash, wort, must, or spirits.
+description: Use when brewing beer, making wine or cider (including country/fruit wines), fermenting mead, distilling spirits (bourbon, whiskey, Scotch, rum, brandy, tequila, vodka, gin), barrel aging, calculating alcohol content (ABV/OG/FG), troubleshooting fermentation issues, understanding yeast health, designing recipes, scaling batches, or when users mention brewing, fermentation, hops, malt, grapes, fruit wine, elderberry, dandelion, parsnip wine, barrel aging, oak, distillation, proof, specific gravity, yeast, ABV, mash, wort, must, spirits, bourbon, whiskey, mash bill, rum, cognac, tequila, or mezcal.
 ---
 # Brewery and Distillery Assistant
 
@@ -36,7 +36,7 @@ Use this skill when:
 - **Country wines**: Fruit wines (berry, stone fruit, citrus), flower wines (elderflower, dandelion), vegetable wines (parsnip, carrot), grain wines
 - **Fermenting mead**: Traditional, melomel, metheglin, braggot; honey selection and nutrient management
 - **Making cider**: Apple selection, tannin balance, carbonation methods
-- **Distilling spirits**: Wash preparation, still operation, cuts, aging, proofing (where legal)
+- **Distilling spirits**: Wash preparation, still operation, cuts, aging, proofing; world whiskeys (bourbon, Scotch, Irish, Japanese), rum (regional styles), brandy (Cognac, Armagnac), tequila/mezcal, vodka, gin, liqueurs (where legal)
 - **Barrel aging**: Oak science, oxygen transfer, rotation schedules, alternatives (chips, spirals, MOX)
 - **Wild fermentation**: Spontaneous fermentation, Brett/LAB management, traditional indigenous beverages
 - **Calculations**: ABV from gravity readings, IBU estimates, dilution math, batch scaling, refractometer corrections
@@ -46,11 +46,11 @@ Use this skill when:
 - **Ingredient science**: Malt types, hop varieties, yeast strains (100+ strains documented), adjuncts, oak, honey varietals
 - **Legal considerations**: Distillation laws, homebrew competition labeling, regional regulations
 
-Trigger phrases: "how do I brew", "fermentation", "ABV calculator", "specific gravity", "stuck fermentation", "off-flavor", "hop schedule", "grain bill", "yeast starter", "distilling", "proof", "mead", "cider", "wine making", "country wine", "fruit wine", "elderberry wine", "dandelion wine", "parsnip wine", "flower wine", "barrel aging", "oak aging", "wild fermentation", "spontaneous fermentation", "Brett", "sour beer", "lambic", "refractometer", "honey", "metheglin", "braggot"
+Trigger phrases: "how do I brew", "fermentation", "ABV calculator", "specific gravity", "stuck fermentation", "off-flavor", "hop schedule", "grain bill", "yeast starter", "distilling", "proof", "mead", "cider", "wine making", "country wine", "fruit wine", "elderberry wine", "dandelion wine", "parsnip wine", "flower wine", "barrel aging", "oak aging", "wild fermentation", "spontaneous fermentation", "Brett", "sour beer", "lambic", "refractometer", "honey", "metheglin", "braggot", "bourbon", "whiskey", "whisky", "Scotch", "rye whiskey", "mash bill", "rum", "brandy", "cognac", "tequila", "mezcal", "vodka", "gin", "botanicals", "pot still", "column still", "heads", "hearts", "tails", "cuts", "aging spirits", "liqueur", "water chemistry", "mash pH", "sulfate", "chloride", "calcium", "Burtonize", "water profile", "gypsum", "residual alkalinity"
 
 ## What Is It?
 
-Brewery and Distillery Assistant is a comprehensive fermentation guide that teaches through principles, not just steps. Drawing from brewing scientists (Fix, Palmer, White/Zainasheff), winemakers (Goode, Smith, Peynaud), mead makers (Schramm), distillers (Owens, Hicks), wild fermentation experts (Katz), and academic research (Handbook of Enology, fruit wine science), it provides:
+Brewery and Distillery Assistant is a comprehensive fermentation guide that teaches through principles, not just steps. Drawing from brewing scientists (Fix, Palmer, White/Zainasheff), winemakers (Goode, Smith, Peynaud), mead makers (Schramm), distillers (Owens, Dikty, Hicks, Parsons), wild fermentation experts (Katz), and academic research (Handbook of Enology, fruit wine science), it provides:
 
 1. **Why before how**: Science and rationale before procedure
 2. **Precision tools**: Gravity readings, temperature logs, pH monitoring, timing
@@ -253,9 +253,10 @@ Self-assess using [resources/evaluators/rubric_brewery.json](resources/evaluator
 - **[modules/core-guidance.md](modules/core-guidance.md)**: Core fermentation principles, yeast biology, production fundamentals
 - **[modules/wine-science.md](modules/wine-science.md)**: Wine fermentation science — yeasts, SO₂, flavor chemistry, faults, sweet wines, oak science, Brettanomyces management (from Goode's *Science of Wine* and Smith's *Postmodern Winemaking*)
 - **[modules/mead-science.md](modules/mead-science.md)**: Comprehensive mead making — fermentation phases, nutrient management (TOSNA), honey science, 15+ varietal honeys, yeast selection, troubleshooting (from Schramm's *The Compleat Meadmaker*)
-- **[modules/distillation-science.md](modules/distillation-science.md)**: Distillation fundamentals — still design (pot, column, reflux), spirit runs, cuts, gin botanicals, whiskey production (from Hicks/Parsons and Owens/Dikty)
+- **[modules/distillation-science.md](modules/distillation-science.md)**: Comprehensive spirits guide — still design, spirit runs and cuts, gin production and botanicals, **world whiskeys** (bourbon/Tennessee/rye, Scotch regions, Irish/Japanese/Canadian), mash bill science, **vodka** (history, production, regional styles), **brandy** (Cognac/Armagnac/Calvados/Pisco/Grappa), **rum** (regional styles from Jamaica to Martinique, agricole, cachaça), **tequila and mezcal**, liqueurs, aquavit, absinthe, bitters (from Hicks/Parsons and Owens/Dikty)
 - **[modules/wild-fermentation.md](modules/wild-fermentation.md)**: Wild/spontaneous fermentation — wild yeast biology, traditional meads (t'ej, balché), lambic process, indigenous grain beers (tesgüino, chicha, kvass) (from Katz's *Wild Fermentation* and *Art of Fermentation*)
 - **[modules/country-wine.md](modules/country-wine.md)**: Country wine production — stone fruits, berries, citrus, tropical fruits, flower wines, vegetable wines, grain wines; 50+ recipes with science (from traditional British sources and *Science and Technology of Fruit Wine Production*)
+- **[modules/water-chemistry.md](modules/water-chemistry.md)**: Water chemistry — ions (Ca, Mg, Na, SO₄, Cl, HCO₃), mash pH and residual alkalinity, classic profiles (Burton, Pilsen, Dublin), modern profiles (NEIPA, West Coast IPA), chloride:sulfate ratios, treatment methods, building from RO (from Palmer/Kaminsky, Brungard, Precision Fermentation)
 - **[modules/barrel-aging.md](modules/barrel-aging.md)**: Barrel aging science — oxygen transfer rates, wood chemistry, toasting vs charring, management protocols, rotation schedules, solera systems, oak alternatives (from *Handbook of Enology*, Jeffery thesis, Oberholster et al.)
 - **[modules/legal-considerations.md](modules/legal-considerations.md)**: Legal requirements — US federal/state distillation laws, international regulations, homebrew competition labeling (BJCP/AHA rules)
 
