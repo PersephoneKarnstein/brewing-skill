@@ -381,6 +381,72 @@ Methanol is produced in small amounts during all fermentation but is only a conc
 
 ---
 
+## Historical and Esoteric Fermented Beverages
+
+Unusual and forgotten beverages from around the world, many relying on wild or spontaneous fermentation.
+
+*Source: Stewart, Amy. The Drunken Botanist (2013).*
+
+### Root, Tuber, and Starch Beverages
+
+| Beverage | Origin | Substrate | Method |
+|----------|--------|-----------|--------|
+| **Mobbie** | Barbados (1652) | Sweet potatoes | Fermented with water, lemon juice, sugar. Popular over a century until sweet potato beetles destroyed crops; replaced by rum. |
+| **Caowy** | Brazil | Sweet potatoes | Fermented sweet potato drink (Portuguese: *vinho d'batata*). |
+| **Parsnip wine** | England | Parsnips | Boiled parsnips + sugar + water, wild yeast fermentation. Stored 6-12 months. Cassell's (1883): "highly spoken of by those accustomed to home-made wines." |
+| **Tapai** | Malaysia | Rice cakes | Rice combined with local yeast, fermented in rubber tree leaf wrappers. Mildly alcoholic. |
+| **Mudai** | Chile (Pehuenche) | Monkey puzzle tree seeds (*Araucaria araucana*) | Boiled seeds, naturally fermented. Sometimes chewed and spit for salivary amylase conversion. Ceremonial drink poured into special wooden bowls. |
+
+### Sap and Plant Beverages
+
+| Beverage | Origin | Substrate | Method |
+|----------|--------|-----------|--------|
+| **Ulanzi** | Tanzania | Bamboo shoots | Bashed bamboo shoots ferment naturally in as little as **5 hours**. Only made during rainy spring season. |
+| **Birch sap wine** | Northern Europe (since ~800 BC) | Birch sap | John Evelyn (1662): "To every gallon of birch-water put a quart of honey, well stirr'd together; then boil it almost an hour with a few cloves, and a little limon-peel... add three or four spoonfuls of good ale to make it work... bottle it up." |
+| **Tej/T'edj** | Ethiopia | Honey | ~6 parts water to 1 part honey, fermented weeks in pottery/gourd vessels. Flavored with bitter buckthorn leaves (*Rhamnus prinoides*). |
+| **Date palm wine** | Middle East/Africa | Palm sap | Ferments almost immediately from wild yeast on collection gourds. Reaches balance within hours; bacteria then convert to vinegar. |
+| **May wine (Maiwein)** | Germany | White wine + sweet woodruff | Wine infused with sweet woodruff (*Galium odoratum*) in early spring, served at May Day festivals. Harvest woodruff early before coumarin levels rise. |
+
+### Cactus and Fruit Beverages
+
+| Beverage | Origin | Substrate | Method |
+|----------|--------|-----------|--------|
+| **Colonche** | Mexico (Chichimeca) | Prickly pear cactus juice | Ancient fermented cactus juice. People traveled to follow the bloom cycle. |
+| **Navai't** | US Southwest (Tohono O'odham) | Saguaro cactus fruit (*Carnegiea gigantea*) | Fermented wine from saguaro fruit. |
+| **Aguardiente de medronho** | Portugal | Strawberry tree fruit (*Arbutus unedo*) | Fermented and distilled. Traditional Portuguese spirit. |
+
+### Historical Cordials and Liqueurs
+
+| Beverage | Era | Ingredients | Notes |
+|----------|-----|------------|-------|
+| **Rosolio** | 1600 | Sundew (*Drosera rotundifolia*, a carnivorous plant), dates, cinnamon, ginger, cloves, grains of paradise, sugar, rose petals | Sir Hugh Plat's recipe: steep all in "Aqua Composita" in sealed glass vessel for 20 days. Must first "pick out all the black motes from the leaves" (insects). |
+| **Capillaire** | 17th c. | Maidenhair fern (*Adiantum capillus-veneris*) syrup | Originally medicinal, evolved into cocktail ingredient. Boil water, pour over fern, stand 30 min, strain, add orange flower water + sugar. **Warning:** Ferns can accumulate arsenic from soil. |
+| **Kykeon** | Ancient Greece | Beer, wine, and mead mixed | In Homer's *Odyssey*, Circe used it to drug Odysseus's crew. |
+| **Vin Mariani** | 19th c. France | Wine + coca leaves | Endorsed by Sarah Bernhardt and French cardinals. Precursor to modern cola. |
+| **Godfrey's Cordial** | 19th c. | Molasses + sassafras oil + laudanum | A popular (and dangerous) cure-all. |
+| **Forbidden Fruit** | 20th c. | Pomelo, honey, brandy | Defunct liqueur by Charles Jacquin et Cie. Essential to the classic Tantalus cocktail. |
+
+### Starch Conversion Methods in Traditional Brewing
+
+Different cultures independently developed methods to convert starch to fermentable sugar:
+
+| Method | Region | Mechanism |
+|--------|--------|-----------|
+| **Malting** | Europe, Middle East | Wetting grain triggers enzymes that convert starch |
+| **Koji mold** (*Aspergillus oryzae*) | East Asia | Mold grows into grain, releases amylase enzymes |
+| **Salivary amylase** | Americas, Oceania | Chewing and spitting substrate; human saliva enzyme converts starch |
+| **Germination + heat** | Africa | Sorghum soaked 1-2 days, spread on leaves to germinate, combined with hot water |
+
+### Earliest Known Fermented Beverages
+
+- **~8000 BC** — Rice, fruit, and honey brew (Jiahu site, Henan Province, China). Recreated with Dogfish Head brewery as Chateau Jiahu.
+- **~6000 BC** — Sorghum fermentation in Africa
+- **~3000 BC** — Meadowsweet-flavored beer in Europe (pre-hops)
+- **~2000 BC** — Date palm wine depicted in Egyptian tomb paintings
+- **~800 BC** — Birch sap in European wine vessels
+
+---
+
 ## Resources
 
 ### Books
@@ -388,6 +454,7 @@ Methanol is produced in small amounts during all fermentation but is only a conc
 - Katz, Sandor. *Wild Fermentation* (2nd ed, 2016)
 - Sparrow, Jeff. *Wild Brews* (2005)
 - Buhner, Stephen Harrod. *Sacred and Herbal Healing Beers* (1998)
+- Stewart, Amy. *The Drunken Botanist* (2013)
 
 ### Wild/Sour Yeast Sources
 - Bootleg Biology (wild yeast isolation)

@@ -53,6 +53,52 @@
   - Vermouth: new subsection — definition, style table (dry/sweet/blanc/amber), base wine selection, 5 botanical categories (bitter aromatics, spicy/aromatic, floral/sweet, citrus, savory/umami), wormwood dosing note, 6-step production method (tinctures, base wine infusion at 60–70°C, fortification, sweetening, clarification, storage), iterative blending tips
   - Sources: Serious Eats *DIY Amaro Recipe* (Simmons, 2012); Galloway Wild Foods *How to Make Vermouth with Foraged Botanicals* (Woodland, n.d.)
 
+- [x] **Cider and perry science module** (modules/cider-science.md)
+  - §1 Overview: cider vs apple wine distinctions, key characteristics
+  - §2 Apple Science: four-quadrant classification (sweet/sharp/bittersweet/bittersharp with acid/tannin thresholds), English cider apple table (10 varieties), American cider apple table (5 varieties), dessert apple assessment, blending principles (50-60% bittersweet, 20-30% sharp, 10-20% sweet), tannin sources
+  - §3 Juice Preparation: yield ratios (6-7 kg per gallon), pre-milling rest (1 week cuvage), milling (scratter-mill), pressing technique (rehydration press), metal contact warnings, sulfite treatment (50 ppm), pectic enzyme
+  - §4 Fermentation Science: juice chemistry table (SG, Brix, pH, TA, tannin, YAN), yeast selection table (7 strains with temp ranges), YAN management (average 59 ppm, minimum 140 ppm, Fermaid O/K/DAP dosing), nutrient timing (inoculation + 1/3 depletion), fermentation temperature table (6 styles from 4°C cold to 25°C warm), MLF guidance
+  - §5 Keeving: full French technique — 9-step process with calcium chloride (1 mL per 10 L), chapeau brun formation, nutrient depletion, target FG 1.025-1.030
+  - §6 Regional Styles: English (West Country, Eastern, sparkling), French cidre (doux/demi-sec/brut classifications with sugar/ABV, pommeau), Spanish sidra (natural, escanciado technique, nueva expresión), American craft (heritage, modern, hopped, botanical, wild, New England), ice cider (cryoextraction vs cryoconcentration), pétillant naturel (method, 9 g/L residual sugar, 2-2.5 vol CO₂)
+  - §7 Perry: perry pear varieties (6), differences from cider (higher tannin, nitrogen deficiency, continuous sediment, sorbitol, blackening risk), pyder blends
+  - §8 Carbonation & Finishing: bottle conditioning, méthode champenoise, pét-nat, force carbonation, closures, draught storage (polycask, pressure barrel, polypin)
+  - §9 Back-sweetening: 6 methods (keeving, sorbate+sulfite, pasteurization, sterile filtration, non-fermentable sweeteners, Campden)
+  - §10 Troubleshooting: 12-fault table with causes and fixes
+  - §11 Equipment: cider-specific (scratter-mill, press) and shared
+  - §12 Practical home cider recipe (5 L batch), apple wine variation
+  - Sources: Bruning (2014), Lea (referenced), Scott Laboratories, Prickly Cider, White Labs, Fermentis, Craft Cider Consultant
+
+- [x] **Goldfarb whiskey PDF repair** — corrupted PDF (Anna's Archive error message overwrote %PDF header) fixed by reconstructing the 164-byte header; 272-page book now readable at Crimes_against_whiskey_FIXED.pdf; text extracted to /tmp/hacking_whiskey.txt
+
+- [x] **Whiskey modification techniques** (modules/distillation-science.md §23, from Goldfarb *Hacking Whiskey*, 2018)
+  - Infinity bottles: blending principles, test blends, proof considerations, blending approach table (single-grain, multi-grain, campfire, botanical, multi-national)
+  - Small-barrel finishing: 7-step process, cure/season/monitor, common finishes table (10 finishes with effects and notes), offbeat finishes (amaro, imperial stout, mezcal), cocktail finishing technique, timing guidance (5-10 days for 1-2L barrel)
+  - Smoking whiskey: 5 methods table (smoking gun, smoking box, cloche, BBQ smoker, cold smoker), wood selection table (11 woods with pairings), non-wood smokes (herbs, tea, juniper, cinnamon), additional techniques (smoked ice, smoked glass, smoked syrup)
+  - Fat washing: standard 5-step process (1 oz fat per 750 mL, 4-6 hour infusion, 12-48 hour freeze), timing table by fat type (bacon, peanut butter, foie gras, butter)
+  - Spirit infusions: timing table by ingredient category (1 hour for peppers through 2+ weeks for leather), rapid infusion (iSi Whip N₂O method), sous vide infusion (135-155°F)
+  - Cryo-concentration: Dave Arnold freeze method for raising proof (~-23°C crystallization point)
+
+- [x] **Comprehensive amaro expansion** (modules/distillation-science.md §18, from Parsons *Amaro*, 2016)
+  - Amaro style taxonomy: 8 categories (aperitivo, light/citrus, medium/balanced, alpine, fernet, carciofo, rabarbaro, vino amaro) with ABV ranges and key examples
+  - Expanded production techniques: maceration, distillation, percolation, decoction; base spirit options (NGS, grappa, wine, grape distillate, rum, brandy); sweetening methods (simple syrup, Demerara, honey, agave, caramelized sugar)
+  - Fernet subsection: Fernet-Branca production details (27 ingredients, hot/cold infusion, 12-16 month Slovenian oak aging, saffron sourcing), Branca Menta history
+  - 4 seasonal DIY amaro recipes (Autumnal, Winter Spice, Rite of Spring, Summer Solstice) with full ingredient lists
+  - Advanced tincture method (single-botanical tinctures blended to taste)
+  - Key amaro cocktails table (8 classic cocktails with recipes)
+
+- [x] **Botanical reference expansion** (modules/distillation-science.md §5 and §18, from Stewart *The Drunken Botanist*, 2013)
+  - Gin botanicals: additional entries (cubeb pepper, grains of paradise, fennel, ginger, lavender), flavor profile table by category, juniper species details (flavor compounds, toxic species warnings)
+  - Comprehensive bittering agent reference table: 14 agents with Latin names, flavor descriptions, commercial products (gentian, wormwood, cinchona, aloe, artichoke, cascarilla, centaury, blessed thistle, calamus, elecampane, quassia, dandelion, kola nut, galangal)
+  - Botanical safety warnings: 11 dangerous look-alikes and toxic plants (veratrum/gentian, cherry laurel/bay, Japanese/true star anise, hemlock/angelica, calamus, tonka bean, sassafras, hyssop, licorice, elderberry)
+
+- [x] **Historical and esoteric beverages** (modules/wild-fermentation.md, from Stewart *The Drunken Botanist*, 2013)
+  - Root/tuber beverages: mobbie, caowy, parsnip wine, tapai, mudai (5 entries with methods)
+  - Sap/plant beverages: ulanzi, birch sap wine, tej, date palm wine, May wine (5 entries)
+  - Cactus/fruit beverages: colonche, navai't, aguardiente de medronho (3 entries)
+  - Historical cordials/liqueurs: rosolio, capillaire, kykeon, vin Mariani, Godfrey's cordial, Forbidden Fruit (6 entries)
+  - Starch conversion methods comparison: malting, koji, salivary amylase, germination+heat
+  - Earliest known fermented beverages timeline (8000 BC to 800 BC)
+
 ## Previously Added (2025-01-25)
 
 - [x] **Distillation module book-based expansion** (modules/distillation-science.md, from Davis, Morris, and Mahone distilling books)
@@ -303,10 +349,10 @@ Distillation module significantly expanded from *The Art of Distilling Whiskey a
 - [ ] **Soju** — Still needed (Korean distilled spirit)
 - [ ] **Arrack** — Still needed
 
-### Spirit Finishing and Blending — PARTIAL
+### Spirit Finishing and Blending — COMPLETED (2025-01-26)
 - [x] **Cask types** — Ex-bourbon, ex-sherry effects covered in Scotch section
-- [ ] **Detailed finishing techniques** — Port, Madeira, wine finishes need expansion
-- [ ] **Blending principles** — Master blender techniques still needed
+- [x] **Detailed finishing techniques** — §23: 10 common finishes + offbeat finishes with timing, equipment, process (from Goldfarb 2018)
+- [x] **Blending principles** — §23: Infinity bottle method, blending guidelines table, test blend approach (from Goldfarb 2018)
 
 ### Vodka — COMPLETED (2025-01-25)
 - [x] Production history (Russia, Poland, Sweden)
@@ -319,7 +365,7 @@ Distillation module significantly expanded from *The Art of Distilling Whiskey a
 - [x] Anise spirits (pastis, absinthe, ouzo, sambuca)
 - [x] Bitters
 - [x] Schnapps
-- [x] Amaro — expanded: full DIY production method, starter recipe, customization guidance
+- [x] Amaro — comprehensive: style taxonomy (8 categories), expanded production (4 techniques, base spirits, sweetening), fernet details, 4 seasonal DIY recipes, bittering agent table (14 agents), botanical safety warnings, cocktail table (8 classics)
 - [x] Slivovitz (plum brandy, Balkan/Central European traditions)
 - [x] Absinthe expanded (production method, louching, proper service)
 - [x] Vermouth — new: aromatized fortified wine, styles, botanical categories, production method
@@ -342,6 +388,14 @@ Distillation module significantly expanded from *The Art of Distilling Whiskey a
 - Shih, Rich and Jeremy Umansky. *Koji Alchemy: Rediscovering the Magic of Mold-Based Fermentation* (2020) — koji cultivation, enzyme science, safety, amazake, shio koji, Aspergillus species, historical context
 - Serious Eats — *DIY Amaro Recipe* (Simmons, 2012) — amaro starter recipe, ingredient categories, production method
 - Galloway Wild Foods — *How to Make Vermouth with Foraged Botanicals* (Woodland, n.d.) — vermouth production, botanical categories, tincture and infusion methods, fortification
+- Bruning, Ted. *Home Brewing: A Guide to Making Your Own Beer, Wine and Cider* (2014) — cider production, apple varieties, keeving, perry, troubleshooting, equipment
+- Scott Laboratories — *Complete Guide to Cider Fermentation Nutrition* — YAN management, Fermaid O/K/DAP dosing
+- White Labs — *A Guide to Cider Fermentations* — yeast selection, fermentation temperatures
+- Fermentis — *SafCider* product range — cider-specific yeast strains
+- Prickly Cider — *The Need for Nitrogen (YAN)* (2022) — apple juice YAN levels, nutrient strategies
+- Goldfarb, Aaron. *Hacking Whiskey: Smoking, Blending, Fat Washing, and Other Whiskey Experiments* (2018) — infinity bottles, small-barrel finishing, smoking, fat washing, infusions, cryo-concentration
+- Parsons, Brad Thomas. *Amaro: The Spirited World of Bittersweet, Herbal Liqueurs* (2016) — amaro taxonomy, production methods, fernet details, 4 seasonal DIY recipes, commercial profiles, cocktail applications
+- Stewart, Amy. *The Drunken Botanist* (2013) — botanical reference (gin, bitters, amaro), historical beverages, poisonous plant warnings, fermentation history
 
 ## Research Needed
 

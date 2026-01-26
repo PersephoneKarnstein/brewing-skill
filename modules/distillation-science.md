@@ -514,6 +514,26 @@ Botanicals held above the wash; vapors pass through them.
 | **Cardamom** | Warm, aromatic spice | 2-3 pods |
 | **Cassia/Cinnamon** | Warm, sweet spice | Small piece |
 | **Liquorice root** | Sweet, round mouthfeel | 0.5 tsp |
+| **Cubeb pepper** | Peppery + citrus + eucalyptus | 1-2g |
+| **Grains of paradise** | Peppery heat, cardamom-like | 1-2g |
+| **Fennel seed** | Sweet anise | 1g |
+| **Ginger root** | Warm, sharp spice | 1-2 thin slices |
+| **Lavender** | Floral, perfumed (use sparingly) | Pinch |
+
+**Additional botanicals by flavor profile:**
+
+| Category | Botanicals | Notes |
+|----------|-----------|-------|
+| **Citrus** | Lemon, orange, grapefruit, yuzu, bergamot peel | Dried peel preferred; fresh can add harsh oils |
+| **Earthy/fixative** | Angelica root, orris root (iris rhizome) | Fixatives bind volatile aromas; orris adds faint violet |
+| **Spicy** | Cubeb, grains of paradise, black pepper, long pepper | Cubeb: peppery + citrus; grains of paradise: in Bombay Sapphire |
+| **Herbal** | Bay leaf, lemon verbena, lemon balm, meadowsweet | Lemon balm suspected in Chartreuse and Bénédictine |
+| **Floral** | Rose, elderflower, chamomile, hibiscus | For contemporary/Western dry styles |
+| **Forest** | Pine/spruce tips, Douglas fir, juniper leaf | Complement juniper berry; use fresh |
+
+*Source for additional botanicals: Stewart, Amy. The Drunken Botanist (2013).*
+
+**Juniper details:** *Juniperus communis* berries (actually fleshy cones) take 2-3 years to mature. Key flavor compounds: alpha-pinene (pine/rosemary), myrcene (cannabis/hops/thyme), limonene (citrus). Sourced wild from Tuscany, Morocco, eastern Europe. **Toxic species to avoid:** Savin juniper (*J. sabina*), Ashe juniper (*J. ashei*), redberry juniper (*J. pinchotii*).
 
 **Botanicals release different flavors than expected when distilled**—always test individually before combining.
 
@@ -1323,24 +1343,63 @@ Northern European clear or flavored spirits (German *Schnaps*, "gulp"). Made fro
 
 ### Amaro
 
-Italian bitter herbal liqueur (25–50% ABV). Made by **tincturing** botanicals in spirit (not redistilling). The base can be NGS, brandy, rum, or blends.
+Italian bitter herbal liqueur (11–50% ABV). Made primarily by **tincturing** botanicals in spirit. No formal regulatory classification exists — no DOC protection, no EU oversight, no strict rules governing ingredients or methods.
 
-- **Character**: Should be predominantly bitter, not sweet (despite sugar often being added for balance)
+- **Character**: Predominantly bitter, balanced with sugar. Historical amaro was significantly more bitter than modern sweetened versions
 - **Ingredients**: Gentian root, wormwood, cinchona bark, artichoke, citrus peel, and dozens of other botanicals
-- **Styles**: Range from light and citrusy (Aperol) to intensely bitter and herbal (Fernet-Branca)
-- **Service**: Typically served as a digestif, neat or on ice
+- **Service**: Typically served as a digestif, neat or on ice; also widely used in cocktails
+
+**Amaro Style Taxonomy:**
+
+| Style | Character | ABV Range | Key Examples |
+|-------|-----------|-----------|-------------|
+| **Aperitivo bitters** | Bright, light, citrus-forward; before-dinner | 11-28% | Campari (24%), Aperol (11%), Cappelletti (17%) |
+| **Light/citrus amaro** | Lighter color, citrus-dominant, lower bitterness | 23-35% | Montenegro (23%), Nonino (35%) |
+| **Medium/balanced** | Darker, moderate alcohol, bittersweet herb and citrus | 28-32% | Averna (29%), Lucano (28%), Ramazzotti (30%), Meletti (32%) |
+| **Alpine** | Mountain herbs and flowers; piney, mentholated | 21-36% | Braulio (21%, 2-year oak), Breckenridge (36%) |
+| **Fernet** | Aggressive bitterness, dark color; mint/eucalyptus character | 30-50% | Fernet-Branca (40%), Branca Menta (30%), Luxardo Fernet (40%) |
+| **Carciofo** | Artichoke-based | 16.5-35% | Cynar (16.5%), Cynar 70 Proof (35%) |
+| **Rabarbaro** | Rhubarb root-based | ~30% | Zucca Rabarbaro (30%) |
+| **Vino amaro** | Wine-based (lower ABV) | 16-17% | Cardamaro (17%, Moscato base), Cappelletti Novasalus (16%, Marsala base) |
+
+*Source: Parsons, Brad Thomas. Amaro: The Spirited World of Bittersweet, Herbal Liqueurs (2016).*
 
 **Three essential ingredient categories**:
-1. **Bittering agents** (at least one required): Gentian root, cinchona bark, wormwood, artichoke leaf, quassia bark, dandelion root
-2. **Flavoring botanicals**: Herbs (sage, mint, rosemary, thyme), spices (anise, clove, allspice, cinnamon, star anise), citrus peel, dried fruit, vanilla, cocoa nibs
+1. **Bittering agents** (at least one required): Gentian root, cinchona bark, wormwood, artichoke leaf, quassia bark, dandelion root, angelica root, burdock root, cherry bark, galangal, licorice root
+2. **Flavoring botanicals**: Herbs (sage, mint, rosemary, thyme, hyssop), spices (anise, clove, allspice, cinnamon, star anise, cardamom, grains of paradise), citrus peel, dried fruit, vanilla, cocoa nibs, juniper, fennel, elderflower
 3. **Base spirit**: High-proof neutral grain spirit (75% ABV / 151-proof ideal); vodka (40% ABV) works but extracts less efficiently
 
-**Production method**:
-1. **Grind** botanicals coarsely with mortar and pestle or food processor — rough-crush, not powder
-2. **Macerate** ground botanicals in high-proof spirit in a sealed glass jar at room temperature for 3–5 weeks, shaking frequently
-3. **Sweeten**: Make simple syrup (equal parts sugar and water by volume, heated until dissolved, cooled). Add to macerated spirit. Rest 2 more weeks, stirring frequently
-4. **Filter**: Strain through cheesecloth to remove solids, then fine-filter through coffee filter or fresh cheesecloth
-5. **Rest and adjust**: Taste; adjust bitterness (more tincture) or sweetness (more syrup). Final ABV typically 25–35%
+**Note:** Buy roots and barks **cut and sifted**, not powdered. Most herbs/spices should be dried; fresh citrus zest and fresh herbs (mint, sage, basil) used for specific effects.
+
+**Production techniques** (commercial and home):
+- **Maceration** (most common): Botanicals steeped in alcohol over time. Standard home method.
+- **Distillation**: Some producers distill certain botanicals separately, then blend. Bigallet China-China distills orange peels three times in copper alembic stills.
+- **Percolation**: Cold-extraction method where spirit is repeatedly passed over botanicals.
+- **Decoction**: Botanicals fire-roasted before maceration (Varnelli method), adding unique depth.
+
+**Base spirit options:**
+- Neutral grain spirit (most common)
+- Grappa (Nardini, Sibona, Contratto Fernet)
+- Wine (Cardamaro uses Moscato; Cappelletti uses dry Marsala)
+- Grape distillate (Nonino uses whole-grape distillate)
+- Rum, brandy, or eau-de-vie
+- **For DIY**: Minimum 100 proof (50% ABV). Best: 151-proof vodka (Everclear, Devil's Springs). Acceptable: 100-proof vodka (Absolut, Smirnoff).
+
+**Sweetening methods:**
+- Simple syrup (1:1 sugar:water by volume) — most common
+- Demerara syrup (turbinado sugar, 1:1) — adds molasses depth
+- Honey (multi-flower or varietal)
+- Agave nectar
+- Caramelized sugar
+
+**Home production method**:
+1. **Crush** botanicals coarsely with mortar and pestle — rough-crush, not powder
+2. **Macerate** in high-proof spirit in a sealed Mason jar at room temperature, out of direct sunlight, for **3 weeks**, shaking occasionally
+3. **Filter**: Strain through fine-mesh strainer, then through damp cheesecloth-lined funnel; repeat until sediment removed
+4. **Sweeten**: Add syrup (½ cup per 3 cups vodka). Rest **2 more weeks**, shaking occasionally
+5. **Adjust**: Taste; add more syrup or filtered water if too strong. Decant into bottles
+6. **Aging** (optional): Rest in small oak barrel for weeks to months. Adds depth and darker color
+7. **Shelf life**: Indefinite; optimal flavor within 1 year
 
 **Starter recipe** (Averna-style, ~4½ cups yield):
 - 1 tsp anise seeds, 6 sage leaves, 6 mint leaves, 1 tsp fresh rosemary, 1 allspice berry, ½ tsp whole cloves, ½ tsp gentian root (cut, not powdered)
@@ -1356,7 +1415,84 @@ Italian bitter herbal liqueur (25–50% ABV). Made by **tincturing** botanicals 
 - **Darker/richer**: Add cocoa nibs, coffee beans, dried fig, molasses syrup instead of simple syrup
 - **Higher complexity**: Use multiple bittering agents; layer flavors by adding delicate botanicals (flowers, fresh herbs) in the final week only
 
-**Shelf life**: 6 months at room temperature. Higher ABV versions last longer.
+**Shelf life**: Indefinite at room temperature; optimal flavor within 1 year. Higher ABV versions last longer.
+
+#### Fernet
+
+A subcategory of amaro characterized by elevated alcohol (39-50% ABV), aggressive bitterness, and dark color. Key defining ingredients include **aloe ferox, myrrh, saffron, chamomile, rhubarb root, and mint**. Mentholated/eucalyptus character is typical.
+
+**Fernet-Branca** (the benchmark):
+- Founded 1845 by Bernardino Branca, Milan
+- 27 ingredients from 4 continents, including: aloe ferox, saffron, bitter orange peel, cardamom, chamomile, cinchona bark, galangal, laraha, laurel, myrrh, rhubarb root, zedoaria
+- Uses both **hot and cold infusions** — some ingredients (like aloe) are mixed in hot water in an iron pail; others extracted cold
+- Aged **12-16 months** in 500 Slovenian oak barrels (each 10 feet tall)
+- **Branca Menta** (30% ABV): Created 1963, spiked with peppermint oil; more sugar, less alcohol
+
+#### Seasonal Amaro Recipes (from Parsons)
+
+All yield ~28 oz. Process: crush botanicals → macerate in 3 cups high-proof vodka for 3 weeks → filter → add ½ cup syrup → rest 2 weeks → bottle.
+
+**Autumnal Amaro:**
+½ cup toasted pecans, ½ cup toasted walnuts, 1 tbsp dried orange peel, 1 tbsp gentian root, 1 tsp devil's club root, 1 tbsp cinchona bark, 1 tbsp birch bark, ½ tsp schizandra berries, zest of 1 orange, ½ cup chopped dried apple, 1 cinnamon stick. Sweeten with Demerara syrup.
+
+**Winter Spice Amaro:**
+1 tbsp dried orange peel, 1 star anise, 1 tsp anise seeds, 6 cardamom pods, 6 juniper berries, 4 cloves, 2 tbsp gentian root, 1 tbsp white pine bark, 1 tbsp pine needles, 1 tsp wintergreen, 1 tsp dried mint, ½ cup dried cranberries, ½ cup dried figs, zest of 1 grapefruit + 1 tangerine + 1 lemon, 1" fresh ginger sliced, 1 cinnamon stick. Demerara syrup.
+
+**Rite of Spring Amaro:**
+1 tbsp dried orange peel, 1 tsp anise seeds, 6 cardamom pods, 1 tbsp wormwood, 1 tbsp angelica root, 1 tsp licorice root, 1 tsp dried hyssop, 1 tbsp dried hops, 1 tsp dried artichoke leaf, 1 tsp dried lemongrass, zest of 1 orange + 1 lemon + 1 grapefruit, 6 mint sprigs, 6 fresh sage leaves. Simple syrup.
+
+**Summer Solstice Amaro:**
+1 tbsp dried orange peel, 1 tsp anise seeds, 1 tsp grains of paradise, 2 tbsp cinchona bark, ½ cup dried cherries, zest of 2 oranges + 2 lemons, 6 fresh sage leaves, 6 fresh basil leaves. Simple syrup.
+
+**Advanced tincture method:** Prepare single-botanical tinctures (fill jar ¼ full with one ingredient, cover with high-proof spirit, steep hours to weeks). Blend individual tinctures to taste for maximum control over the final profile.
+
+#### Key Amaro Cocktails
+
+| Cocktail | Recipe | Notes |
+|----------|--------|-------|
+| **Negroni** | 1 oz gin + 1 oz Campari + 1 oz sweet vermouth | Equal parts; origin Florence |
+| **Boulevardier** | 1.5 oz bourbon + ¾ oz Campari + ¾ oz sweet vermouth | Negroni with bourbon; first printed 1927 |
+| **Paper Plane** | ¾ oz each: bourbon, Aperol, Amaro Nonino, lemon juice | Equal-parts; created 2008 by Sam Ross |
+| **Black Manhattan** | 2 oz bourbon + 1 oz Averna + dash each Angostura and orange bitters | Originated 2007, Bourbon & Branch, SF |
+| **Toronto** | 2 oz rye + ¼ oz Fernet-Branca + ¼ oz Demerara syrup + 2 dashes Angostura | Fernet old-fashioned variant; first printed 1922 |
+| **Hanky Panky** | 1.5 oz gin + 1.5 oz sweet vermouth + 2 dashes Fernet-Branca | Ada Coleman, Savoy Hotel (1903-1926) |
+| **Aperol Spritz** | 3 oz Prosecco + 2 oz Aperol + 1 oz soda | "3-2-1" ratio |
+| **Jungle Bird** | 1.5 oz dark rum + 1.5 oz pineapple juice + ¾ oz Campari + ½ oz lime + ½ oz simple syrup | Created ~1979, KL Hilton |
+
+**Comprehensive Bittering Agent Reference:**
+
+| Agent | Latin Name | Flavor/Character | Found In |
+|-------|-----------|-----------------|----------|
+| **Gentian root** | *Gentiana lutea* | Bracingly bitter (gentiopicroside, amarogentin); yellow xanthones give golden color | Angostura, Campari, Aperol, Suze, Averna |
+| **Wormwood** | *Artemisia absinthium* | Mentholated bitterness, volatile oils | Absinthe, vermouth, bitters |
+| **Cinchona bark** | *Cinchona spp.* | Bitter quinine; anti-malarial | Tonic water, Byrrh, Lillet, Calisay |
+| **Aloe** | *Aloe vera* | Pure bitterness (aloin); no floral/vegetal overtones | Fernet-Branca, fernet-style amari |
+| **Artichoke/Cardoon** | *Cynara scolymus/cardunculus* | Bitter (cynaropicrin); temporarily suppresses sweet receptors | Cynar, Cardamaro |
+| **Cascarilla bark** | *Croton eluteria* | Complex: pine, eucalyptus, citrus, rosemary, cloves | Bitters, vermouth; rumored in Campari |
+| **European centaury** | *Centaurium erythraea* | Bitter iridoid glycosides | Bitters, vermouths |
+| **Blessed thistle** | *Centaurea benedicta* | Bitter cnicin compound | Digestive tonics, Cardamaro |
+| **Calamus/sweet flag** | *Acorus calamus* | Woodsy, leathery, creamy bitterness | Campari, Chartreuse (suspected) |
+| **Elecampane** | *Inula helenium* | Bitter, camphor-flavored root | Vermouths, bitters, absinthe |
+| **Quassia bark** | *Quassia amara* | Clean bitterness without astringency | Bitters, some amari |
+| **Dandelion root** | *Taraxacum officinale* | Mild, earthy bitterness | Bitters, amari |
+| **Kola nut** | *Cola acuminata* | Sweet, round cola flavor + caffeine | Averna (suspected), kola bitters |
+| **Galangal** | *Alpinia officinarum* | Sharp, spicy (ginger relative) | Vermouths, bitters |
+
+*Source: Stewart, Amy. The Drunken Botanist (2013).*
+
+**Botanical Safety — Dangerous Look-Alikes and Toxic Plants:**
+
+When foraging or sourcing botanicals, be aware of these hazards:
+- **Veratrum album** (white hellebore) resembles yellow gentian — **poisonous**. Never wild-harvest gentian without expert identification
+- **Cherry laurel** (*Prunus laurocerasus*) and mountain laurel (*Kalmia latifolia*) are **extremely poisonous** — easily confused with culinary bay laurel (*Laurus nobilis*)
+- **Japanese star anise** (*Illicium anisatum*) is **severely toxic** — can be confused with true star anise (*I. verum*). Source only from reputable suppliers
+- **Poison hemlock** resembles angelica — only *A. archangelica* is confirmed safe among 25+ *Angelica* species
+- **Calamus** (*Acorus calamus*): Contains potentially carcinogenic β-asarone; FDA banned as food additive. American variety has negligible toxin
+- **Tonka bean** (*Dipteryx odorata*): High coumarin levels; FDA banned 1954. Still used in some amari
+- **Sassafras** (*Sassafras albidum*): Contains carcinogenic safrole; FDA banned 1960. Can only be used if safrole extracted
+- **Hyssop** (*Hyssopus officinalis*): Extracts can cause seizures in large quantities
+- **Licorice root** (*Glycyrrhiza glabra*): Glycyrrhizin can cause hypertension in large quantities
+- **Elderberry** (*Sambucus spp.*): All parts contain cyanide-producing compounds. Berries must be fully ripe; cooking reduces toxins
 
 ### Bitters
 
@@ -1630,12 +1766,167 @@ Water to Add = 937.5 - 500 = 437.5mL
 
 ---
 
+## 23. Whiskey Modification Techniques
+
+Post-production techniques for modifying finished whiskey at home. These methods do not involve distillation and are legal in most jurisdictions.
+
+*Source: Goldfarb, Aaron. Hacking Whiskey (2018).*
+
+### Infinity Bottles (Home Blending)
+
+An infinity bottle is a personal blend built by adding small amounts of different whiskeys to a single bottle over time.
+
+**Principles:**
+- Start with 2-ounce test blends before committing a full bottle
+- Higher-proof whiskeys (100+ proof) contribute more flavor per ounce; 80-proof can get "dulled out"
+- Let blends rest several days before final evaluation — flavors integrate over time
+- Shake vigorously to release trapped barrel char compounds
+- Track percentages and components for reproducibility
+
+**Blending Guidelines:**
+| Approach | Method |
+|----------|--------|
+| Single grain, multiple distilleries | e.g., 100% rye from 5+ sources |
+| Multi-grain | Combine bourbon, rye, wheat whiskey, malt, corn whiskey |
+| Campfire style | Add 10-15% heavily peated scotch to bourbon/rye base |
+| Botanical accent | Add 5-10% barrel-finished gin or aquavit to whiskey base |
+| Multi-national | Blend bourbon, scotch, Irish, Canadian, Japanese |
+
+### Small-Barrel Finishing
+
+Finishing whiskey in previously-seasoned small barrels (1-5 liters) is the most accessible home modification technique.
+
+**Equipment:** 1- or 2-liter oak barrel (under $100 online). Larger barrels (5-10 L) produce less woody, more balanced results but require more liquid and longer times.
+
+**Process:**
+1. **Cure** — Fill with water, empty several times to clear wood debris; then fill with hot water on a towel for 2 days to swell wood until leak-free
+2. **Season** — Fill with a conditioning liquid (wine, sherry, port, rum, cocktail) for several days to several weeks
+3. **Empty** the seasoning liquid; add whiskey; roll barrel slightly
+4. **Monitor daily** by tasting — finished whiskey in **5-10 days** for a 1-2L barrel
+5. **Bottle** into glass when desired flavor reached
+6. **Clean** — Rinse with vodka or cleaning solution, soak 24 hours, rinse 3× with scalding water
+7. **Optional rechar** — Brief butane torch through the bunghole
+
+**Key principle (Dr. Bill Lumsden, Glenmorangie):** "It's not just the wood, but rather the 'in-drink' — the smidge of previous liquid absorbed in the barrel — that is most crucial to the whiskey's future flavor profile."
+
+**Common Finishes (1-2L barrel, 5-10 days):**
+
+| Finish | Effect | Notes |
+|--------|--------|-------|
+| Sherry (oloroso/PX) | Darker color, dried fruit, nuttiness | Most classic scotch finish; works well with rye |
+| Ruby port | Deep fruit, sweetness | Best with higher-proof rye |
+| Cognac | Light fruitiness | Best with delicate whiskeys |
+| Red wine | Berry, tannin complexity | Sauternes and Madeira also work |
+| Sweet vermouth | Dark fruit, winey, slightly oxidized | Pairs with scotch or Japanese whisky |
+| Aged rum | Tropical, funky complexity | High-ester Jamaican rum amplifies |
+| Amaro | Orange peel, dark cherry | Almost a bottled cocktail |
+| Apple brandy | Apple pie notes | Complements vanillin-heavy bourbons |
+| Imperial stout | Roast, chocolate, caramel | Barrel-aged stout preferred |
+| Mezcal | Smoke on smoke | Dramatic with peated scotch |
+
+**Cocktail finishing:** Season barrel with a batch cocktail (Manhattan, Boulevardier, Vieux Carré) for 1 week, empty, then add whiskey for 1-2 weeks. The residual cocktail absorbed into the wood flavors the whiskey.
+
+**Warning:** Monitor finishing carefully. Dr. Lumsden: "After six months it was absolutely sublime... I left the whisky in for too long, and after two and a half years it was completely ruined."
+
+### Smoking Whiskey
+
+Five methods for adding smoke character to finished whiskey:
+
+| Method | Equipment | How It Works | Best For |
+|--------|-----------|-------------|----------|
+| **Smoking gun** | Breville PolyScience ($100-150) | Snake tube into half-empty bottle, inject smoke, cap, shake | Easiest, most portable |
+| **Smoking box** | Crafthouse box ($250) | Smoke surrounds whiskey in an enclosed chamber | Single-serving presentation |
+| **Cloche method** | Culinary torch + glass dome | Build small kindling fire, cover with cloche beside whiskey glass | Restaurant-style |
+| **Barbecue smoker** | Standard smoker + hotel pan | Large surface area pan of whiskey; hood closed, few minutes | Batch quantity |
+| **Cold smoker** | Homemade cold smoker | Extended low-temperature smoking | Dedicated setup |
+
+**Wood selection:**
+
+| Wood | Flavor | Best Pairing |
+|------|--------|-------------|
+| Alder | Musky, Pacific NW forest | PNW single malts |
+| Cherry/apple/peach | Sweet, pleasant, faint | Rye whiskey |
+| Hickory | Bacon, intense | Tennessee whiskey |
+| Maple | Mild, sugary | Rye |
+| Mesquite | Strong, earthy, BBQ | Young craft whiskeys |
+| Lemon/orange | Intense, oily, tropical | Lightly peated scotch (use sparingly) |
+| Walnut/pecan/almond | Nutty, sometimes bitter | High-proof bourbon |
+
+**Non-wood smokes:** Dried herbs (basil, rosemary, thyme), cinnamon sticks, allspice berries, juniper berries (piney aroma, pairs with herbaceous ryes), dried flowers (lavender, lilac — best with vanilla-heavy whiskeys), lapsang souchong tea (amplifies Islay scotches).
+
+**Additional techniques:** Smoke the glass instead of the spirit; smoke water then freeze into ice cubes; smoke simple syrup.
+
+### Fat Washing
+
+Fat washing infuses whiskey with savory flavors from rendered fats, then separates the fat by freezing.
+
+**Standard Process:**
+1. Render fat or melt ingredient (duck fat, bacon fat, hazelnut oil, butter, etc.)
+2. Add **~1 oz liquefied fat per 750 mL** whiskey in a wide container (Cambro) for maximum surface contact
+3. Infuse at room temperature for **4-6 hours**
+4. Freeze for **12-48 hours** — fat solidifies on surface while alcohol stays liquid
+5. Skim fat, strain through cheesecloth
+6. Funnel back into bottle; **store refrigerated** (heat and oxidation cause funk)
+
+**Timing by fat type:**
+
+| Fat | Amount per 750 mL | Infusion Time | Result |
+|-----|-------------------|---------------|--------|
+| Bacon (rendered) | 1.5 oz | 4 hours | Smoky, salty, savory |
+| Peanut butter | 2 cups (melt first) | Overnight freeze | Nutty, smooth |
+| Duck/foie gras | ~2 oz rendered | 6-8 hours | Salty, fatty, hint of iron |
+| Butter/coconut oil | 1 oz | 4 hours | Rich, creamy mouthfeel |
+
+### Spirit Infusions
+
+Direct infusion of flavoring ingredients into whiskey.
+
+**Timing by ingredient type:**
+
+| Category | Examples | Time |
+|----------|----------|------|
+| Hot peppers | Jalapeño, habanero | **1 hour** |
+| Fresh fruit | Cucumber, strawberry, melon | **1 day** |
+| Candy | Oreos, butterfingers, Werther's | **15-20 minutes** |
+| Hops | Whole-cone (Galaxy, Citra) | **20 minutes** in French press |
+| Nuts (roasted) | Mixed nuts with spices | **24 hours** |
+| Oats/grains | Steel-cut oats + cinnamon | **3 hours**, then heat gently |
+| Delicate herbs/flowers | Lavender, thyme | **Up to 2 weeks** |
+| Leather | Vegetable-tanned calfskin | **2+ weeks** |
+
+**Rapid infusion (iSi Whip):** Stuff reservoir with ingredients, add whiskey, charge with N₂O cartridge, wait 1 minute, charge again, shake 1 minute, vent gas, strain. Completes in minutes what normally takes hours.
+
+**Sous vide infusion:** Vacuum-seal whiskey with ingredients; immerse at **135-155°F** for a few hours. Retains more flavor with minimal oxidation.
+
+**Practical tips:**
+- Use full bottles — fruit absorbs significant liquid
+- Test pairings first as simple syrup (cheaper than wasting spirit)
+- Start with fewer ingredients; add more as needed
+- Use $15-30 bottles for experimentation
+- Taste daily — timing varies significantly
+
+### Cryo-Concentration (Raising Proof)
+
+Freeze concentration raises proof by removing water as ice crystals. **Note:** This constitutes a form of concentration/distillation and may be regulated.
+
+**Method (from Dave Arnold):**
+1. Pour whiskey into an open container (Cambro)
+2. Place in a Styrofoam cooler alongside a 10-inch square block of dry ice
+3. Close cooler; wait until temperature drops below the crystallization point (~−23°C for 80-proof whiskey)
+4. When ice crystals form, filter them out **before they melt** using a French press or filter paper-lined funnel
+5. Measure new ABV with a hydrometer
+
+---
+
 ## References
 
 - Hicks, Rachel and Andrew Parsons. *Craft Gin Making*. Crowood Press, 2021.
 - Owens, Bill and Alan Dikty. *The Art of Distilling Whiskey and Other Spirits*. Quarry Books, 2009.
 - Davis, Bryan Alexander. *How To Make Whiskey: A Step-by-Step Guide to Making Whiskey*. CreateSpace, 2012.
 - Morris, Rick. *The Joy of Home Distilling: The Ultimate Guide to Making Your Own Vodka, Whiskey, Rum, Brandy, Moonshine, and More*. Skyhorse Publishing, 2014.
+- Goldfarb, Aaron. *Hacking Whiskey: Smoking, Blending, Fat Washing, and Other Whiskey Experiments*. Dovetail Press, 2018.
+- Parsons, Brad Thomas. *Amaro: The Spirited World of Bittersweet, Herbal Liqueurs*. Ten Speed Press, 2016.
+- Stewart, Amy. *The Drunken Botanist*. Algonquin Books, 2013.
 - [Distillers Wiki — Beginner's Guide](https://homedistiller.org/wiki/index.php/Beginner%27s_Guide) (homedistiller.org)
 - [Distillers Wiki — Cuts and Fractions](https://homedistiller.org/wiki/index.php/Cuts_and_fractions) (homedistiller.org)
 - [Distillers Wiki — Safety](https://homedistiller.org/wiki/index.php/Safety) (homedistiller.org)
