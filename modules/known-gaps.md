@@ -25,6 +25,22 @@
 
 ## Recently Added (2025-01-26)
 
+- [x] **Hop science module** (modules/hop-science.md, from Hieronymus *For The Love of Hops* 2012, Poel *The Hops List* 2018, DiSorbo & Christiansen *The Book of Hops* 2021)
+  - §1 Hop Biology: cone anatomy, composition table, neomexicanus subspecies
+  - §2 Hop Chemistry: alpha acids (humulone, cohumulone, adhumulone), isomerization (6 iso-alpha forms, temperature thresholds), beta acids, essential oils (myrcene, humulene, caryophyllene, farnesene), oxygenated compounds (linalool, geraniol, citronellol, cis-rose oxide), thiols (4MMP, 3MH, 3MHA, terroir effects), polyphenols (hop burn), xanthohumol
+  - §3 Hop Products: fresh/wet, whole leaf, T-90, T-45 (cryogenic lupulin-enriched), Cryo hops, CO₂ extract (supercritical/liquid), advanced products (iso-alpha, rho, tetra, hexa, beta acid, aroma products, Type 100), Hop Storage Index
+  - §4 Hopping Techniques: mash, first wort (German research), bittering, flavor, aroma, whirlpool/hopstand (utilization 15-22%), hop back, continuous (Dogfish Head), hop bursting, Randall
+  - §5 Dry Hopping: form (pellets vs cones vs T-45), temperature effects (32-77°F), quantity (0.25-4 oz/gal), contact time, timing (post-fermentation vs active/biotransformation, DDH), hop creep (enzyme mechanism, consequences, 6 mitigation strategies), hop burn (polyphenol astringency, prevention)
+  - §6 IBU Science: Tinseth formula with derivation, Rager/Garetz comparison, utilization factors (7 variables), perception vs measurement (BU:GU ratio, plateau above 50-60 IBU), SBU method
+  - §7 Variety Reference: 65+ profiles in 3 regional tables (American, European, Southern Hemisphere), Four Noble Hops, American C Hops
+  - §8 Advanced Techniques: biotransformation (mechanisms, practical application), Parish Sub Iso, Sierra Nevada Torpedo, Russian River Guth Tank Mixer, Wayfinder Cold IPA dry-hop spund, Burial Beer centrifuge, aged hops for spontaneous fermentation (2+ years, Jester King method)
+  - §9 Skunking: MBT photochemistry, glass color protection, tetra/hexa light-stable extracts
+  - §10 Terroir: regional flavor differences (Cascade AU vs US, Perle/Nugget thiol effects), harvest timing (Amarillo, El Dorado, Simcoe, Mosaic), growing regions (US, Germany, UK, Czech, NZ, Australia), industry scale
+  - §11 Style Selection: 20-style hop pairing table, IPA family comparison (5 subtypes), notable brewer palettes (Hill Farmstead, Other Half, Burial, Jester King)
+  - §12 Breeding History: 6 programs (Wye College, USDA/OSU, Hop Breeding Company, Hüll, HPA, NZ Plant & Food), ASCII lineage chart, timeline (2100 BCE to 2021)
+  - §13 Beer Style Specifications: 21-style table (IBU, SRM, ABV, mouthfeel, carbonation, serving temp)
+  - §14 Hieronymus classification system (B/N/O/P/S/T codes)
+
 - [x] **Sake science module** (modules/sake-science.md, from Atkinson *The Chemistry of Sake-Brewing*, 1881)
   - §1 Overview: multiple parallel fermentation (heiko fukuhakko), distinctions from beer/wine, historical context, production scale
   - §2 Rice: varieties (uruchi, mochigome, okaho), composition tables (hulled/whitened), polishing ratios (futsushu→daiginjo), preparation (washing, soaking, steaming)
@@ -396,10 +412,13 @@ Distillation module significantly expanded from *The Art of Distilling Whiskey a
 - Goldfarb, Aaron. *Hacking Whiskey: Smoking, Blending, Fat Washing, and Other Whiskey Experiments* (2018) — infinity bottles, small-barrel finishing, smoking, fat washing, infusions, cryo-concentration
 - Parsons, Brad Thomas. *Amaro: The Spirited World of Bittersweet, Herbal Liqueurs* (2016) — amaro taxonomy, production methods, fernet details, 4 seasonal DIY recipes, commercial profiles, cocktail applications
 - Stewart, Amy. *The Drunken Botanist* (2013) — botanical reference (gin, bitters, amaro), historical beverages, poisonous plant warnings, fermentation history
+- Hieronymus, Stan. *For The Love of Hops: The Practical Guide to Aroma, Bitterness and the Culture of Hops* (2012) — hop chemistry (alpha acids, iso-alpha forms, oils, thiols, polyphenols), hopping techniques (FWH research, whirlpool utilization, continuous, hop bursting), dry hopping science (form, temperature, contact time), hop products (T-90, T-45, CO₂ extract, advanced products), hop storage, skunking chemistry, 105 variety profiles, Hieronymus classification system (B/N/O/P/S/T)
+- Poel, Jeph. *The Hops List: 265 Beer Hop Varieties from Around the World* (2018) — 251 hop variety profiles with alpha/beta acids, cohumulone, total oil, myrcene/humulene/caryophyllene/farnesene percentages, substitutes, style recommendations, storability data
+- DiSorbo, Dan and Erik Christiansen. *The Book of Hops: A Craft Beer Lover's Guide to Hoppiness* (2021) — 46 variety profiles with parentage/lineage, hop chemistry fundamentals, processing products (fresh through Cryo), isomerization science, biotransformation, hop creep, hop burn, advanced techniques (Parish Sub Iso, Sierra Nevada Torpedo, Russian River Guth Tank Mixer, Wayfinder dry-hop spund), beer style specifications (20 styles), brewer hop palettes, hop cultivation history (2100 BCE-2021), breeding programs (Wye College, USDA, HBC, Hüll, HPA, NZ)
 
 ## Research Needed
 
-- Current best practices for hop products (Cryo, T-45, T-90 differences)
+- [x] ~~Current best practices for hop products (Cryo, T-45, T-90 differences)~~ — comprehensive hop science module added (modules/hop-science.md)
 - [x] ~~Latest yeast strain releases and characteristics~~ (comprehensive yeast guide added)
 - [x] ~~Modern water chemistry tools (Bru'n Water, Brewfather integration)~~ — comprehensive module added (modules/water-chemistry.md)
 - CO2 capture and sustainability practices

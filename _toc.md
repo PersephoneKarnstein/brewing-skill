@@ -3,6 +3,7 @@
 | Module | Purpose |
 | --- | --- |
 | [modules/core-guidance.md](modules/core-guidance.md) | Core fermentation principles, yeast biology, and production fundamentals. |
+| [modules/hop-science.md](modules/hop-science.md) | Comprehensive hop reference: biology, chemistry (alpha/beta acids, oils, thiols, polyphenols), products (T-90/T-45/Cryo/extract), hopping techniques, IBU science, dry hopping, biotransformation, hop creep, skunking, 70+ variety profiles, style pairing, breeding history. |
 | [modules/wine-science.md](modules/wine-science.md) | Wine fermentation science: yeasts, flavor chemistry, SO₂, faults, sweet wines, oak, Brett management. |
 | [modules/mead-science.md](modules/mead-science.md) | Comprehensive mead making: fermentation, nutrients, honey science, yeast selection, troubleshooting. |
 | [modules/distillation-science.md](modules/distillation-science.md) | Comprehensive spirits guide: still design, wash preparation, spirit runs, cuts, gin, genever, world whiskeys, vodka, brandy/cognac, rum, tequila/mezcal, liqueurs, amaro (taxonomy, fernet, DIY recipes, cocktails), vermouth, botanical safety, whiskey modification (finishing, smoking, fat washing, infusions). |
