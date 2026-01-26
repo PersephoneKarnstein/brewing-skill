@@ -5,7 +5,8 @@
 | [modules/core-guidance.md](modules/core-guidance.md) | Core fermentation principles, yeast biology, and production fundamentals. |
 | [modules/wine-science.md](modules/wine-science.md) | Wine fermentation science: yeasts, flavor chemistry, SO₂, faults, sweet wines, oak, Brett management. |
 | [modules/mead-science.md](modules/mead-science.md) | Comprehensive mead making: fermentation, nutrients, honey science, yeast selection, troubleshooting. |
-| [modules/distillation-science.md](modules/distillation-science.md) | Comprehensive spirits guide: still design, cuts, gin, world whiskeys, vodka, brandy/cognac, rum, tequila/mezcal, liqueurs. |
+| [modules/distillation-science.md](modules/distillation-science.md) | Comprehensive spirits guide: still design, wash preparation, spirit runs, cuts, gin, genever, world whiskeys, vodka, brandy/cognac, rum, tequila/mezcal, liqueurs, amaro, vermouth, safety. |
+| [modules/sake-science.md](modules/sake-science.md) | Sake brewing science: koji biochemistry, moto preparation, multiple parallel fermentation, moromi stages, shochu, mirin, modern classifications. |
 | [modules/water-chemistry.md](modules/water-chemistry.md) | Water chemistry: ions, mash pH, residual alkalinity, style profiles, treatment methods, building from RO. |
 | [modules/wild-fermentation.md](modules/wild-fermentation.md) | Wild/spontaneous fermentation: wild yeast biology, traditional beverages, indigenous beers. |
 | [modules/country-wine.md](modules/country-wine.md) | Country/fruit wine production: stone fruits, berries, flowers, vegetables, grains, troubleshooting. |
