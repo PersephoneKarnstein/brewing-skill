@@ -12,6 +12,7 @@
 | [modules/barrel-aging.md](modules/barrel-aging.md) | Barrel aging science: oxygen transfer, wood chemistry, management protocols, rotation schedules. |
 | [modules/legal-considerations.md](modules/legal-considerations.md) | Legal requirements: US federal/state laws, international distillation, competition labeling. |
 | [modules/recipe-modification.md](modules/recipe-modification.md) | Recipe modification: formulas for ABV, IBU, SRM, gravity, scaling, mash, carbonation, water chemistry. |
+| [modules/distillation-calculations.md](modules/distillation-calculations.md) | Distillation calculations: sugar wash, yield, dilution, proofing, blending, Pearson's Square, cuts, column design. |
 | [modules/known-gaps.md](modules/known-gaps.md) | Track missing evidence, unresolved questions, and validation tasks. |
 | [modules/research-checklist.md](modules/research-checklist.md) | Required web research workflow for keeping information current. |
 | [resources/recipes.md](resources/recipes.md) | Curated recipes: IPAs, stouts, porters, pilsners, hefeweizen, and meads. |
@@ -23,3 +24,4 @@
 | [resources/evaluators/rubric_brewery.json](resources/evaluators/rubric_brewery.json) | Quality assessment criteria for fermentation guidance. |
 | [scripts/brewing_calc.py](scripts/brewing_calc.py) | Python library: ABV, IBU (Tinseth/Rager), SRM, gravity, efficiency, mash, carbonation, yeast, recipe analysis. |
 | [scripts/water_calc.py](scripts/water_calc.py) | Python library: salt additions, ion profiles, residual alkalinity, SO₄:Cl ratio, build-from-RO, acid additions. |
+| [scripts/distilling_calc.py](scripts/distilling_calc.py) | Python library: sugar wash, distillate yield, dilution, proofing, blending, Pearson's Square, vapor speed, column design, cuts. |

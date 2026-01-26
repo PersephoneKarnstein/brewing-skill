@@ -196,6 +196,7 @@
 4. ~~Add barrel aging protocols and rotation schedules~~ — completed (modules/barrel-aging.md)
 5. ~~Include grain-free spirit wash recipes (sugar wash, fruit wash)~~ — basics covered in distillation module
 6. ~~Add recipe modification formulas and calculation scripts~~ — completed (modules/recipe-modification.md, scripts/brewing_calc.py, scripts/water_calc.py)
+7. ~~Add distillation calculation scripts (wash, yield, dilution, proofing, column design)~~ — completed (modules/distillation-calculations.md, scripts/distilling_calc.py)
 
 ## Distilled Spirits Expansion (Completed 2025-01-25)
 
