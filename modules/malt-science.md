@@ -531,6 +531,115 @@ Malt conditioning (briefly wetting husks before milling) can improve husk integr
 
 ---
 
+## 12. Smoked Malts and Smoked Beer
+
+### Smoke Chemistry
+
+Smoke flavor in malt comes from phenolic compounds produced during pyrolysis (thermal decomposition) of wood lignin. The primary smoke-flavor compounds are:
+
+| Compound | Flavor Character | Notes |
+|----------|-----------------|-------|
+| **Guaiacol** | Smoky, earthy, medicinal | High impact at low ppm; primary smoke marker |
+| **4-Methylguaiacol** | Woody, vanilla, ashy | Key smoke compound alongside guaiacol |
+| **Syringol** | Ashy, smoky | More abundant from hardwood (angiosperm) smoke |
+| **Phenol** | Medicinal, band-aid | Highest concentration but lower sensory activity |
+| **Cresols** (o-, m-, p-) | Tar, asphalt, burnt | Higher in peat-smoked malts |
+| **4-Ethylguaiacol** | Smoky, creosote | Minor contributor |
+
+Wood type determines the smoke profile: **Softwoods** (gymnosperms) produce more guaiacol from their lignin. **Hardwoods** (angiosperms) produce more syringol. Peat produces high levels of phenol and cresols alongside guaiacols, giving a more intense, medicinal character.
+
+### Commercial Smoked Malts
+
+| Malt | Wood Source | Color (°L) | Smoke Intensity | Character | Recommended Usage |
+|------|-----------|-----------|----------------|-----------|-------------------|
+| **Weyermann Beechwood Rauchmalz** | Beechwood | 3-6 | Moderate | Sweet, bacon, campfire | 20-100% (the classic Bamberg malt) |
+| **Weyermann Oak Smoked Wheat** | Oak | 3-5 | Moderate-light | Smooth, rounded, subtle | 5-50% |
+| **Briess Cherry Wood Smoked** | Cherry | 5 | Moderate | Fruity, sweet smoke | 10-50% |
+| **Briess Mesquite Smoked** | Mesquite | 5 | Strong | Assertive, BBQ-like | 5-30% (use judiciously) |
+| **Peat-smoked malt** (whisky malt) | Peat | 3-5 | Very strong | Medicinal, phenolic, iodine | 1-5% maximum (extremely intense) |
+
+**Smoked malt is a base malt** — it has full diastatic power and can convert itself in the mash. It can be used at any percentage from 1% to 100%.
+
+**Freshness matters**: Smoke character fades over time. Use fresh smoked malt for maximum impact. Older smoked malt produces noticeably less smoke flavor.
+
+### DIY Smoking Malt at Home
+
+Home-smoked malt is typically more intense than commercial smoked malt.
+
+**Method** (Weber grill, cold smoker, or dedicated smoker):
+1. Spread base malt (pale or Pilsner) in a single layer on a fine-mesh screen or perforated pan
+2. Use soaked wood chips or chunks — **no lighter fluid or self-lighting charcoal**
+3. Keep temperature **below 180°F (82°C)** to preserve diastatic enzymes
+4. Smoke for 1-3 hours, stirring occasionally for even exposure
+5. Dry the malt thoroughly before storage (smoke adds moisture)
+
+**Wood selection**:
+
+| Wood | Smoke Character | Pairs Well With |
+|------|----------------|----------------|
+| Beechwood | Classic Bamberg, balanced | Märzen, lager, porter |
+| Cherry | Sweet, fruity, mild | Porter, brown ale, wheat |
+| Apple | Light, sweet, delicate | Wheat beer, session ales |
+| Oak | Round, smooth, vanilla | Stout, porter, scotch ale |
+| Hickory | Assertive, bacon | Porter, strong ale |
+| Alder | Delicate, woody | Lighter beers, seafood pairing |
+| Mesquite | Strong, pungent | Use sparingly; smoked porter |
+| Pecan | Sweet, nutty, mild | Brown ale, amber |
+| Maple | Sweet, mild | Amber, wheat |
+
+**Tips**: Use chlorine-free water to soak wood chips. Use fine mesh to protect malt from ash and tar. Cool fire with no glowing coals or flames — cold smoke is best for preserving enzymes.
+
+### Smoked Beer Styles
+
+| Style | Smoked Malt % | OG | ABV | IBU | Character |
+|-------|--------------|-----|-----|-----|-----------|
+| **Bamberg Rauchbier** (Märzen) | 50-100% beechwood | 1.050-1.057 | 4.8-6.0 | 20-30 | Dominant smoke over clean Märzen base |
+| **Grätzer/Grodziskie** | 100% oak-smoked wheat | 1.028-1.036 | 2.5-3.6 | 20-35 | Light, crisp, effervescent, Polish |
+| **Lichtenhainer** | ~50% smoked wheat | 1.032-1.040 | 3.5-4.7 | 5-12 | Sour smoked wheat; lactic tartness |
+| **Smoked Porter** | 15-50% | 1.050-1.065 | 5.0-6.5 | 20-40 | Smoke complements dark malt |
+| **Smoked Helles** | 20-40% | 1.044-1.052 | 4.5-5.5 | 16-22 | Subtle smoke, clean lager base |
+| **Smoked Bock** | 30-60% | 1.064-1.072 | 6.0-7.5 | 20-30 | Rich, malty, substantial smoke |
+
+**Schlenkerla** (Bamberg) brews with 100% beechwood-smoked malt they kiln themselves. **Spezial** (also Bamberg) uses a lighter hand, producing more subtle smoke character.
+
+### Brewing with Smoked Malt
+
+**Grain bill percentages** (beechwood Rauchmalz):
+- **1-5%**: Smoky highlights that accentuate other flavors without dominating
+- **~11%**: Mild smoke presence (Carton Brewing's approach for some styles)
+- **20-30%**: Noticeable smoke that shares the stage with other malt character
+- **~45%**: Strong smoke — a good target for a first Rauchbier (Brülosophy finding)
+- **60-80%**: Heavy smoke; experienced Rauchbier brewers' range
+- **100%**: Traditional Bamberg Rauchbier — full smoke expression
+
+**Peat-smoked malt** is vastly more intense — keep below **5%**, often **1%** is sufficient. Using peat malt at Rauchmalz percentages is a common beginner mistake.
+
+**Smoke perception is non-linear**: Above ~50-60%, increasing smoked malt percentage produces diminishing returns in perceived smokiness.
+
+**Water chemistry**: Smoked beers are malt-forward. Favor chloride over sulfate:
+- Sulfate: 50-75 ppm (keep low to avoid harsh/sulfury clash with smoke)
+- Chloride: 75-100 ppm (supports malt character)
+- Sulfate:chloride ratio: 0.5-0.7
+
+**Hopping**: Restrained bitterness with noble hops. Some brewers add slightly more hops than typical for the base style, finding that moderate bitterness accentuates and balances smoke character. Harsh, burnt, charred, rubbery, sulfury, or phenolic smoke is a fault (BJCP).
+
+**Yeast**: Clean, neutral strains that don't compete with smoke character. German lager yeast (34/70) for Rauchbier. Avoid highly estery or phenolic strains.
+
+**Fermentation**: Cool and clean. Higher temperatures produce esters that can clash with smoke character.
+
+**Aging**: Smoke character evolves over time — typically intensifies in the first few weeks, then gradually fades over months. Brew to style within 1-3 months for optimal smoke expression.
+
+### Common Mistakes
+
+1. Using peat-smoked malt thinking it's beechwood — completely different intensity and character
+2. Too much smoked malt for a first attempt — start at 20-30% and adjust upward
+3. Not accounting for smoke fade over time — freshness of malt and beer both matter
+4. Over-hopping — aggressive bitterness clashes with smoke
+5. Using overly estery yeast strains
+6. Ignoring water chemistry — high sulfate accentuates harsh smoke edges
+
+---
+
 ## Quick Reference: Maillard Reactions in Malting
 
 The Maillard reaction is the primary driver of color and flavor development in kilned and roasted malts. It occurs between amino acids (from protein breakdown) and reducing sugars at elevated temperatures:

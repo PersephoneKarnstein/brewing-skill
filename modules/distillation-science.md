@@ -1328,13 +1328,351 @@ Northern European clear or flavored spirits (German *Schnaps*, "gulp"). Made fro
 
 ### Anise-Flavored Spirits
 
-| Spirit | Origin | Character |
-|--------|--------|-----------|
-| **Pastis** | France | Macerated; licorice-forward |
-| **Absinthe** | France/Switzerland | Distilled; wormwood, anise, fennel |
-| **Ouzo** | Greece | Distilled; drier than pastis |
-| **Sambuca** | Italy | Distilled then sweetened |
-| **Arak** | Middle East | Distilled from grapes with anise |
+| Spirit | Origin | Base | Botanicals | Production | ABV | Serving |
+|--------|--------|------|------------|------------|-----|---------|
+| **Ouzo** | Greece | Grape pomace or neutral spirit | Aniseed, fennel, star anise, mastic, cardamom, coriander, clove, cinnamon | Distilled in copper pot stills (20%+ distillate content required) | 37.5–48% | With cold water (louche); meze tradition |
+| **Arak** | Lebanon, Syria, Israel, Jordan | Grapes (Obaideh, Merwah) | Aniseed (Damascus region) | Triple-distilled in copper alembics; aged 1–3 years in clay amphoras | 50–70% | Diluted ~1:2 with water + ice; with meze |
+| **Raki** | Turkey | Grape pomace and/or raisins | Aniseed | Double-distilled in copper stills | 40–50% | Diluted with water; with meze ("lion's milk") |
+| **Pastis** | France | Neutral spirit | Anise, star anise, fennel, licorice root, Provencal herbs | Maceration + percolation (not redistilled) | 40–45% | Diluted 1:5 with cold water |
+| **Absinthe** | France/Switzerland | Neutral spirit | Grand wormwood, anise, fennel, hyssop, melissa | Macerated then redistilled; optional coloring maceration | 40–74% | Dripped water 3:1–5:1 over sugar cube |
+| **Sambuca** | Italy | Neutral spirit | Star anise (or green anise), elderflower, licorice | Steam distillation of essential oils; sweetened | 38%+ | Neat with 3 coffee beans (*con la mosca*) |
+| **Mastika** | Bulgaria, N. Macedonia | Grape pomace, plums, or grain | Aniseed and/or mastic resin | Distilled; anise infused or redistilled | 40–50% | Chilled neat or with water; with meze |
+| **Chinchon / Anis** | Spain | Neutral spirit | Green anise (*Pimpinella anisum*) | Macerated in copper stills; sweetened (sweet/semi/dry) | 35–74% | With ice; or mixed with brandy (*sol y sombra*) |
+
+#### The Louche Effect (Ouzo Effect)
+
+All anise-flavored spirits share a characteristic phenomenon: when water is added, the clear spirit turns milky-white. This is a **physical** (not chemical) process caused by the essential oil **trans-anethole** (*C*10*H*12*O*), the compound responsible for the anise/licorice flavor.
+
+- **Mechanism**: Trans-anethole is soluble in ethanol at concentrations above ~38% ABV but insoluble in water. When the spirit is diluted, ethanol partitions preferentially with water, reducing anethole's solubility. The anethole precipitates as oil-in-water microdroplets (~1–3 micrometers diameter) that scatter light (Tyndall effect), producing the milky opalescence
+- **Stability**: Unlike most emulsions (which require vigorous agitation or surfactants), the ouzo emulsion forms **spontaneously** and is remarkably stable — droplets do not coalesce but grow only slowly by Ostwald ripening, stabilized by an internal structure with high anethole concentration at the edge and ethanol at the center
+- **Temperature sensitivity**: Cooling can also trigger louching without adding water, because anethole solubility decreases with temperature
+- **Practical test**: If a spirit marketed as anise-flavored does not louche when diluted, botanical extraction was insufficient
+
+---
+
+### Arrack / Arak: A Family of Distinct Spirits
+
+**Terminology**: The word "arrack" (also "arak") derives from Arabic *arak* (عرق), meaning "distillate" — essentially a catch-all term for distilled spirits in Hindi and Arabic, much like "liquor" in English. This single word refers to **several entirely different spirits** depending on region, and confusing them is a common error. The three major categories are:
+
+| Type | Region | Base | Flavor | Key Difference |
+|------|--------|------|--------|----------------|
+| **Coconut/Toddy Arrack** | Sri Lanka, South India | Coconut palm sap (toddy) | Floral, rum-like, no anise | Naturally fermented palm sap, pot-distilled |
+| **Batavia Arrack** | Indonesia (Java) | Sugarcane molasses + red rice | Funky, complex, rum-like | Red rice koji fermentation, pot-distilled |
+| **Middle Eastern Arak** | Lebanon, Syria, Israel, Jordan | Grapes | Anise-flavored | Triple-distilled with aniseed; completely different product |
+| **Other regional arracks** | India (Goa), Philippines, Bali | Palm sap, rice, dates, fruit | Varies widely | Local variants; often unaged |
+
+#### Coconut/Toddy Arrack (Sri Lanka)
+
+Sri Lanka is the world's largest producer of toddy (coconut) arrack and one of the oldest — Arab chroniclers recorded Sri Lankan distilled spirits as early as the 5th century CE, making it among the oldest distilled spirits in the world, predating Scotch whisky by centuries.
+
+**Raw material**: The entire process depends on a single ingredient — the sap of unopened flowers from mature coconut palms (*Cocos nucifera*). This sap contains 10–12% sucrose alongside glucose and fructose, with total soluble solids of 10–15 degrees Brix.
+
+**Toddy tapping**: Traditional toddy tappers climb mature coconut palms (often walking tightropes tied between adjacent trees at dangerous heights) to cut the "spathes" — the stalks from which flowers grow — and collect the sap that runs out into clay pots or bamboo containers. Tapping is most common along western coastal areas of Sri Lanka (Panadura, Wadduwa, Maggona, Payagala, Beruwala, Aluthgama). The sap begins fermenting almost immediately due to concentrated sugar and wild yeast content.
+
+**Fermentation**: Within hours of collection, toddy is poured into large wooden washbacks made from teak or *Berrya cordifolia* (halmilla wood). Natural/wild yeast fermentation (no inoculation required) proceeds rapidly:
+- Fermentation reaches 5–7% ABV
+- pH drops to 3.5–4.0 from acetic and lactic acid production
+- Must be processed quickly — if left more than a few days, the toddy turns to vinegar
+- The entire fermentation-to-distillation process completes within 24 hours
+
+**Distillation**: Generally a two-step process:
+- **First distillation** produces "low wine" at 20–40% ABV
+- **Second distillation** yields the final spirit at 60–90% ABV
+- Both pot stills and column stills are used (column stills introduced in the 1920s)
+- Diluted to 33–50% ABV for consumption
+
+**Aging**: Premium aged coconut arracks are matured in **halmilla wood** (*Berrya ammonilla*) vats — a dense, local hardwood — for up to 15 years:
+- After 2+ years aging, it can legally be called "Old Arrack"
+- VSOA (Very Special Old Arrack) is the premium designation
+- Halmilla wood contributes subtle character distinct from oak
+
+**Flavor profile**: Hints of cognac and rum character with delicate floral notes. Volatile compounds include ethyl acetate and isoamyl acetate contributing floral and fruity sensory profiles. Less harsh burn than traditional sugar-based rum.
+
+**Major producers** (Sri Lanka):
+- **DCSL** (Distilleries Company of Sri Lanka) — largest producer; makes VSOA (Very Special Old Arrack), 100% pure coconut arrack, double-distilled, aged 2+ years in halmilla vats, 36.8% ABV
+- **IDL** (International Distilleries Ltd) — second largest
+- **Rockland Distilleries** — third largest
+- **Mendis** — premium producer
+
+#### Batavia Arrack (Indonesia/Java)
+
+Batavia Arrack is one of the world's oldest international luxury spirits, with evidence of production dating to the 8th century in the East Indies. Named for the Dutch colonial capital of Java (modern-day Jakarta), it was the spirit that fueled the global punch craze of the 18th and 19th centuries.
+
+**Base materials**: Sugarcane molasses (98%) and fermented red Javanese rice (2%). Though the proportion of rice is small, it is the critical differentiator from rum.
+
+**Fermentation — the role of red rice and *Amylomyces rouxii***: What sets Batavia Arrack apart from rum is the traditional **ragi** (starter culture) fermentation. Dried cakes of red rice containing wild yeast and fungi are added to the molasses:
+- **Saccharification**: Molds — primarily *Amylomyces rouxii* (also known as *Chlamydomucor oryzae*, *Mucor rouxii*) and *Rhizopus oryzae* — produce **amylase** and **amyloglucosidase** enzymes that hydrolyze the rice starches into fermentable sugars. This phase lasts 12–24 hours at 30–35 degrees C
+- **Alcoholic fermentation**: Yeasts present in the ragi — *Saccharomyces cerevisiae*, *Saccharomycopsis fibuliger*, *Endomycopsis burtonii* — convert the sugars to alcohol
+- *A. rouxii* is a monotypic genus (only one species) that breaks down starch to glucose but cannot sporulate; it is the same organism central to Indonesian tapai (fermented rice paste) production
+- This technique traces back thousands of years to Chinese fermentation traditions and predates the invention of distillation itself
+
+**Distillation**: Traditional pot stills using ancient Chinese distillers' methods:
+- Double distillation in clay pot stills (column stills were not available until the 1800s)
+- Distilled to approximately 70% ABV
+
+**Aging**: Aged in teak and oak barrels, up to 8 years for premium expressions.
+
+**Historical significance and the punch connection**: Batavia Arrack was the **original base ingredient of punch**, the mixed drink that predates the cocktail:
+- The British East India Company shipped arrack, citrus, sugar, and spices into London's East India Docks for Punch Houses
+- The word "punch" likely derives from Persian/Hindi *panj* ("five") for its five ingredients: spirit, sugar, lemon, water, and tea/spices
+- Historical records suggest Batavia Arrack was generally considered superior to Caribbean rums
+
+**Swedish Punsch**: When the Swedish East India Company's ship *Fredericus Rex Sueciae* made an unplanned stop in Batavia in January 1733, Swedish sailors discovered the spirit. This encounter launched a national obsession:
+- In Sweden and Finland, arrack became the preferential punch base (spelled "punsch" rather than "punch")
+- Until the 1840s, punsch was served warm: sugar dissolved in hot water, mixed with arrack, neutral spirits, and Rhine wine
+- In 1845, J. Cederlunds Soner began selling premixed bottled punsch, revolutionizing the category
+- By the late 1800s, up to 5 million liters sold annually to a Swedish population of ~5.1 million
+- Punsch influenced Swedish culture so deeply that ~80 words in the Swedish dictionary derive from it
+- Thursday tradition: warm punsch served with yellow pea and pork soup (*artsoppa*) and pancakes
+- **As a cocktail ingredient**: Swedish Punsch appears in 50+ classic cocktails (Doctor Cocktail, Have a Heart, Mabel Berra from Hugo Ensslin's 1916 *Recipes for Mixed Drinks*)
+- Swedish immigrants brought punsch to America around 1860, inspiring mixed drinks during America's first golden age of the cocktail
+
+**Notable brands**:
+- **Batavia Arrack van Oosten** — flagship revival brand; aged in teak and oak barrels
+- **By the Dutch** — modern Dutch producer continuing the tradition
+- **KRONAN** — Swedish punsch brand, reintroduced in 2012
+
+**Uses beyond drinking**: Batavia arrack enhances flavor in pastries (Finnish Runeberg torte, Dresdner Stollen), confectionery, herbal/bitter liqueurs, and alcoholic punches.
+
+#### Middle Eastern Arak
+
+Arak (Arabic: عرق) is the traditional anise-flavored spirit of the Levant — Lebanon, Syria, Jordan, Israel, and Palestine — and one of the oldest distilled spirits in the world. Often called the national drink of Lebanon, it is entirely distinct from Asian arrack despite sharing an etymological root.
+
+**Historical origins**: Arab chemist Jabir ibn Hayyan pioneered alcohol distillation during the 8th century using an alembic still, producing what may be considered proto-arak. The Levant stands as its birthplace, with production traditions stretching back nearly a millennium.
+
+**Grape selection and fermentation**:
+- Grapes are left on the vine until late September or early October for maximum sugar concentration
+- **Key varieties** (Lebanon): Obaideh and Merwah — indigenous Lebanese grapes
+- Harvested grapes are crushed in barrels and fermented with their juice (*El romeli* in Arabic) for approximately three weeks
+- Barrels are periodically stirred to release CO2
+
+**Triple distillation** — the defining production method:
+1. **First distillation**: Concentrates the fermented grape wine, raising alcohol content significantly
+2. **Second distillation**: Purifies the spirit, removing volatile compounds from fermentation; yields ~73% ABV
+3. **Third distillation**: Aniseed is added to the still. The alcohol vaporizes carrying aromatic compounds from the anise. Aniseed is often sourced from the Damascus region of Syria, considered among the finest
+- Traditional alembic stills called *karkehs* are used throughout
+- Copper pot stills contribute to arak's smooth taste
+
+**Aging**: After distillation, arak rests in **clay amphoras** (not wood) for 1–3 years. The clay is porous enough to allow micro-oxidation without imparting wood flavors, preserving the pure anise-grape character.
+
+**Alcohol content**: Typically 50–70% ABV (100–140 proof); 53% ABV is considered standard.
+
+**Regulations**: A 1937 Lebanese law stipulated that the name "Arak" could only be used for spirits produced by fermenting grapes and distilling them through aniseed seeds, requiring triple distillation and at least 6 months aging. A 1997 decree relaxed this to permit industrial spirits (with ingredients listed on the label) due to grape scarcity following the 1976 Syrian invasion and winery closures.
+
+**Service**: The classic preparation is 1 part arak to approximately 2 parts cold water, added in that order (water to arak), which triggers the louche effect. Fresh ice is added after dilution. Always served in a clean glass (residual arak in a used glass can affect the louche). Traditionally accompanied by meze — dozens of small dishes — and grilled meat.
+
+**Key production regions**:
+- **Lebanon**: The Bekaa Valley, especially **Zahle** (Arak Zahlawi), is the center of production
+- **Syria**: Tends toward stronger anise flavor; subtle differences from regional aniseed
+- **Israel/Palestine**: Active production tradition
+
+**Notable producers**: Ksara, Gantous and Abou Raad, Massaya, El Rif, Brun, Touma, Kefraya
+
+#### Other Regional Arracks
+
+- **Balinese Arak**: Distilled from *tuak* (fermented sap of coconut palm, harvested by cutting undeveloped flower buds). Often made from a combination of coconut palm sap and rice
+- **Date Arrack / Date Palm Arrack**: Made from the sap of date palms, collected and fermented into palm wine, then distilled. The Arabic word *arak* itself originally referred to beverages brewed from date palm sap
+- **Rice Arrack**: Common across Indonesia; rice-based arracks are widely sold alongside the better-known molasses-based Batavia style. The ancient Greek geographer Strabo recorded that Indians made a beverage from rice known as arak
+- **Goa/Indian Arrack**: The first arrack to enter global trade was palm arrack from Goa and southern/western India, carried by Portuguese traders. Indian palm arracks are generally unaged. Known colloquially as *desi daru* in many parts of India
+- **Filipino Lambanog**: Distilled from *tuba* (fermented coconut palm sap); closely related to toddy arrack. Nipa palm sap variant is called *laksoy*
+
+---
+
+### Ouzo (Ouzou)
+
+Ouzo is Greece's national anise-flavored spirit, a dry aperitif with **EU Protected Designation of Origin** status — it may only be produced in Greece (and Cyprus). It evolved from tsipouro, said to have been first produced by 14th-century monks on Mount Athos who flavored it with anise. Modern ouzo distillation began in the early 19th century following Greek independence; the first ouzo distillery was founded in **Tyrnavos in 1856** by Nikolaos Katsaros. In 1932, producers developed the copper pot still method that became the standard. Today over 300 ouzo producers operate in Greece.
+
+#### Production Process
+
+**Step 1 — Preparation of "ouzo yeast" (*magia ouzou*)**: A base of 96% ABV rectified spirit (from agricultural products) is combined with water and flavoring botanicals, then left to stand for 1–3 days for the herbs to release their flavors and aromas.
+
+**Core botanicals**:
+- **Aniseed** (*Pimpinella anisum*) — the defining, mandatory flavor; must be the dominant note
+- Star anise (*Illicium verum*) — complementary anise character
+- Fennel — sweet anise note
+- Chios mastic resin (*Pistacia lentiscus*) — piney, resinous (particularly in Lesbos ouzos)
+- Coriander, cinnamon, cardamom (known as *kakoules*), clove, peppermint, ginger, angelica root, linden
+
+No artificial flavors or synthetic substances are permitted.
+
+**Step 2 — Distillation**: The ouzo yeast is distilled in traditional **handmade copper pot stills** (capacity up to 1,000 liters by regulation):
+- Distillation proceeds at even temperature for several hours
+- The distillate emerges at approximately 80% ABV
+- Must distill between 55% and 80% ABV per regulation
+- **Heads and tails are removed** to avoid light and heavy alcohols/aromatics
+- Only the **heart** cut is retained
+
+**Step 3 — Ripening (*adoloto*)**: The heart distillate is stored in large tanks for a settling period where ingredients bond and flavors integrate.
+
+**Step 4 — Dilution and bottling**: Pure spring water is added to bring the alcohol level to 37.5–48% ABV. Sugar may be added (maximum 50 grams per liter). The final product must be colorless.
+
+#### Regulatory Framework
+
+Per EU Regulation 1576/89 and Greek law:
+- Must be produced **exclusively in Greece** (on October 25, 2006, Greece secured this exclusive right)
+- At least **20% of the total alcohol** must derive from distillation with anise ("ouzo yeast")
+- Minimum **37.5% ABV**
+- Maximum **50 g/L sugar**; must be colorless
+- Copper pot stills only, maximum 1,000-liter capacity
+- **"100% distilled" label**: When the entire product is pure distilled ouzo mixed with spring water (highest quality; extremely aromatic). Standard ouzo without this label contains at least 20% distilled ouzo with the remainder being alcohol, water, and natural flavorings
+
+**Five PDO/PGI regional designations**: Ouzo of Macedonia, Ouzo of Thrace, Ouzo of Kalamata, Ouzo of Mitilene (Mytilene), and Ouzo of Plomari — each confining production and raw materials (including botanicals) to their respective areas.
+
+#### Key Producing Regions
+
+**Lesbos (Lesvos)** — the undisputed capital of ouzo:
+- 17 distilleries produce ~50% of all Greek ouzo
+- 3 of the top 5 Greek ouzo brands come from Lesbos
+- **Plomari** (southern Lesbos) is internationally recognized as the birthplace of ouzo, with distilleries dating to the 19th century. Provides a superior local variety of anise
+- **Mytilene** (capital of Lesbos): Multiple distilleries including MINI and Matis (since 1882)
+
+**Tyrnavos** (Thessaly) — site of the first ouzo distillery (1856)
+
+**Thessaloniki** — important production center in northern Greece
+
+#### Notable Brands
+
+| Brand | Region | ABV | Notes |
+|-------|--------|-----|-------|
+| **Barbayiannis (Varvayannis)** | Plomari, Lesbos | 46% | Founded 1860 by Efstathios Barbayannis (who brought distillation knowledge from Odessa); 5 generations; "Blue Ouzo"; strongest major ouzo |
+| **Ouzo Plomari (Isidoros Arvanitis)** | Plomari, Lesbos | 40% | Founded 1894; one of Greece's best-selling ouzos |
+| **MINI** | Mytilene, Lesbos | 40% | Mild and smooth; very popular nationwide |
+| **Ouzo 12** | Thessaloniki | 38% | One of the most widely exported Greek ouzos |
+| **Tsantali** | Thessaloniki | 38% | Major producer and exporter |
+| **Sans Rival** | Various | 40–46% | Premium ouzo brand |
+| **Matis** | Mytilene, Lesbos | 42% | Since 1882; multiple international awards |
+
+#### Serving
+
+Traditional ouzo service is inseparable from the Greek **meze** culture:
+- Pour ouzo into a small, narrow glass
+- Add **cold water** slowly (triggers the louche); typical ratio 1:1 to 1:2
+- Optionally add ice **after** the water (adding ice first can cause crystallization of anethole on the surface)
+- Accompany with small plates of meze: octopus, sardines, olives, feta, cucumbers, tomatoes
+- Consumed slowly — ouzo is a social drink meant to accompany food and conversation, never rushed
+
+---
+
+### Raki (Turkish)
+
+Raki (also *raki*) is the national drink of Turkey, nicknamed **"lion's milk"** (*aslan sutu*) for its milky appearance when diluted. It is an anise-flavored spirit made from grape pomace and/or raisins.
+
+**History**: During the Ottoman period, raki was produced from grape pomace (*cibre*) obtained during wine fermentation. When pomace was scarce, imported European alcohol was added. Unflavored versions were called *duz raki* ("straight raki"); versions with gum mastic were *sakiz rakisi*. In 1926, the Turkish state monopolized production, standardizing quality.
+
+**Production**:
+1. **Raw materials**: Grape pomace (skins, seeds, pulp remaining after wine pressing), sometimes supplemented with raisins. Key grape varieties: white Rasaki and red Kalecik Karasi (both Turkish indigenous varieties)
+2. **Fermentation**: Pomace is crushed (sometimes with raisins for sweetness), macerated for several days, then fermented 2–4 weeks to produce **suma** (the alcoholic base)
+3. **First distillation**: Fermented pomace distilled in copper pot stills, retaining grape character
+4. **Second distillation**: The suma is redistilled with high-quality **aniseed** added to the still. Slow, controlled distillation extracts anise aromatics while separating undesirable compounds
+5. **Dilution**: High-proof distillate is diluted with pure water to 40–50% ABV (minimum 40% by Turkish regulation)
+
+**Fresh-grape raki** (*yas uzum rakisi*): A newer, premium category. Efe Raki was the first company to produce raki exclusively from fresh grape suma rather than pomace/raisins. Considered closer to ouzo in character but with higher alcohol content.
+
+**How raki differs from ouzo and arak**:
+- Raki is **less sweet** than ouzo and sambuca, allowing anise's natural earthiness to emerge
+- Raki is typically **twice-distilled** (vs. arak's triple distillation)
+- Arak is generally **stronger** and more intense than raki (50–70% vs. 40–50%)
+- Ouzo may use a wider range of base alcohols and botanicals; raki is more narrowly defined
+
+**Notable brands**: Yeni Raki (made from raisins; Turkey's most popular), Tekirdag Rakisi (made from grapes), Efe Raki (fresh grape pioneer)
+
+**Service**: Diluted with cold water (1:1 to 1:2 ratio), served with meze. The *raki sofrasi* ("raki table") is a central Turkish social institution.
+
+**Note on Cretan Raki (Tsikoudia)**: Despite sharing a name, Cretan raki is **not** anise-flavored. It is a single-distilled grape pomace spirit (essentially a grappa), retaining the natural grape flavor. It is more properly compared to Italian grappa than to Turkish raki.
+
+---
+
+### Pastis (French)
+
+Pastis is France's anise and licorice spirit, first commercialized by **Paul Ricard in 1932** — seventeen years after the 1915 ban on absinthe. It is especially popular in southeastern France, above all in Marseille and the departments of Bouches-du-Rhone and Var.
+
+**Legal definition**:
+- Anise-flavored spirit containing **additional flavor of licorice root** (this distinguishes it from other anise spirits)
+- Minimum **40% ABV** (standard pastis) or **45% ABV** (Pastis de Marseille)
+- Less than 100 g/L sugar
+- **Pastis de Marseille** must also have an anethole concentration of 2 g/L
+
+**Key ingredients**: Every recipe requires two essential components — **licorice** and **anise**:
+- Anethole is derived from a blend of star anise (*badiane*) from China and fennel (*anis vert*) from France
+- Additional herbs: coriander, cloves, cardamom, and other Provencal herbs vary by producer
+
+**Production** — maceration, not distillation (unlike absinthe):
+- Botanicals are macerated in water, oil, or alcohol for days to weeks
+- Licorice root is often extracted separately via percolation (spirit forced under pressure over shredded root, repeated multiple times)
+- Ricard's process: licorice bark is shaved by hand; the core is shredded and percolated three times; anethole is heated to 38 degrees C for incorporation; licorice extract and a secret blend of Provencal herbs are added; rigorous cellulose filtration; no barrel aging
+- The master blender combines anise-flavored alcohol, licorice extract, purified water, and a touch of caramel for color
+- Final blend rests to marry flavors before bottling at 40–45% ABV
+
+**Ricard vs. Pernod**: Ricard is more **licorice-forward**; Pernod 51 is lighter and more **star anise-focused**. The two companies merged in 1975 to form the Pernod Ricard group.
+
+**Serving**: Paul Ricard's original method — serve cold in a **1:5 dilution** with chilled water (e.g., 20 mL pastis to 100 mL water), then add ice cubes. Water is added before ice due to anethole's cold sensitivity. The prepared drink reaches approximately 7–9% ABV.
+
+---
+
+### Sambuca (Italian)
+
+An Italian anise-flavored liqueur with roots dating to **1851**, when Luigi Manzi of the Neapolitan isle of Ischia began production near the port of Civitavecchia. The name derives either from Latin *sambucus* ("elderberry") or, per Molinari, from the Arabic *zammut*, an anise drink that arrived at Civitavecchia by ship from the East.
+
+**Production**:
+- **Star anise** (*Illicium verum*) is steam-distilled to extract essential oils (some producers use green anise instead)
+- Essential oils are blended with sugar, water, and other natural flavors
+- Filtered for crystal clarity
+- EU protection (2008) requires minimum **350 g/L sugar** and **38% ABV**
+- Other possible ingredients: elderflower, licorice, and various spices (though elderflower is now rare — Sarandrea claims to be the only producer still using it)
+
+**Varieties**:
+- **White (Bianca)** — the most common and traditional; anise, licorice, white elderflowers
+- **Black (Nera)** — flavored with elderberries or licorice; darker appearance
+- **Red (Rossa)** — additional spices including cinnamon
+
+**Serving — *Con la Mosca* ("with flies")**:
+- Three roasted coffee beans are floated in the glass, symbolizing health, happiness, and prosperity
+- The beans are chewed while sipping, balancing intense sweetness with bitterness
+- The shot may be briefly ignited to toast the beans, flame extinguished before drinking
+- Also added to espresso as **Caffe Corretto**
+
+**Notable brands**: Molinari (est. 1945, synonymous with the category), Luxardo (more intense anise, higher ABV), Pallini (balanced, versatile), Antica (range includes black sambuca), Sarandrea (artisanal, uses elderflower)
+
+---
+
+### Mastika (Bulgarian / North Macedonian)
+
+Mastika is the national drink of North Macedonia and widely consumed in Bulgaria and Serbia — a clear anise-flavored spirit of the Southern Balkans.
+
+**Key distinction from Greek mastiha**: Greek mastiha liqueur gets its flavor from **mastic resin** (*Pistacia lentiscus*) from the island of Chios. Balkan mastika relies primarily on **aniseed**, though some variants include mastic resin. When mastic resin supplies were limited, producers substituted or supplemented with anise, resulting in a range from strongly resinous to predominantly anise-based.
+
+**Production**: Grape pomace, plums, figs, or other fruits are distilled, then infused with aniseed. Some producers add honey. The flavoring may be added directly to the spirit or combined before a second distillation. Grape juice combined with anise seed and honey distilled in backyard copper stills represents the folk tradition.
+
+**Commercial history**: By the 19th century, folk production was widespread. The late 19th/early 20th centuries marked the transition to commercial production, with factories emerging around Plovdiv and Peshtera. Post-WWII, state-supported enterprises drove production, including the establishment of the **Peshtera distillery in 1947** — now Bulgaria's flagship mastika brand at 47% ABV.
+
+**Notable brands**: Mastika Peshtera (Bulgarian, 47% ABV), Grozd Strumica Mastika (North Macedonian, ~45% ABV, uses wine distillate, honey, and anise oil)
+
+**Serving**: Chilled neat or diluted with water/ice (louches like ouzo). Typically with meze, Shopska salad, or grilled meats. In Bulgaria, often mixed with *menta* (mint liqueur).
+
+---
+
+### Chinchon / Anis (Spanish)
+
+Spain's iconic anise spirit, produced since **1777** in the town of **Chinchon** near Madrid, which supplied the Royal Court. Chinchon holds EU geographic denomination certification since 1989.
+
+**Production**: Anise stalks are harvested each August, then macerated with water and neutral alcohol, and distilled in traditional copper stills. Only local plants are used, free from extraneous flavors. The primary anise is *Pimpinella anisum* (green/true anise), with additional anethole from fennel and *Illicium* species.
+
+**Varieties by sweetness**:
+| Style | Sugar | ABV | Character |
+|-------|-------|-----|-----------|
+| **Seco (Dry)** | Negligible | 45–50% (special dry: 74%) | Notable strength; sharp anise |
+| **Semi-seco** | 50–200 g/L | ~40% | Balanced |
+| **Dulce (Sweet)** | 200+ g/L | 35–38% | Clean sweetness, not cloying |
+
+**Other Spanish anis brands**: Anis del Mono (Badalona, near Barcelona; widely exported in sweet form), La Asturiana (dry, 48%)
+
+**Serving**: With ice (triggers louche to milky grey), mixed with brandy (*sol y sombra* — "sun and shadow"), or in coffee. Consumed at any time of day throughout Spain — "an indispensable part of the Spanish way of drinking."
+
+**Production scale**: La Alcoholera de Chinchon produces over 2 million bottles annually.
+
+---
+
+### Absinthe
 
 **Absinthe** (40–74% ABV): The "Green Fairy." Required botanicals: **grand wormwood** (*Artemisia absinthium*, source of thujone), **anise**, and **fennel**, plus typically hyssop, melissa, and other herbs. Historically banned in the early 20th century due to alleged psychoactive effects (now shown to be greatly exaggerated by temperance advocates). Legal again in most countries.
 - **Production**: Macerate botanicals in neutral spirit, then redistill. The distillate is clear ("blanche"). For green absinthe ("verte"), a second maceration with coloring herbs (petite wormwood, hyssop, melissa) produces the characteristic green color.
@@ -1918,6 +2256,145 @@ Freeze concentration raises proof by removing water as ice crystals. **Note:** T
 
 ---
 
+## 24. Baijiu (白酒) — Chinese Grain Spirits
+
+Baijiu is the most consumed spirit in the world by volume, with annual production exceeding 10 billion liters. It is a grain-based spirit produced through solid-state fermentation using qu (曲) fermentation starters, distilled in traditional zeng (甑) stills, and aged in ceramic vessels.
+
+### Raw Materials
+
+- **Sorghum** (gaoliang): The primary grain for most styles; contributes depth and body
+- **Wheat**: Used primarily for making daqu (the fermentation starter), not typically in the mash itself (except for strong-aroma multi-grain recipes)
+- **Rice and glutinous rice**: Used in multi-grain recipes and as the primary grain for rice-aroma baijiu
+- **Corn**: Used in multi-grain recipes (contributes sweetness)
+- **Barley and peas**: Used in low-temperature daqu production
+
+### Qu (曲) — Fermentation Starters
+
+Qu is the fermentation starter unique to Chinese spirits, serving as both saccharification agent and fermentation inoculant. Unlike koji (single-organism inoculation), qu is a complex open-fermented ecosystem containing molds, yeasts, and bacteria.
+
+**Types of qu:**
+
+| Type | Form | Production | Use |
+|------|------|-----------|-----|
+| **Daqu** (大曲, "large qu") | Large bricks (1-5 kg) | Wheat/barley/pea dough, spontaneously fermented 3-8 weeks, then matured 6+ months | Premium baijiu |
+| **Xiaoqu** (小曲, "small qu") | Small balls (~50g) | Rice powder with herbs, shorter incubation | Light styles, rice-aroma |
+| **Fuqu** (麸曲, "bran qu") | Loose bran | Wheat bran inoculated with pure Aspergillus cultures | Mass-market baijiu |
+
+**Daqu temperature classifications:**
+
+| Daqu Type | Peak Temperature | Baijiu Style | Representative Brands | Raw Materials |
+|-----------|-----------------|-------------|----------------------|---------------|
+| High-temperature | 60-70°C | Sauce-aroma (jiangxiang) | Moutai | Wheat |
+| Medium-temperature | 50-60°C | Strong-aroma (nongxiang) | Wuliangye, Luzhou Laojiao | Wheat |
+| Low-temperature | 40-50°C | Light-aroma (qingxiang) | Fenjiu, Erguotou | Barley and peas |
+
+**Daqu production**: Raw materials are roll-crushed, mixed with water, and pressed into brick shapes. Fresh bricks are incubated in a fermentation room for approximately 1 month, then matured in storage for 3-6 months before use. High-temperature daqu supports thermophilic microorganisms (*Bacillus*, *Thermoascus*) that produce pyrazines and other heat-derived flavor compounds. Low-temperature daqu favors *Saccharomyces*, *Lactobacillus*, and *Pediococcus* for cleaner profiles.
+
+**Key microorganisms in qu**: Filamentous fungi (*Rhizopus*, *Aspergillus*, *Mucor*), yeasts (*Saccharomyces*, *Candida*, *Hansenula*), and bacteria (acetic acid bacteria, lactic acid bacteria, *Bacillus* spp.).
+
+### Aroma Categories
+
+#### Strong-Aroma (浓香型, Nongxiang) — 68% Market Share
+
+**Key characteristics**: Fruity, complex, rich. The signature compound is **ethyl caproate** (ethyl hexanoate).
+
+**Production**:
+- **Continuous mud pit fermentation**: Sorghum (sometimes multi-grain) is fermented in earth-lined pits with mud walls and floors
+- **Fermentation duration**: 2-3 months per round (up to 6 months in winter)
+- **The virtuous cycle**: Top 20% of pit (driest, least flavorful) is removed and distilled. Remaining mash is mixed with fresh sorghum and qu, then returned to the pit. The pit mud absorbs and hosts microorganisms that improve with age
+- **Pit mud age**: High-quality production requires pits in continuous use for 20+ years. Wuliangye operates 30,000+ pits, the oldest over 600 years old. New pits need ~5 years to develop a stable ecosystem
+- **Ethyl caproate production**: *Clostridium* bacteria in pit mud convert lactic acid and ethanol to caproic acid, which esterifies with ethanol to form ethyl caproate
+- **Aging**: Raw distillates rest in ceramic or stainless steel vessels for 2-3+ years
+
+**Notable brands**: Wuliangye (five-grain), Luzhou Laojiao (1573 pits), Jiannanchun, Gujing Gongjiu, Yanghe
+
+#### Sauce-Aroma (酱香型, Jiangxiang)
+
+**Key characteristics**: Complex, layered, umami-rich. High levels of pyrazines, furans, acids, and amino compounds. Lower total ester content than strong-aroma but greater complexity.
+
+**The 12987 Process** (Moutai method):
+- **1** production cycle per year
+- **2** grain additions (fresh sorghum added only twice)
+- **9** steamings/cookings
+- **8** rounds of fermentation in stone-lined pits
+- **7** spirit collections (each round produces a different-character distillate)
+
+**Temperature parameters**:
+
+| Stage | Temperature |
+|-------|-----------|
+| High-temperature daqu production | 60-65°C peak (sustained >50°C for 50+ days) |
+| High-temperature stacking (floor piling) | ≥50°C (2-11 days) |
+| Stone pit fermentation | 35-48°C (typically 40-45°C) |
+| Cellar-entry temperature | 38-42°C |
+| Each fermentation round | ~30 days |
+
+**Aging**: Distillates from each of the 7 rounds are aged separately in ceramic urns for 3-5 years, then blended. Typically bottled at **53% ABV**.
+
+**Notable brands**: Moutai/Maotai (Kweichow), Langjiu
+
+#### Light-Aroma (清香型, Qingxiang)
+
+**Key characteristics**: Clean, dry, delicate. Emphasis on ethyl acetate (fruity, solvent-like at high levels) rather than ethyl caproate.
+
+**Production**:
+- Uses low-temperature daqu (barley and peas, 40-50°C)
+- Fermented in ceramic jars or stone-lined pits (not mud pits — avoids the complex flavors mud imparts)
+- Shorter fermentation (typically 14-28 days)
+- Cleaner, more austere production environment
+
+**Notable brands**: Fenjiu (Shanxi), Erguotou (Beijing — an affordable staple), Niulanshan
+
+#### Rice-Aroma (米香型, Mixiang)
+
+**Key characteristics**: Light, floral, honey-like. The most delicate baijiu style.
+
+**Production**:
+- Uses xiaoqu (small qu) as starter
+- Semi-liquid fermentation (unlike the solid-state process of other styles)
+- Rice is the primary grain
+- Short fermentation period
+- Typically distilled to lower ABV
+
+**Notable brands**: Guilin Sanhua (Guilin, Guangxi)
+
+#### Other Recognized Categories
+
+| Category | Chinese | Character | Example |
+|----------|---------|-----------|---------|
+| Phoenix-aroma | 凤香型 | Between strong and light | Xifeng |
+| Sesame-aroma | 芝麻香型 | Roasted sesame notes | Jingzhi |
+| Mixed-aroma | 兼香型 | Combines strong and sauce | Baihe |
+| Chi-aroma | 豉香型 | Fermented bean paste | Yubing Shao |
+| Te-aroma | 特香型 | Unique, rice-based | Sitefang |
+
+### Distillation
+
+Traditional baijiu distillation uses a **zeng** (甑), a vessel in which steam passes upward through a bed of solid fermented grain. This is distinct from Western distillation where a liquid is heated:
+
+1. Fermented grain (jiupei) is loaded loosely into the zeng
+2. Steam from a water boiler rises through the grain bed
+3. Alcohol and flavor compounds are carried upward by steam
+4. Vapors condense in a cooler (historically a shallow water-filled pan on top)
+5. Distillate exits at 37-45°C
+
+### Aging and Blending
+
+- Aged in **ceramic jars** (not wood barrels) — ceramic is non-reactive and does not impart wood flavors
+- Aging allows volatile harshness to dissipate and flavors to meld
+- Strong-aroma: 2-3 years minimum
+- Sauce-aroma: 3-5 years minimum
+- Master blenders combine distillates of different ages, rounds, and pit positions to create the final product
+- Bottling ABV ranges from 38% (light) to 65% (full-strength), with 52-53% being most common for premium baijiu
+
+### Serving
+
+- Traditionally served neat at room temperature in small cups (30-50 mL)
+- Consumed with food, often as toasts (*ganbei* — "dry cup")
+- Not typically mixed in cocktails (though craft cocktail use is growing internationally)
+
+---
+
 ## References
 
 - Hicks, Rachel and Andrew Parsons. *Craft Gin Making*. Crowood Press, 2021.
@@ -1939,3 +2416,8 @@ Freeze concentration raises proof by removing water as ice crystals. **Note:** T
 - [Wikipedia — Jenever](https://en.wikipedia.org/wiki/Jenever)
 - [Distillique Calculator Tools](https://distillique.co.za/distilling-calculators)
 - TTB (Alcohol and Tobacco Tax and Trade Bureau) regulations and Gauging Manual
+- [Frontiers in Microbiology — "Chinese Baijiu: The Perfect Works of Microorganisms"](https://www.frontiersin.org/articles/10.3389/fmicb.2022.919044/full) (2022)
+- [Drink Baijiu — "The Virtuous Cycle of Strong-aroma Baijiu"](https://drinkbaijiu.com/the-virtuous-cycle-of-strong-aroma-baijiu/)
+- [Alcademics — "Baijiu Production: Qu and Fermentation"](https://www.alcademics.com/2019/01/baijiu-production-qu-and-fermentation.html) (2019)
+- [Chemical & Engineering News — "What's baijiu?"](https://cen.acs.org/environment/food-science/What-s-baijiu-and-where-does-its-unique-flavor-come-from/96/i33) (2018)
+- Zheng et al. "Daqu — A Traditional Chinese Liquor Fermentation Starter." *Journal of the Institute of Brewing* 117:1 (2011)

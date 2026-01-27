@@ -25,6 +25,23 @@
 
 ## Recently Added (2025-01-27)
 
+- [x] **BIAB brewing module** (modules/biab-brewing.md, 654 lines, from web research — Brulosophy, AHA, BYO, HomeBrewTalk, BeerSmith)
+  - Equipment (kettle sizing, bag materials, pulley systems), water calculations (full-volume mash, grain absorption rates), finer crush (0.025-0.035"), mash parameters (thin mash effects, Briggs/Troester research), squeeze debate (tannin myth debunked with science), efficiency optimization (65-85%), sparge options (no-sparge, dunk, pour-over), high-gravity workarounds, BIAB with electric all-in-one systems
+
+- [x] **Smoked malts and smoked beer section** (added as §12 to modules/malt-science.md, from web research — BYO, Brülosophy, Frontiers in Microbiology)
+  - Smoke chemistry (guaiacol, 4-methylguaiacol, syringol, phenol, cresols), commercial smoked malts table (Weyermann beechwood/oak, Briess cherry/mesquite, peat), DIY smoking method, wood selection table (9 woods), smoked beer styles table (Rauchbier, Grätzer, Lichtenhainer, Smoked Porter, Helles, Bock), grain bill percentages, water chemistry (SO₄:Cl ratio 0.5-0.7), common mistakes
+
+- [x] **Baijiu section** (added as §24 to modules/distillation-science.md, from web research)
+  - Qu fermentation starters (daqu/xiaoqu/fuqu), daqu temperature classifications, four major aroma categories (strong-aroma 68% market share, sauce-aroma 12987 process, light-aroma, rice-aroma), five additional categories, zeng steam distillation, ceramic jar aging
+
+- [x] **Arrack and anise spirits expansion** (expanded §15 in modules/distillation-science.md, from web research — ~350 new lines)
+  - Louche effect chemistry (trans-anethole, Tyndall scattering, Ostwald ripening), arrack family (coconut/toddy, Batavia with ragi fermentation microbiology, Middle Eastern arak with triple distillation, regional variants), ouzo (EU PDO, 4-step production, 5 regional designations, brands), raki, pastis (Ricard process), sambuca, mastika, chinchon/anis
+
+- [x] **Korean and Japanese spirits module** (modules/korean-japanese-spirits.md, from web research — multiple sources per topic area)
+  - **Part 1 — Soju**: §S1 overview (world's best-selling spirit, traditional vs modern split), §S2 history (Mongol origins, 1965 rice ban, 1970s consolidation, ABV decline timeline, craft revival), §S3 traditional soju (nuruk-based pot distillation, notable brands: Andong, Hwayo, Samhae, Tokki, Won), §S4 modern diluted soju (KESC ethanol supply, production process, brands: Jinro/Chamisul/Chum Churum/Good Day, flavored variants, regional preferences), §S5 drinking culture (Confucian etiquette, pouring rules, somaek, anju, cocktail use), §S6 legal/regulatory (Korean Liquor Tax Law, 1998 WTO dispute, US TTB classification, California beer/wine license loophole, KORUS FTA)
+  - **Part 2 — Expanded Shochu** (supplements sake-science.md §10): §H1 honkaku vs korui detailed comparison (production process, legal requirements, konwa blended category), §H2 base ingredients (imo/mugi/kome/soba/kokuto character profiles, market shares, flavor notes), §H3 koji types and flavor impact (white/black/yellow, citric acid mash protection, yellow koji challenges, black koji revival), §H4 awamori (Thai indica rice, Aspergillus luchuensis, zen-koji-zukuri 100% koji process, single fermentation, kusu aging in clay pots, historical 200-300yr kusu, hanazake 60%), §H5 geographic indications (Satsuma/Kuma/Iki/Ryukyu requirements), §H6 serving styles (oyuwari/mizuwari/chuhai/maewari), §H7 shochu vs soju comparison table
+  - **Part 3 — Makgeolli**: §M1 overview (2000+ year history, market data), §M2 production (nuruk-based parallel saccharification/fermentation, onggi vessels, 1:1:0.1 recipe ratio, modern commercial divergence), §M3 fermentation science (parallel saccharification comparison with sake, key microorganisms including Saccharomycopsis fibuligera), §M4 finished product characteristics (appearance, carbonation, flavor, probiotic content), §M5 pasteurized vs unpasteurized/saeng (shelf life, storage, label reading), §M6 nuruk vs koji detailed comparison (preparation, microbial diversity, functional roles, Chinese qu parallel), §M7 flavored varieties and craft movement (Korea and international, defining "craft"), §M8 related beverages (takju, dongdongju, cheongju, yakju, relationship diagram)
+
 - [x] **Lager brewing science module** (modules/lager-science.md, from Noonan *New Brewing Lager Beer* 1996 + Hendler & Connolly *Modern Lager Beer* 2024)
   - §1 Lager Yeast Biology: S. pastorianus biology, comparison with ale yeast, common strains (34/70, Czech H-strain, Saaz), viability thresholds
   - §2 Lager Fermentation: temperature ranges with effects, 50°F ester inflection point, full fermentation timeline, modern/hybrid approaches (Human Robot, Suarez, Jack's Abby), sulfur management
@@ -422,7 +439,7 @@ Distillation module significantly expanded from *The Art of Distilling Whiskey a
 - [x] **Mezcal production** — Agave diversity, pit-roasting, the worm explained
 - [x] **Other agave spirits** — Raicilla, Bacanora, Sotol
 
-### Other World Spirits — PARTIALLY COMPLETED
+### Other World Spirits — COMPLETED (2025-01-27)
 - [x] **Aquavit** — Caraway dominant, linje aging; expanded with Norwegian vs Swedish/Danish styles
 - [x] **Absinthe** — Wormwood/anise/fennel, thujone controversy, modern status; expanded with production method, louching, service
 - [x] **Cachaça** — Full coverage under rum section
@@ -430,10 +447,10 @@ Distillation module significantly expanded from *The Art of Distilling Whiskey a
 - [x] **Poitín** — Added under Irish whiskey: traditional Irish spirit, production methods
 - [x] **Amaro** — Added under Liqueurs: bitter herbal liqueur, regional styles, production method
 - [x] **Slivovitz** — Added under Liqueurs: plum brandy, double distillation, regional traditions
-- [ ] **Baijiu** — Still needed (Chinese grain spirits, aroma categories)
+- [x] **Baijiu** — Comprehensive §24 added to distillation-science.md: qu fermentation starters (daqu/xiaoqu/fuqu), four major aroma categories (strong/sauce/light/rice with detailed production), five additional categories, zeng distillation, ceramic jar aging
 - [x] **Shochu** — Covered in modules/sake-science.md §10 (traditional kasu distillation, modern honkaku/korui)
-- [ ] **Soju** — Still needed (Korean distilled spirit)
-- [ ] **Arrack** — Still needed
+- [x] **Soju** — Comprehensive module added (modules/korean-japanese-spirits.md): history, traditional jeungryusik vs modern huiseoksik, brands, drinking culture, legal classification, cocktail use
+- [x] **Arrack** — Comprehensive coverage added to distillation-science.md: coconut/toddy arrack (Sri Lanka), Batavia arrack (Indonesia, ragi fermentation, Swedish punsch history), Middle Eastern arak (triple distillation, clay amphora aging), regional variants (Balinese, date, rice, Goa, lambanog)
 
 ### Spirit Finishing and Blending — COMPLETED (2025-01-26)
 - [x] **Cask types** — Ex-bourbon, ex-sherry effects covered in Scotch section
@@ -448,7 +465,7 @@ Distillation module significantly expanded from *The Art of Distilling Whiskey a
 
 ### Liqueurs and Other Spirits — COMPLETED (2025-01-25, expanded 2025-01-26)
 - [x] Liqueur production methods
-- [x] Anise spirits (pastis, absinthe, ouzo, sambuca)
+- [x] Anise spirits (pastis, absinthe, ouzo, sambuca) — massively expanded 2025-01-27: louche effect chemistry, full ouzo/raki/pastis/sambuca/mastika/chinchon sections, arrack family
 - [x] Bitters
 - [x] Schnapps
 - [x] Amaro — comprehensive: style taxonomy (8 categories), expanded production (4 techniques, base spirits, sweetening), fernet details, 4 seasonal DIY recipes, bittering agent table (14 agents), botanical safety warnings, cocktail table (8 classics)
