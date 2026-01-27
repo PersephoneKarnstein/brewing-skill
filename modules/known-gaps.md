@@ -23,6 +23,76 @@
 - [x] ~~Ethiopian T'ej and T'alla~~ — Full recipes added
 - [x] ~~Modern braggot variations~~ — Full recipe added (Brown Ale Base)
 
+## Recently Added (2025-01-27)
+
+- [x] **Lager brewing science module** (modules/lager-science.md, from Noonan *New Brewing Lager Beer* 1996 + Hendler & Connolly *Modern Lager Beer* 2024)
+  - §1 Lager Yeast Biology: S. pastorianus biology, comparison with ale yeast, common strains (34/70, Czech H-strain, Saaz), viability thresholds
+  - §2 Lager Fermentation: temperature ranges with effects, 50°F ester inflection point, full fermentation timeline, modern/hybrid approaches (Human Robot, Suarez, Jack's Abby), sulfur management
+  - §3 Decoction Mashing: triple, double, single, simplified decoction programs with temperatures and times, Hochkurz method, Czech vs German philosophy
+  - §4 Lagering: four purposes, duration-by-style table, Noonan's formula (7-12 days per 2°P), spunding with pressure thresholds
+  - §5 Diacetyl Rest: protocol, Czech lager considerations, oxygen management
+  - §6 Water Chemistry for Lagers: debunking soft-water myth via RA analysis, adjustment guidelines by style, acid malt
+  - §7 Lager Styles: 14-style table with OG/ABV/IBU, Czech vs German philosophy, historical attenuation changes (Paulaner Salvator 1853-2004)
+  - §8 Practical Lager Brewing: pitching rates, starter building, pitch-to-package schedules (traditional 6-10 week, accelerated 3-4 week), oxygenation
+  - §9 Troubleshooting: 12 common problems with causes and solutions
+  - §10-11 Quick Reference Tables and Key Principles
+
+- [x] **Malt and grain science module** (modules/malt-science.md, from Mallett *Malt: A Practical Guide* 2014 + Briggs *Malts and Malting* 1998)
+  - §1 Barley Biology: grain anatomy with weight percentages, starch structure (amylose vs amylopectin), two-row vs six-row comparison
+  - §2 Malting Process: steeping schedule, germination mechanics (gibberellin signaling), Kolbach Index, kilning phases with temperature tables
+  - §3 Malt Analysis: 14-parameter COA table, Hertrich's five categories, color measurement conversions
+  - §4-6 Base, Specialty/Crystal, and Roasted Malts: comprehensive tables with color ranges, character, usage rates
+  - §7 Alternative Grains: gelatinization temperature table (wheat, rye, oats, corn, rice, sorghum, millet, spelt, triticale)
+  - §8 Adjunct Sugars: 11-entry table with fermentability and flavor
+  - §9 Enzymatic Activity: 7-enzyme table (alpha/beta-amylase, limit dextrinase, proteases, phytase, beta-glucanase, lipoxygenase)
+  - §10 Grain Bill Design: 10-style framework, extract efficiency, PPG values, Morey color equation
+  - §11 Grain Handling: crush targets, conditioning, storage, stale malt detection
+
+- [x] **Water chemistry expansion** (modules/water-chemistry.md, from Palmer & Kaminski *Water: A Comprehensive Guide for Brewers*)
+  - Expanded from 390 to 807 lines
+  - Added: phosphate buffering system, Kolbach RA formula, Troester's grist ratio research, sparge water chemistry (pH 5.8 tannin threshold), lime softening (deLange 7-step procedure), acid types table, precise ion contribution table (per-gram-per-liter), salt calculation procedures, chalk ineffectiveness analysis (apatite trap), carbonate system depth, sulfate:chloride ratio refined guidelines (Kaminski's 6 rules), brewery process water, 6 additional academic references
+
+- [x] **Cleaning and sanitation module** (modules/cleaning-sanitation.md, from Five Star Chemicals, Craft Beer & Brewing, BYO, Northern Brewer, HomeBrewTalk)
+  - §1 Cardinal Rule: cleaning and sanitizing are separate sequential steps
+  - §2 Hot Side vs Cold Side: equipment tables with sanitation requirements
+  - §3 Cleaning Products: PBW specifications and concentration tables, OxiClean Free, Bar Keepers Friend
+  - §4 Sanitizing Products: Star San (dilution, pH, shelf life, cloudiness guidance), Iodophor, heat sanitization methods
+  - §5 Two-Step Process: clean then sanitize, alkali-acid sequence rationale
+  - §6 Equipment-Specific Procedures: plastic/glass/stainless fermenters, kegs, bottles, draft lines, plate/counterflow chillers
+  - §7 Brew Day Sanitation Workflow
+  - §8 Troubleshooting Infections: pellicle, sour/vinegar, band-aid, ropy beer, gushing, mold
+  - §9 Quick Reference: do's and don'ts
+
+- [x] **Kegging and draft systems module** (modules/kegging-draft.md, from Keg Outlet, Homebrew Academy, MoreBeer, Brülosophy, BYO)
+  - §1 Why Keg: advantages over bottling
+  - §2 Corny Kegs: ball lock vs pin lock vs Torpedo Keg, dimensions, capacities, inspection
+  - §3 CO2 Systems: tank sizes, regulators, secondary regulators, manifolds, safety
+  - §4 Line Sizing and Balancing: resistance formula (3/16" ID = 2.2 PSI/ft), balanced system examples
+  - §5 Forced Carbonation: set-and-forget, burst carbonation, shake method, temperature/pressure chart
+  - §6 Keezer/Kegerator Builds: sizing guide (7 cu ft = 4 kegs), build components, collar construction
+  - §7 Nitro Draft: 75/25 N2/CO2, stout faucet with restrictor plate, serving pressure (25-30 PSI)
+  - §8 Kegging Workflow: step-by-step from cleaning to serving
+  - §9 Maintenance: O-ring replacement, line cleaning, CO2 leak detection
+
+- [x] **Adjuncts and specialty ingredients module** (modules/adjuncts-ingredients.md, from BYO, Craft Beer & Brewing, Brülosophy, AHA, BeerSmith)
+  - §1 Overview: when to add adjuncts (boil, flameout, primary, secondary, packaging)
+  - §2 Fruit: 9 varieties (cherry, raspberry, blueberry, mango, peach, apricot, strawberry, blackberry, passion fruit) with quantities, preparation, timing
+  - §3 Coffee: 4 methods (cold brew concentrate, coarse grind, whole beans, cold steep), roast selection, quantity table
+  - §4 Chocolate/Cacao: cacao nibs (tincture method, de-fatting technique), cocoa powder, chocolate extract
+  - §5 Vanilla: 4 varieties (Madagascar, Tahitian, Mexican, Indonesian), preparation methods, dosing
+  - §6 Spices/Herbs: 15 entries with quantities and timing (cinnamon, ginger, coriander, orange peel, cardamom, clove, nutmeg, star anise, juniper, rose hips, hibiscus, lemongrass, chamomile, lavender, black pepper)
+  - §7 Other Specialty: coconut, lactose, maple syrup, peanut butter, chile peppers, honey, oak
+  - §8 General Best Practices: less-is-more, tincture testing, timing principles
+
+- [x] **Fermentation biochemistry reference** (resources/fermentation-biochemistry.md, from Hough et al *Malting and Brewing Science Vol. II* 1982)
+  - §1 Yeast Biology: EMP pathway key numbers, Crabtree effect, glycerol production (1.5-3.4 g/L), ester biosynthesis (acetyl-CoA mechanism, NOT chemical condensation), O2/ester relationship (2-4x increase at 3 vs 8 mg/L), fusel alcohol/Ehrlich pathway (amino acid correspondences, concentration tables by beer style), diacetyl/VDK metabolism (alpha-acetolactate excretion, 4% conversion rate, cleanup mechanism, thresholds), DMS (more produced at lower temps), sterol/fatty acid oxygen requirements, shock excretion
+  - §2 Fermentation Management: dissolved O2 ranges (5-15 mg/L top, 4-8 mg/L cylindroconical), pitching rates (10-15 × 10⁶ cells/mL), FAN requirements (150-400 mg/L), zinc (0.08 mg/L), vessel geometry effects, open vs closed fermentation, temperature profiles, pressure control
+  - §3 Beer Stability: haze composition (46-67% protein + 20-30% anthocyanogens), metal concentration in haze (Cu/Fe concentrated 4,000-80,000x), chill vs permanent haze mechanism, flavor staling (2-trans-nonenal threshold 0.11 ppb, oxygen sensitivity), light-struck flavor, acetaldehyde levels by style
+  - §4 Carbonation Science: CO2 solubility (Henry's Law), hydrostatic pressure (+0.5 vol/meter), supersaturation, dispense examples, natural conditioning, krausening
+  - §5 Beer Clarification: isinglass (collagen mechanism, optimal pH 4.4, max 2M cells/mL), gelatin, PVPP (16 g/hL removes 39% anthocyanogens), nylon 66, kieselguhr filtration (500 g/m² precoat, 100 g/hL body feed), centrifugation
+  - §6 Foam Science: foam-positive factors (proteins, iso-alpha-acids, unmalted cereals), foam-negative factors (lipids, detergents), CO2 vs nitrogen foam stability (4x faster collapse with CO2)
+  - §7 Packaging: O2 control, pasteurization (15-30 PU standard, PU formula), filling speeds (up to 2,000 bottles/min), shelf life factor priority ranking
+
 ## Recently Added (2025-01-26)
 
 - [x] **Hop science module** (modules/hop-science.md, from Hieronymus *For The Love of Hops* 2012, Poel *The Hops List* 2018, DiSorbo & Christiansen *The Book of Hops* 2021)
