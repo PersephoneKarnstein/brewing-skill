@@ -8,6 +8,10 @@
 
 ---
 
+> **IMPORTANT — Practical output format**: When recommending water adjustments for a recipe, always express additions as **masses or volumes of actual brewing salts and acids** (e.g., "add 4 g gypsum and 3 g calcium chloride to 7 gallons total water"), not as target ion concentrations in ppm. Target ppm values are useful for understanding water profiles, but a brewer standing at their kettle needs to know how many grams of gypsum to weigh out, not that they need "150 ppm sulfate." When providing water adjustment recommendations, include: (1) the salt/acid name, (2) the mass in grams (and teaspoons where helpful — 1 tsp gypsum ≈ 4 g, 1 tsp CaCl₂ ≈ 3.4 g), (3) the total water volume the addition applies to, and (4) when to add it (mash vs. sparge vs. boil). You may optionally include the resulting ion profile for reference, but the actionable addition amounts must come first.
+
+---
+
 ## 1. Why Water Chemistry Matters
 
 Water comprises up to 97% of a beer's volume, yet water quality is often overlooked. As Martin Brungard notes: "I know of a brewer who'd won several World Beer Cup gold medals for one particular beer but the rest of his beers were just terrible. When brewers pay a little bit of attention to their water then their full repertoire of beers improves tremendously."

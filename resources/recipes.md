@@ -370,6 +370,68 @@ A rich, creamy stout with Fuggle hops and lactose complementing bold malt flavor
 
 ---
 
+### White Cream Stout: The Great Pretender
+
+*Sources: Brulosophy "Great Deceiver" Golden Stout, Brewer's Friend blonde stout recipes, Keg Outlet white stout, HomeBrewTalk forum threads*
+
+A golden-colored cream stout that delivers coffee, chocolate, and vanilla character through post-fermentation additions rather than dark malts. Flaked oats, flaked barley, and lactose provide the creamy body; cacao nibs, coffee beans, and vanilla deliver the stout illusion. Expect puzzled reactions when tasters encounter dark stout flavors in a pale gold beer.
+
+| Parameter | Value |
+|-----------|-------|
+| Batch Size | 5 gallons (19 L) |
+| OG | 1.060 |
+| FG | ~1.018 |
+| ABV | ~5.5% |
+| IBU | ~25 |
+| SRM | 5–7 (gold) |
+
+**Grain Bill:**
+- 9.0 lb (4.1 kg) Maris Otter pale malt
+- 1.5 lb (680 g) Flaked oats
+- 1.0 lb (454 g) Flaked barley
+- 0.75 lb (340 g) **Lactose** (add to boil at 15 min)
+- 0.5 lb (227 g) Victory malt (toasty, biscuit notes)
+- 0.5 lb (227 g) Crystal 20°L
+- 0.25 lb (113 g) Carapils (Dextrine malt)
+
+**Hop Schedule:**
+| Hops | Amount | Time | AA% |
+|------|--------|------|-----|
+| Fuggle | 1.25 oz (35 g) | 60 min | ~4.5% |
+| East Kent Goldings | 0.5 oz (14 g) | 5 min | ~5.0% |
+
+**Yeast:** English ale yeast (WLP002 English Ale, Wyeast 1968 London ESB, or Lallemand London ESB). English strains leave residual sweetness and body that complement the cream stout character. US-05/WLP001 works for a cleaner version.
+
+**Post-Fermentation Additions** (add after primary fermentation is complete, ~5–7 days):
+- 4 oz (113 g) **cacao nibs** — toast at 350°F (177°C) for 10 minutes, cool, then soak in 2–3 oz vodka for 24 hours. Add nibs and vodka to fermenter in a sanitized mesh bag
+- 4 oz (113 g) **whole coffee beans** (medium roast) — add whole, unground, in a sanitized mesh bag. Do not crush; whole beans extract flavor without excessive bitterness or astringency
+- 1 **vanilla bean** — split lengthwise, scrape seeds, soak bean and seeds in 1 oz bourbon or vodka for 1–2 weeks. Add tincture at packaging
+
+**Contact Times:**
+- Cacao nibs: 5–7 days (taste daily after day 3; beyond 7 days can turn bitter)
+- Coffee beans: 24–48 hours only (coffee extracts quickly and turns acrid if left too long)
+- Vanilla tincture: add at packaging for clean vanilla note
+
+**Process:**
+1. Mash at 154°F (68°C) for 60 minutes — higher mash temp for fuller body
+2. Add rice hulls (0.5 lb) if concerned about a stuck sparge from the flaked grains
+3. 60-minute boil; add lactose at 15 minutes remaining
+4. Chill to 66°F (19°C), pitch yeast
+5. Ferment at 66–68°F (19–20°C) for 7 days
+6. Add cacao nibs in mesh bag; begin tasting at day 3
+7. Add coffee beans in separate mesh bag 24–48 hours before packaging
+8. Add vanilla tincture at packaging
+9. Carbonate to 2.2–2.4 volumes CO₂. Serve on **nitro** if possible — the cascading pour and creamy head amplify the stout illusion
+
+**Key tips:**
+- **Toast the oats**: For extra depth, spread flaked oats on a baking sheet and toast at 350°F (177°C) for 25–30 minutes before brew day. This adds a subtle roast/biscuit note without color
+- **Coffee bean selection**: A medium roast with chocolate or nutty tasting notes works best. Avoid dark/French roast, which can be harsh and ashy
+- **Cacao nibs**: Buy raw, unsweetened nibs. The vodka soak sanitizes and extracts fat (which can harm head retention). Discard the vodka soak liquid or add it — brewer's choice
+- **Water**: Target a chloride-forward profile (Cl:SO₄ ratio ~1.5:1) for malt sweetness emphasis. Add 4 g calcium chloride and 2 g gypsum per 5 gallons of total water
+- **Avoid peat or smoked malt**: Any dark specialty grain defeats the purpose of this style
+
+---
+
 ### American Brown Ale: Janet's Brown Ale
 
 *Source: [AHA - Janet's Brown Ale](https://homebrewersassociation.org/homebrew-recipe/janets-brown-ale-big-brew-2021/) by Mike "Tasty" McDole (Big Brew 2021, NHC Gold Medal)*
@@ -2110,6 +2172,7 @@ A medium-to-sweet still metheglin with layers of complexity that evolve over yea
 | Irish Dry Stout | Bru'n Dry Stout | 3.9% | 36 |
 | Milk/Cream Stout | Left Hand Clone | 7.0% | 19 |
 | Cream Stout | Korova Cream Stout | 5.9% | 25 |
+| White Cream Stout | The Great Pretender | 5.5% | 25 |
 | American Porter | Gordon Strong's Porter | 6.1% | 34 |
 
 ### Lagers
