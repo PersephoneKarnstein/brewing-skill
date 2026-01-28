@@ -788,7 +788,200 @@ Water sources change throughout the year and with climate conditions:
 
 ---
 
-## 13. Recommended Reading
+## 13. Water Chemistry for Distilling
+
+While brewing water chemistry focuses on mash pH and flavor ion balance, distilling has distinct requirements at each stage of production. Water is used in mashing, fermentation, and — most critically — proofing/dilution, where it can comprise **50–60% or more** of the final bottled spirit.
+
+### Sources
+
+- [Water | Distiller Magazine](https://distilling.com/distillermagazine/water/)
+- [Mash Chemistry 101 | Distiller Magazine](https://distilling.com/distillermagazine/mash-chemistry-101/)
+- [The Fuss Over Water | Distiller Magazine](https://distilling.com/distillermagazine/the-fuss-over-water/)
+- [Water, Distilled | Artisan Spirit Magazine](https://www.artisanspiritmag.com/blog-posts/water-distilled-3)
+- [Fine Tuning Water | Murphy and Son](https://www.murphyandson.co.uk/fine-tuning-water-tips-for-crafting-exceptional-spirits/)
+- [Water: It's More Than Just H's and O's | Spirits & Distilling](https://www.spiritsanddistilling.com/water-it-s-more-than-just-hs-and-os)
+- [How Water Affects Whiskey | Distiller](https://distiller.com/articles/water-affects-whiskey)
+- [Glenora Distillery: Water in Whisky Production](https://www.glenoradistillery.com/our-blog/2024/3/22/water-in-whisky-production)
+- [How Water Affects the Quality of Vodka | Nemiroff](https://nemiroff.vodka/en-uk/about-vodka-en-uk/how-water-affects-the-quality-of-vodka/)
+- [What is Louching | Everglow Spirits](https://everglowspirits.com/what-is-louching-exploring-gins-cloudy-secret/)
+
+### Key Differences from Brewing
+
+| Stage | Brewing | Distilling |
+|-------|---------|------------|
+| **Mash water** | Detailed ion profiles for flavor | Primarily enzyme/yeast support; flavor compounds distill over |
+| **Fermentation** | Moderate mineral needs | Similar to brewing |
+| **Final product water** | N/A | Proofing water is 50–60%+ of bottled spirit; critical for clarity and mouthfeel |
+
+The distillation process strips most minerals from the spirit, so mash water mineral content has less direct flavor impact than in brewing. However, minerals still affect enzyme activity and yeast health during mashing and fermentation.
+
+### 13.1 Mash Water for Distilling
+
+**Target mash pH: 5.2–5.8** (optimum 5.4) — identical to brewing.
+
+Above pH 5.8, starch conversion slows significantly. Below pH 5.0, amylase enzymes stop working altogether.
+
+#### Recommended Mash Water Parameters
+
+| Parameter | Target | Notes |
+|-----------|--------|-------|
+| **pH** | 5.2–5.8 (5.4 optimum) | Adjust with lactic acid if too alkaline |
+| **Calcium** | 40–70 ppm (up to 150 ppm) | Stabilizes α-amylase; supports yeast; >250 ppm may inhibit Mg uptake |
+| **Magnesium** | ≤40 ppm | Critical for yeast health, fermentation speed, ethanol tolerance |
+| **Alkalinity (as CaCO₃)** | ≤50 ppm (max 100 ppm) | Low alkalinity allows pH control |
+| **Zinc** | ≤0.05 ppm | Essential for yeast reproduction and alcohol dehydrogenase |
+| **Chlorine/Chloramine** | 0 ppm | Damages yeast; creates off-flavors; remove with carbon filter or metabisulfite |
+| **Iron** | <0.3 ppm | Corrodes stainless; causes black, bitter spirits |
+| **Nitrate** | <10 ppm | Converts to nitrite during fermentation, impairing yeast |
+| **Geosmin** | <0.006 ppm | Earthy compound; impossible to remove post-production |
+
+**pH adjustment**: Use lactic acid to lower pH. It "ensures that your yeast works efficiently, leading to a more predictable and clean fermentation process."
+
+**Calcium chloride** can be added to adjust water hardness — calcium promotes yeast health and "enhances the body and mouthfeel of the spirit, making it smoother and more balanced."
+
+#### Enzyme Activity in Distilling Mashes
+
+For distilling, **β-amylase** (optimal at 64°C / 147°F) is prioritized over α-amylase because distillers want maximum fermentable sugar yield. Unlike brewers, distillers often skip boiling the wort to preserve secondary enzymes (limit dextrinase, amyloglucosidase) that continue converting starches during fermentation — boosting fermentability by up to 15%.
+
+### 13.2 Regional Water Effects on Whiskey
+
+Research by Dr. Craig Wilson (master blender, Diageo) demonstrated measurable sensory differences based on source water:
+
+| Water Type | Spirit Character |
+|------------|------------------|
+| **Soft water** (Speyside) | Heavier spirits |
+| **Hard water** (Islay, Highlands) | Lighter, sweeter spirits |
+| **High organic matter, low minerals** | More esters (fruity flavors) |
+
+**Kentucky limestone water**: The "bourbon's secret ingredient" claim has some basis. Limestone-filtered water deposits calcium and magnesium while naturally removing iron (which would otherwise cause black, bitter spirits). This makes it well-suited for mashing — but unsuitable for proofing.
+
+### 13.3 Proofing and Dilution Water
+
+Proofing water is the most critical water in distilling. It constitutes **50–60% or more** of the final bottled product at standard 40% ABV, directly affecting flavor, mouthfeel, and clarity.
+
+#### Golden Rule
+
+**Use RO or deionized water for proofing.** This is the industry standard for good reason:
+
+- As little as **2 ppm calcium** can cause precipitation in the final product
+- Calcium and sulfate cause cloudiness even at very low concentrations
+- Hard water causes haze from mineral interactions
+- β-sitosterol (from barrel aging) can interact with minerals to precipitate
+
+#### Proofing Water Requirements
+
+| Parameter | Target | Why |
+|-----------|--------|-----|
+| **TDS (Total Dissolved Solids)** | <10 ppm (ideally 0) | Prevents haze, precipitation, off-flavors |
+| **Calcium** | <2 ppm | Causes precipitation |
+| **Sulfate** | Near 0 | Causes haze |
+| **pH** | Neutral to slightly alkaline | Affects perceived smoothness |
+
+#### Treatment Methods
+
+| Method | Use | Notes |
+|--------|-----|-------|
+| **Reverse Osmosis (RO)** | Proofing water | Industry gold standard; removes minerals, bacteria, additives; produces ~2–6 gal waste per 1 gal product |
+| **Deionization** | Proofing water | Removes all minerals via ion-exchange resins; creates chemically pure water |
+| **Activated Carbon** | Chlorine removal | Preserves natural minerals; ~32,000 sq ft surface area per gram; less effective at removing fluoride |
+
+**RO membrane performance**: Manufacturers claim 98% salt rejection with new membranes, but 92–95% is more realistic. If your source water has 1000 ppm TDS, expect ~50 ppm TDS in the product water.
+
+#### Dilution Process
+
+Some distillers add water gradually, allowing the spirit to rest between additions. This prevents **saponification** — where water brings fats or oils out of suspension, giving the whiskey a soapy taste.
+
+After dilution, many distillers allow the spirit to **rest** (days to weeks) so water and alcohol fully integrate, smoothing flavor and enhancing mouthfeel.
+
+### 13.4 Vodka: Where Water Matters Most
+
+Vodka is approximately **60% water** by volume, making proofing water quality paramount. The spirit is distilled to near-neutral (often 95–96% ABV), so water character dominates the final product.
+
+#### Water Effects on Vodka
+
+| Water Type | Effect |
+|------------|--------|
+| **Soft water** | Silky texture; smooth mouthfeel; prevents haze |
+| **Mineral-rich water** | Adds thickness and density; "heavy" feel |
+| **High calcium/magnesium** | "Hard" taste |
+| **Trace metals** | Undesirable bitterness |
+| **Sodium (trace)** | Can enhance and "open up" flavor at very low levels |
+
+**Premium vodka producers** typically use:
+- **Artesian water**: Naturally filtered through soil/rock; consistent purity
+- **Spring water**: Naturally soft with balanced minerals
+- **RO/deionized water**: Maximum purity; may require reintroducing trace minerals for texture
+
+#### pH Considerations for Vodka
+
+The pH of proofing water influences perceived smoothness. While ethanol is slightly acidic, **neutral to slightly alkaline proofing water** (pH 7.0–8.0) is generally preferred for high-quality vodka.
+
+### 13.5 Gin: Botanical Interactions and Louching
+
+Gin proofing water affects not only clarity and mouthfeel but also how botanicals integrate over time.
+
+#### Water pH Experiment (Distiller Magazine)
+
+A controlled study tested six water sources (pH 5.46–8.4) for identical gin production. Results:
+
+| Water Source | pH | Outcome |
+|--------------|-----|---------|
+| Demineralized | 7.0 | Full-bodied; good botanical integration |
+| France | 5.46 | Good results |
+| Germany | 7.1 | Good results |
+| Fiji | 7.7 | Good results |
+| Iceland | 8.4 | Poorest result — "very short flavor profile," "cloying texture," "rather hot" finish |
+
+**Key finding**: Samples showed **increased flavor differences over six months** of storage, suggesting mineral content affects how gin evolves in the bottle.
+
+#### Louching (Cloudiness)
+
+**Louching** occurs when a clear spirit turns cloudy upon dilution or chilling. In gin, this happens because aromatic compounds — primarily terpenes like limonene, pinene, and camphene from botanicals — are soluble in high-proof alcohol but become insoluble as ABV drops or temperature falls.
+
+**Science**: As ethanol concentration decreases and water molecules cluster more tightly, hydrophobic terpenes aggregate into microscopic droplets (100–500 nanometers) that scatter light, producing cloudiness.
+
+**Mineral-induced louching**: Dissolved solids in proofing water (particularly calcium and magnesium carbonates from hard water) can cause or worsen louching by reacting with fatty acids to form insoluble compounds.
+
+| Cause | Solution |
+|-------|----------|
+| Oil-based (botanical terpenes) | Bottle at higher proof; larger heads cut; chill filter; add neutral spirit drop-by-drop to re-dissolve |
+| Mineral-based (hard water) | Use RO or distilled water for proofing |
+
+**Louching is not a defect** — it indicates flavor-rich distillate. It's reversible: warming the spirit restores clarity as terpenes redissolve.
+
+### 13.6 Distilling Water Quick Reference
+
+#### Mash Water Targets
+
+| Ion | Target | Max |
+|-----|--------|-----|
+| Calcium | 40–70 ppm | 150 ppm |
+| Magnesium | 10–30 ppm | 40 ppm |
+| Alkalinity (CaCO₃) | ≤50 ppm | 100 ppm |
+| Chlorine | 0 | 0 |
+| Iron | 0 | 0.3 ppm |
+
+#### Proofing Water Targets
+
+| Parameter | Target |
+|-----------|--------|
+| TDS | <10 ppm |
+| Calcium | <2 ppm |
+| All minerals | Near zero |
+
+#### Spirit-Specific Considerations
+
+| Spirit | Water Notes |
+|--------|-------------|
+| **Whiskey** | Mash water minerals affect fermentation character; use RO for proofing |
+| **Vodka** | Proofing water is 60% of product; soft water for silky texture |
+| **Gin** | Avoid high-pH water (>8); mineral content affects botanical integration over time |
+| **Rum** | Similar to whiskey; mash water less critical than proofing |
+| **Brandy** | Proofing water quality critical; usually RO |
+
+---
+
+## 14. Recommended Reading
 
 - Palmer, John and Colin Kaminsky. *Water: A Comprehensive Guide for Brewers*. Brewers Publications.
 - Brungard, Martin. [Bru'n Water](https://www.brunwater.com) — Free spreadsheet and extensive water knowledge base
@@ -796,7 +989,9 @@ Water sources change throughout the year and with climate conditions:
 
 ---
 
-## References
+## 15. References
+
+### Brewing References
 
 - Brungard, Martin. Bru'n Water spreadsheet and documentation. brunwater.com
 - Precision Fermentation. *Water Chemistry for Brewers: Key Considerations for Quality and Consistency*. 2022.
@@ -809,3 +1004,17 @@ Water sources change throughout the year and with climate conditions:
 - De Clerck, Jean. *A Textbook of Brewing*. Vol. 1. Siebel Institute, Chicago, 1994.
 - Kunze, Wolfgang. *Technology Brewing and Malting*. International Edition. BLB Berlin, 1999.
 - Bamforth, Charles. "pH in Brewing: An Overview." *MBAA Technical Quarterly* 38(1): 2-9, 2001.
+
+### Distilling References
+
+- "Water." *Distiller Magazine*. https://distilling.com/distillermagazine/water/
+- "Mash Chemistry 101." *Distiller Magazine*. https://distilling.com/distillermagazine/mash-chemistry-101/
+- "The Fuss Over Water." *Distiller Magazine*. https://distilling.com/distillermagazine/the-fuss-over-water/
+- "Water, Distilled." *Artisan Spirit Magazine*. https://www.artisanspiritmag.com/blog-posts/water-distilled-3
+- "Fine Tuning Water: Tips for Crafting Exceptional Spirits." Murphy and Son. https://www.murphyandson.co.uk/fine-tuning-water-tips-for-crafting-exceptional-spirits/
+- "Water: It's More Than Just H's and O's." *Spirits & Distilling*. https://www.spiritsanddistilling.com/water-it-s-more-than-just-hs-and-os
+- "How Water Affects Whiskey." Distiller. https://distiller.com/articles/water-affects-whiskey
+- "Water in Whisky Production." Glenora Distillery, 2024. https://www.glenoradistillery.com/our-blog/2024/3/22/water-in-whisky-production
+- "How Water Affects the Quality of Vodka." Nemiroff. https://nemiroff.vodka/en-uk/about-vodka-en-uk/how-water-affects-the-quality-of-vodka/
+- "What is Louching: Exploring Gin's Cloudy Secret." Everglow Spirits. https://everglowspirits.com/what-is-louching-exploring-gins-cloudy-secret/
+- Wilson, Dr. Craig (Diageo). Research on regional water effects on Scotch whisky character, cited in multiple sources.
