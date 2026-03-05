@@ -23,6 +23,7 @@
 | [modules/legal-considerations.md](modules/legal-considerations.md) | Legal requirements: US federal/state laws, international distillation, competition labeling. |
 | [modules/recipe-modification.md](modules/recipe-modification.md) | Recipe modification: formulas for ABV, IBU, SRM, gravity, scaling, mash, carbonation, water chemistry. |
 | [modules/distillation-calculations.md](modules/distillation-calculations.md) | Distillation calculations: sugar wash, yield, dilution, proofing, blending, Pearson's Square, cuts, column design. |
+| [modules/barleywine.md](modules/barleywine.md) | Barleywine brewing: style definition (English/American), malt bills (85-100% pale, Maris Otter), hops (high-alpha bittering, utilization adjustment), yeast (alcohol tolerance, pitching rates), water chemistry (Burton historical, modern profiles), process (extended mash, 2-2.5hr boil, cold aging), wood aging, troubleshooting, recipes (Allen & Cantwell). |
 | [modules/known-gaps.md](modules/known-gaps.md) | Track missing evidence, unresolved questions, and validation tasks. |
 | [modules/research-checklist.md](modules/research-checklist.md) | Required web research workflow for keeping information current. |
 | [resources/recipes.md](resources/recipes.md) | Curated recipes: IPAs, stouts, porters, pilsners, hefeweizen, and meads. |
